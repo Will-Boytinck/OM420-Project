@@ -1,0 +1,3560 @@
+Basket # 2 for 9039638315:
+========================================================
+TILL_RECEIPT_NUMBER: 124827
+TRANSACTION_DATE: 2014-04-01 00:00:00
+TOSTITOS CHIPS SCOOPS | 1 | 4.99 | 3.65 | 1 | 
+DL SOUR CREAM 14% | 1 | 2.49 | 2.11 | 3 | 
+DL SOUR CREAM 14% | 1 | 1.51 | 2.11 | 3 | 
+========================================================
+Basket # 2 for 9039636044:
+========================================================
+TILL_RECEIPT_NUMBER: 108695
+TRANSACTION_DATE: 2014-04-01 00:00:00
+SALAD BAR | 1 | 12.0 | 12.0 | 97 | 
+FRESH SALAD BAR SMALL | 0 | 4.6 | 4.6 | 97 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ORANGINA SPARKLING ORANGE | 1 | 0.99 | 0.68 | 1 | 
+========================================================
+Basket # 2 for 9039636608:
+========================================================
+TILL_RECEIPT_NUMBER: 144071
+TRANSACTION_DATE: 2014-04-01 00:00:00
+BLISTEX COMPLET MOIST LIP BLAM | 1 | 3.19 | 1.98 | 50 | 
+========================================================
+Basket # 2 for 9039636183:
+========================================================
+TILL_RECEIPT_NUMBER: 143890
+TRANSACTION_DATE: 2014-04-01 00:00:00
+MUFFINS DBL CHOCOLATE CHIP | 1 | 5.29 | 0.01 | 41 | 
+CAKE DONUTS SUGAR | 1 | 5.99 | 0.01 | 41 | 
+========================================================
+Basket # 2 for 9039640165:
+========================================================
+TILL_RECEIPT_NUMBER: 144038
+TRANSACTION_DATE: 2014-04-01 00:00:00
+LAYS CHIPS CLASSIC FMLY SZ | 1 | 4.19 | 2.85 | 1 | 
+LAY CHIPS DILL PCKL FMLY | 1 | 4.19 | 2.85 | 1 | 
+POTATOES WHITE BULK | 2 | 3.96 | 2.25 | 31 | 
+DL SOUR CREAM 14% | 1 | 2.49 | 2.11 | 3 | 
+========================================================
+Basket # 2 for 9039683220:
+========================================================
+TILL_RECEIPT_NUMBER: 143984
+TRANSACTION_DATE: 2014-04-01 00:00:00
+Grocery | -1 | -16.8 | -9.43 | 1 | 
+========================================================
+Basket # 2 for 9039640448:
+========================================================
+TILL_RECEIPT_NUMBER: 216126
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KRAFT CHS TEX MEX SHRED | 1 | 8.89 | 6.65 | 3 | 
+PEPSI | 1 | 5.89 | 4.75 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.6 | 0.6 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+COUNTRY TIME LEMONADE SINGLES | 1 | 4.99 | 3.15 | 1 | 
+TOSTITOS CHIPS RESTAURANT STYLE | 1 | 2.57 | 2.5 | 1 | 
+TOSTITOS CHIPS SCOOPS | 1 | 2.57 | 2.5 | 1 | 
+========================================================
+Basket # 2 for 999999999999999:
+========================================================
+TILL_RECEIPT_NUMBER: 215941
+TRANSACTION_DATE: 2014-04-01 00:00:00
+SINUTAB SINUS + ALLERGY | 1 | 8.99 | 6.25 | 50 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ROCHER T-3 TRI PACK | 1 | 1.99 | 1.29 | 74 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+AQUAFINA WATER NATURAL SPRING | 1 | 2.49 | 1.07 | 1 | 
+========================================================
+Basket # 2 for 777030000000980:
+========================================================
+TILL_RECEIPT_NUMBER: 108715
+TRANSACTION_DATE: 2014-04-01 00:00:00
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+CHICKEN POT PIE | 1 | 4.49 | 2.27 | 94 | 
+CINNAMON BUN CREAM CHEESE WITH GST | 1 | 1.5 | 23.65 | 41 | 
+BOTTLE DEPOSIT | -1 | -0.1 | -0.1 | 7 | 
+ECOLOGY CHARGE | -1 | -0.01 | -0.01 | 6 | 
+DL MILK2GO CHOCOLATE RSUGAR | -1 | -0.99 | -1.32 | 3 | 
+DL MILK2GO CHOCOLATE RSUGAR | 1 | 0.99 | 1.32 | 3 | 
+DL MILK2GO CHOCOLATE RSUGAR | 1 | 0.99 | 1.32 | 3 | 
+========================================================
+Basket # 2 for 777030000000988:
+========================================================
+TILL_RECEIPT_NUMBER: 108808
+TRANSACTION_DATE: 2014-04-01 00:00:00
+Grocery | 1 | 7.0 | 7.0 | 1 | 
+========================================================
+Basket # 2 for 777030000001203:
+========================================================
+TILL_RECEIPT_NUMBER: 144069
+TRANSACTION_DATE: 2014-04-01 00:00:00
+FRESON BROS WATER REFILL | 7 | 20.93 | 14.0 | 130 | 
+========================================================
+Basket # 2 for 9039634386:
+========================================================
+TILL_RECEIPT_NUMBER: 215964
+TRANSACTION_DATE: 2014-04-01 00:00:00
+SCHNEIDERS BOLOGNA B/R REG SLICED | 1 | 6.99 | 3.78 | 28 | 
+DL CLASS VAN YGRT MANGO | 1 | 3.59 | 2.81 | 3 | 
+SCHNEIDERS MAC + CHEESE LOAF SLCD | 1 | 3.99 | 2.11 | 28 | 
+O DUTCH RIP-L CRMY DILL | 1 | 3.49 | 2.8 | 1 | 
+O DUTCH CHIPS RIP-L | 1 | 3.49 | 2.8 | 1 | 
+DL CLASS VAN YGRT RASPBERRY | 1 | 3.59 | 2.81 | 3 | 
+DL CLASS VAN YGRT S/B | 1 | 3.59 | 2.81 | 3 | 
+HEINZ BEANS IN TOMATO SAUCE | 1 | 1.29 | 0.99 | 1 | 
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.85 | 31 | 
+HEINZ BEANS IN TOMATO SAUCE | 1 | 1.29 | 0.99 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 2.36 | 30 | 
+========================================================
+Basket # 2 for 9039632600:
+========================================================
+TILL_RECEIPT_NUMBER: 216134
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KRAFT DINNER CUP ORIGINAL | 1 | 1.59 | 1.01 | 1 | 
+KRAFT DINNER CUP 3 CHEESE | 1 | 1.59 | 1.01 | 1 | 
+COMP BREAD 100% WHL/WHEAT | 1 | 2.19 | 1.55 | 1 | 
+COMP BREAD 100% WHL/WHEAT | 1 | 1.81 | 1.55 | 1 | 
+========================================================
+Basket # 2 for 9039627147:
+========================================================
+TILL_RECEIPT_NUMBER: 108721
+TRANSACTION_DATE: 2014-04-01 00:00:00
+FRESH SALAD BAR SMALL | 0 | 3.3 | 3.3 | 97 | 
+COFFEE AND CINNAMON BUN | 1 | 2.5 | 2.5 | 83 | 
+COFFEE SMALL | 1 | 1.25 | 1.25 | 83 | 
+========================================================
+Basket # 2 for 9036918783:
+========================================================
+TILL_RECEIPT_NUMBER: 108780
+TRANSACTION_DATE: 2014-04-01 00:00:00
+ARIZONA TEA RASPBERRY | 1 | 0.89 | 0.7 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+O DUTCH RIPL SRCRM+ON | 1 | 1.49 | 1.05 | 1 | 
+COW TALES CHEWY CHOC BAR | 1 | 0.79 | 0.34 | 1 | 
+========================================================
+Basket # 2 for 9036905045:
+========================================================
+TILL_RECEIPT_NUMBER: 215899
+TRANSACTION_DATE: 2014-04-01 00:00:00
+TETLEY GREEN TEA | 1 | 3.99 | 2.78 | 1 | 
+FLEISHMAN YEAST QUICK RISE | 1 | 2.89 | 1.54 | 1 | 
+FOIL LOAF PANS | 1 | 2.99 | 1.25 | 71 | 
+========================================================
+Basket # 2 for 9037203226:
+========================================================
+TILL_RECEIPT_NUMBER: 175334
+TRANSACTION_DATE: 2014-04-01 00:00:00
+SIGNAL BATH TISSUE DBL | 1 | 5.99 | 3.65 | 1 | 
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+DL MILK CHOCOLATE | 1 | 5.19 | 6.43 | 3 | 
+DL MILK CHOCOLATE | 1 | 5.19 | 6.43 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+========================================================
+Basket # 2 for 9033393483:
+========================================================
+TILL_RECEIPT_NUMBER: 215977
+TRANSACTION_DATE: 2014-04-01 00:00:00
+MOTTS FRUITSATION+VEGS | 1 | 2.99 | 2.18 | 1 | 
+COMP S PORK BACK RIBS | 1 | 11.29 | 8.13 | 4 | 
+COMP S PORK BACK RIBS | 1 | 11.29 | 8.13 | 4 | 
+COMP S PORK BACK RIBS | 1 | 6.22 | 8.13 | 4 | 
+CP CHAMPANADE N/A RED | 1 | 4.67 | 3.48 | 1 | 
+CP CHAMPANADE N/A RASPBERRY | 1 | 4.67 | 3.48 | 74 | 
+PRIMO BEANS MIXED | 1 | 1.79 | 1.11 | 1 | 
+PRIMO BEANS BLACK | 1 | 1.21 | 1.11 | 1 | 
+PRIMO BEANS MIXED | 1 | 0.76 | 1.11 | 1 | 
+MOTTS FRUITSATION+VEGS | 1 | 2.09 | 2.18 | 1 | 
+PRIMO BEANS BLACK | 1 | 1.34 | 1.11 | 1 | 
+EYE OF ROUND FRNCH STY STK | 1 | 16.37 | 9.52 | 20 | 
+SIRLOIN TIP OVEN ROAST WP | 1 | 26.97 | 9.4 | 20 | 
+TRAY BUNS | 1 | 1.39 | 0.01 | 44 | 
+BNLS PORK CHOPS CC WHS | 1 | 18.31 | 5.73 | 21 | 
+TRAY BUNS | 1 | 1.99 | 0.01 | 44 | 
+MCCAIN HASHBROWNS | 1 | 2.49 | 2.32 | 4 | 
+MCCAIN HASHBROWNS | 1 | 1.75 | 2.32 | 4 | 
+ALPINE ICE CREAM COUPON | 5 | -5.99 | -5.99 | 4 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+COMP ICE CREAM CONES VAN | 1 | 8.49 | 7.11 | 4 | 
+COMP I/CRM SANDWICHES | 1 | 9.94 | 8.25 | 4 | 
+CP CHAMPANDE ICE | 1 | 5.94 | 3.86 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+LANDMARK MILK 1% 2% SKIM CPN | 1 | -1.67 | -1.67 | 3 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+SEA SALT REFILL | 1 | 2.97 | 1.9 | 71 | 
+MANTOVA GRLC GRND AROMA | 1 | 5.94 | 3.63 | 1 | 
+COMP BUTTER SALTED. | 1 | 3.99 | 4.04 | 3 | 
+COMP BUTTER SALTED. | 1 | 2.79 | 4.04 | 3 | 
+HEINZ KETCHUP FAMILY SIZE | 1 | 5.01 | 5.48 | 1 | 
+KIKKOMAN SOYA SAUCE | 1 | 2.8 | 2.1 | 1 | 
+BANANAS | 1 | 2.18 | 1.8 | 30 | 
+EGGS LARGE | 1 | 3.82 | 3.81 | 3 | 
+ALPINE I/CREAM STRAW RIPPLE | 1 | 5.09 | 4.97 | 4 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+LANDMARK MILK 2% JUG | 1 | 3.97 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 9032938035:
+========================================================
+TILL_RECEIPT_NUMBER: 175111
+TRANSACTION_DATE: 2014-04-01 00:00:00
+DL MILK 2 GO VAN VIBE | 1 | 0.99 | 1.32 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+HARVEST KITCHEN | 1 | 1.99 | 0.01 | 46 | 
+========================================================
+Basket # 2 for 9032180113:
+========================================================
+TILL_RECEIPT_NUMBER: 175197
+TRANSACTION_DATE: 2014-04-01 00:00:00
+CAPITAL PKRS SAUSAGE UKRAINIAN | 1 | 3.69 | 2.17 | 28 | 
+COMP POTATO STUFFED BKD 3 CHEE | 1 | 6.49 | 4.3 | 4 | 
+COMP CHED + MOZZA P/S SHRED | 1 | 5.99 | 4.31 | 3 | 
+ALMDFRSH BEVERAGE VAN | 1 | 4.49 | 3.7 | 3 | 
+DL SOUR CREAM 14% | 1 | 2.49 | 2.11 | 3 | 
+DL COTTAGE CHS 2% | 1 | 3.57 | 3.28 | 3 | 
+CHEEMO PEROGY POTATO CHEDDAR | 1 | 3.77 | 2.39 | 4 | 
+CHEESE STICKS | 1 | 4.99 | 0.01 | 44 | 
+CRF GLASS SINGLE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT GLASS SINGLE | 1 | 0.1 | 0.1 | 7 | 
+FURLANI TOAST CHEDDAR GARLIC | 1 | 5.49 | 3.66 | 4 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+SNAPPLE COCKTAIL KIWI STRAW | 1 | 1.99 | 0.97 | 1 | 
+========================================================
+Basket # 2 for 9038231385:
+========================================================
+TILL_RECEIPT_NUMBER: 82987
+TRANSACTION_DATE: 2014-04-01 00:00:00
+LIPTON SOUP ONION/RSTD GARLIC | 1 | 1.69 | 1.31 | 1 | 
+NATURE V BARS CRUNCHY PEANUT B | 1 | 3.22 | 2.16 | 1 | 
+KOOL-AID JAMMERS ORANGE | 1 | 2.97 | 2.72 | 1 | 
+CUCUMBERS ENGLISH | 1 | 1.44 | 0.85 | 31 | 
+OLYMEL REGULAR BOLOGNA | 1 | 6.42 | 3.99 | 92 | 
+OLYMEL REGULAR BOLOGNA | 1 | 4.63 | 3.99 | 92 | 
+LEAN GRND BEEF FP | 1 | 10.02 | 7.05 | 20 | 
+BOTTLE DEPOSIT | 1 | 1.0 | 1.0 | 7 | 
+PEEPS BUNNIES PINK. | 1 | 1.52 | 1.05 | 74 | 
+KRAFT DINNER SHARP CHEDDAR | 4 | 4.25 | 5.6 | 1 | 
+DORITOS ZESTY CHEESE | 1 | 1.49 | 1.07 | 1 | 
+DORITOS ZESTY CHEESE | 1 | 0.83 | 1.07 | 1 | 
+DEMP FLAT BREAD TRTILLA | 1 | 3.31 | 2.38 | 1 | 
+CHIA BREAD | 1 | 2.54 | 1.02 | 40 | 
+DAIRYLAND CREAMER F/F | 1 | 3.22 | 2.78 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+LEAN GROUND BEEF WP | 1 | 18.33 | 7.05 | 20 | 
+TOMATOES LARGE | 0 | 1.24 | 0.81 | 31 | 
+OLD EL PASO SEASONING HOT TACO | 1 | 1.69 | 1.13 | 1 | 
+DORITOS ZESTY CHEESE | 1 | 1.49 | 1.07 | 1 | 
+ROMAINE | 1 | 3.82 | 2.61 | 31 | 
+AVOCADOES. | 2 | 3.38 | 2.52 | 30 | 
+APPLES GRANNY SMITH | 0 | 1.24 | 0.77 | 30 | 
+========================================================
+Basket # 2 for 5264935815:
+========================================================
+TILL_RECEIPT_NUMBER: 143902
+TRANSACTION_DATE: 2014-04-01 00:00:00
+WATERMELONS MINI | 2 | 4.0 | 7.5 | 30 | 
+========================================================
+Basket # 2 for 9039846460:
+========================================================
+TILL_RECEIPT_NUMBER: 143926
+TRANSACTION_DATE: 2014-04-01 00:00:00
+COMP POPCORN BTTR L/F MWAVE | 1 | 2.37 | 1.58 | 1 | 
+MCLH TABASCO SAUCE | 1 | 2.97 | 2.05 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+PUREX B/TISSUE DBL | 1 | 16.99 | 15.35 | 1 | 
+HAWKINS CHEEZIES | 1 | 1.75 | 1.82 | 1 | 
+LEMONS | 3 | 2.52 | 1.68 | 30 | 
+SIDE BACON SLICED | 1 | 4.89 | 3.43 | 26 | 
+SIDE BACON SLICED | 1 | 6.99 | 3.43 | 26 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ALPINE WATER DISTILLED | 1 | 3.56 | 2.07 | 1 | 
+ORANGES NAVEL | 1 | 5.09 | 4.35 | 30 | 
+BANANAS | 1 | 1.11 | 0.92 | 30 | 
+WANJASHN SCE TAMARI ORGNC | 1 | 3.56 | 2.7 | 1 | 
+GARLIC MESH 3PK | 1 | 1.01 | 0.51 | 31 | 
+GINGER ROOT | 0 | 1.16 | 1.01 | 31 | 
+FRANKS RED HOT SAUCE | 1 | 2.97 | 2.23 | 1 | 
+PINEAPPLE | 1 | 3.65 | 2.65 | 30 | 
+RICOLA ECHN/TEA COUGH DROPS | 1 | 2.97 | 2.23 | 50 | 
+ONIONS GREEN | 1 | 0.67 | 0.35 | 31 | 
+GREEN ONION BUNCH COUPON | 1 | -0.79 | -0.79 | 31 | 
+ROYALE F/TISSUE 88'S | 1 | 6.6 | 5.97 | 1 | 
+HELLMANNS MAYO | 1 | 3.39 | 4.49 | 1 | 
+========================================================
+Basket # 2 for 777030000000789:
+========================================================
+TILL_RECEIPT_NUMBER: 216056
+TRANSACTION_DATE: 2014-04-01 00:00:00
+DOLE SALAD BBQ RNCH KIT | 1 | 5.28 | 2.88 | 32 | 
+WHOLE OR 9PC CHICKEN MEAL | 1 | 16.0 | 0.01 | 94 | 
+WH ROTISSERIE CHICKEN HERB RSTD | 1 | 9.99 | 7.5 | 87 | 
+========================================================
+Basket # 2 for 7105888075:
+========================================================
+TILL_RECEIPT_NUMBER: 143922
+TRANSACTION_DATE: 2014-04-01 00:00:00
+MOUNTAIN PARK WH GRAIN BREAD | 1 | 2.0 | 0.56 | 40 | 
+HAM + BACON LOAF SLICED | 1 | 3.58 | 7.78 | 91 | 
+========================================================
+Basket # 2 for 9038200441:
+========================================================
+TILL_RECEIPT_NUMBER: 144036
+TRANSACTION_DATE: 2014-04-01 00:00:00
+EXTRA LEAN GRND RND | 1 | 5.41 | 7.66 | 20 | 
+========================================================
+Basket # 2 for 9039756828:
+========================================================
+TILL_RECEIPT_NUMBER: 216160
+TRANSACTION_DATE: 2014-04-01 00:00:00
+GRANDMA'S BANANA LOAF CAKE | 1 | 4.0 | 0.01 | 42 | 
+PINEAPPLE | 1 | 4.29 | 2.65 | 30 | 
+TEA BISCUITS | 1 | 4.99 | 0.01 | 44 | 
+========================================================
+Basket # 2 for 9039945443:
+========================================================
+TILL_RECEIPT_NUMBER: 215866
+TRANSACTION_DATE: 2014-04-01 00:00:00
+TRAY BUNS | 1 | 1.99 | 0.01 | 44 | 
+THURINGER SALAMI SLICED | 1 | 4.67 | 12.06 | 91 | 
+SUMMER SALAMI SLICED | 1 | 3.29 | 13.81 | 91 | 
+========================================================
+Basket # 2 for 9039632562:
+========================================================
+TILL_RECEIPT_NUMBER: 175174
+TRANSACTION_DATE: 2014-04-01 00:00:00
+BEEF LIVER SLICED | 1 | 4.24 | 3.98 | 20 | 
+BEEF LIVER SLICED | 1 | 4.61 | 3.98 | 20 | 
+========================================================
+Basket # 2 for 9037202475:
+========================================================
+TILL_RECEIPT_NUMBER: 215855
+TRANSACTION_DATE: 2014-04-01 00:00:00
+COKE CAFFEINE FREE DIET | 1 | 1.99 | 1.32 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+EDMONTON JOURNAL MON-THURS | 1 | 1.5 | 1.48 | 75 | 
+========================================================
+Basket # 2 for 9038636955:
+========================================================
+TILL_RECEIPT_NUMBER: 175245
+TRANSACTION_DATE: 2014-04-01 00:00:00
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+CMPBL CHUNKY CHKN SAUSAG GUMBO | 1 | 2.97 | 1.79 | 1 | 
+CMPBL CHUNKY CHKN SAUSAG GUMBO | 1 | 2.97 | 1.79 | 1 | 
+CMPBL CHUNKY CHKN SAUSAG GUMBO | 1 | 2.97 | 1.79 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+8 SUB HAM + CHEDDAR | 1 | 4.99 | 0.01 | 98 | 
+FROG IN YOUR THRT BLKCRRNT | 1 | 4.99 | 3.5 | 50 | 
+STRAWBERRY YOGURT PARFAIT 9OZ | 1 | 2.83 | 4.0 | 97 | 
+STRAWBERRY RHUBARB 9'DEEP | 1 | 9.99 | 5.44 | 45 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+SNAPPLE TEA LEMON CANS | 1 | 1.19 | 0.65 | 1 | 
+========================================================
+Basket # 2 for 9039044539:
+========================================================
+TILL_RECEIPT_NUMBER: 108599
+TRANSACTION_DATE: 2014-04-01 00:00:00
+GLUTINO BREAKFAST BAR CHY | 1 | 5.49 | 3.92 | 1 | 
+========================================================
+Basket # 2 for 9039061121:
+========================================================
+TILL_RECEIPT_NUMBER: 108640
+TRANSACTION_DATE: 2014-04-01 00:00:00
+ORANGINA SPARKLING ORANGE | 1 | 0.99 | 0.68 | 1 | 
+DL MILK 2 GO CAPP COFFEE | 1 | 0.99 | 1.32 | 3 | 
+PULLED PORK COMBO | 1 | 8.0 | 0.01 | 94 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+MIXED VEGETABLE CUP 12OZ | 1 | 2.33 | 2.33 | 97 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+SNAPPLE GREEN TEA PEACH | 1 | 1.19 | 0.65 | 1 | 
+SALAD BAR | 0 | 9.3 | 9.3 | 97 | 
+========================================================
+Basket # 2 for 9038639215:
+========================================================
+TILL_RECEIPT_NUMBER: 108789
+TRANSACTION_DATE: 2014-04-01 00:00:00
+BANANAS | 1 | 1.46 | 1.03 | 30 | 
+ORANGES LARGE | 2 | 7.31 | 4.23 | 30 | 
+========================================================
+Basket # 2 for 9038509954:
+========================================================
+TILL_RECEIPT_NUMBER: 108795
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KITCHENS OF THE WORLD | 0 | 6.2 | 6.2 | 94 | 
+FRESH SALAD BAR SMALL | 0 | 9.1 | 9.1 | 97 | 
+KITCHENS OF THE WORLD | 1 | 11.9 | 11.9 | 94 | 
+========================================================
+Basket # 2 for 9038866001:
+========================================================
+TILL_RECEIPT_NUMBER: 175165
+TRANSACTION_DATE: 2014-04-01 00:00:00
+LYSOL FOAM HAND WASH CRM/VAN/ORC | 1 | 6.49 | 4.36 | 51 | 
+========================================================
+Basket # 2 for 9039049893:
+========================================================
+TILL_RECEIPT_NUMBER: 108610
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KITCHENS OF THE WORLD BOX | 1 | 10.7 | 10.7 | 94 | 
+QUARTER CHICKEN-2PC | 1 | 4.0 | 0.01 | 94 | 
+SOUP 8OZ | 1 | 2.49 | 0.98 | 94 | 
+========================================================
+Basket # 2 for 9039087065:
+========================================================
+TILL_RECEIPT_NUMBER: 108698
+TRANSACTION_DATE: 2014-04-01 00:00:00
+SNACKIN CHICKEN COMBO | 1 | 7.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9039755712:
+========================================================
+TILL_RECEIPT_NUMBER: 108748
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KITCHENS OF THE WORLD | 1 | 12.8 | 12.8 | 94 | 
+========================================================
+Basket # 2 for 9039457966:
+========================================================
+TILL_RECEIPT_NUMBER: 108763
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KITCHENS OF THE WORLD | 1 | 14.6 | 14.6 | 94 | 
+========================================================
+Basket # 2 for 9037226452:
+========================================================
+TILL_RECEIPT_NUMBER: 108603
+TRANSACTION_DATE: 2014-04-01 00:00:00
+CINNAMON BUN CREAM CHEESE WITH GST | 1 | 1.5 | 23.65 | 41 | 
+========================================================
+Basket # 2 for 9032244394:
+========================================================
+TILL_RECEIPT_NUMBER: 144049
+TRANSACTION_DATE: 2014-04-01 00:00:00
+SMART SHOPPER LOAD | 110 | 0.0 | 0.0 | 1 | 
+========================================================
+Basket # 2 for 9032384231:
+========================================================
+TILL_RECEIPT_NUMBER: 143929
+TRANSACTION_DATE: 2014-04-01 00:00:00
+DAIRYLAND MILK 1% ORG JUG | -1 | -5.69 | -4.95 | 3 | 
+BOTTLE DEPOSIT | -1 | -0.25 | -0.25 | 7 | 
+ECOLOGY CHARGE | -1 | -0.07 | -0.07 | 6 | 
+========================================================
+Basket # 2 for 9032179311:
+========================================================
+TILL_RECEIPT_NUMBER: 143874
+TRANSACTION_DATE: 2014-04-01 00:00:00
+ADVIL EXTRA STR LIQUI GELS | 1 | 6.99 | 4.37 | 50 | 
+TOMATOES NATURSWT CHERUBS | 1 | 4.69 | 3.16 | 31 | 
+========================================================
+Basket # 2 for 9032178604:
+========================================================
+TILL_RECEIPT_NUMBER: 108737
+TRANSACTION_DATE: 2014-04-01 00:00:00
+FRESH SALAD BAR SMALL | 1 | 13.7 | 13.7 | 97 | 
+========================================================
+Basket # 2 for 9032176542:
+========================================================
+TILL_RECEIPT_NUMBER: 143956
+TRANSACTION_DATE: 2014-04-01 00:00:00
+SIGNAL PEAS + CARROTS | 1 | 3.69 | 2.24 | 4 | 
+========================================================
+Basket # 2 for 9035916328:
+========================================================
+TILL_RECEIPT_NUMBER: 89426
+TRANSACTION_DATE: 2014-04-01 00:00:00
+MINI STRUDEL BLUEBERRY | 1 | 5.49 | 2.43 | 45 | 
+DEL M PEAS + CARROTS | 1 | 1.47 | 1.51 | 1 | 
+========================================================
+Basket # 2 for 9035312936:
+========================================================
+TILL_RECEIPT_NUMBER: 175242
+TRANSACTION_DATE: 2014-04-01 00:00:00
+LANDMARK MILK 1% 2% SKIM CPN | 1 | -1.67 | -1.67 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+LANDMARK MILK SKIM JUG. | 1 | 4.67 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 9035913625:
+========================================================
+TILL_RECEIPT_NUMBER: 216102
+TRANSACTION_DATE: 2014-04-01 00:00:00
+BY THE SLICE CHEESE CAKE ASST | 1 | 4.49 | 0.01 | 88 | 
+1/2 CHICKEN 4PC COMBO | 1 | 9.0 | 0.01 | 94 | 
+VAPORUB JAR REGULAR | 1 | 5.99 | 4.23 | 50 | 
+========================================================
+Basket # 2 for 9039776540:
+========================================================
+TILL_RECEIPT_NUMBER: 108687
+TRANSACTION_DATE: 2014-04-01 00:00:00
+THICK SANDWICH CHICKEN SALAD | 1 | 4.99 | 0.45 | 98 | 
+TRAIL MIX CHIA SEED COOKIES | 1 | 1.0 | 1.31 | 41 | 
+KITCHENS OF THE WORLD | 0 | 8.1 | 8.1 | 94 | 
+========================================================
+Basket # 2 for 9039913482:
+========================================================
+TILL_RECEIPT_NUMBER: 144033
+TRANSACTION_DATE: 2014-04-01 00:00:00
+HEALTH AND BEAUTY $1.00 OFF | 4 | -4.0 | -4.0 | 51 | 
+ASPIRIN COATED DAILY LOW DOSE | 1 | 18.99 | 15.27 | 50 | 
+========================================================
+Basket # 2 for 777030000000950:
+========================================================
+TILL_RECEIPT_NUMBER: 143991
+TRANSACTION_DATE: 2014-04-01 00:00:00
+NATIONAL POST NEWSPAPER | 1 | 1.9 | 1.58 | 75 | 
+========================================================
+Basket # 2 for 9039912580:
+========================================================
+TILL_RECEIPT_NUMBER: 108690
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KITCHENS OF THE WORLD | 0 | 3.0 | 3.0 | 94 | 
+========================================================
+Basket # 2 for 9039774023:
+========================================================
+TILL_RECEIPT_NUMBER: 108613
+TRANSACTION_DATE: 2014-04-01 00:00:00
+FRESH SALAD BAR SMALL | 0 | 3.0 | 3.0 | 97 | 
+========================================================
+Basket # 2 for 9036258321:
+========================================================
+TILL_RECEIPT_NUMBER: 108729
+TRANSACTION_DATE: 2014-04-01 00:00:00
+STRAWBERRY CHOC PARFAIT 12OZ | 1 | 4.5 | 4.2 | 97 | 
+========================================================
+Basket # 2 for 9036197856:
+========================================================
+TILL_RECEIPT_NUMBER: 143994
+TRANSACTION_DATE: 2014-04-01 00:00:00
+AI DE CHEF CUTTER/GRATER | 1 | 2.99 | 1.55 | 71 | 
+========================================================
+Basket # 2 for 9036915557:
+========================================================
+TILL_RECEIPT_NUMBER: 108743
+TRANSACTION_DATE: 2014-04-01 00:00:00
+.50 OFF SMART SHOPPER | 2 | -1.0 | -1.0 | 1 | 
+CHOCOLATE MACAROONS | 0 | 0.93 | 0.41 | 80 | 
+========================================================
+Basket # 2 for 9036682181:
+========================================================
+TILL_RECEIPT_NUMBER: 143989
+TRANSACTION_DATE: 2014-04-01 00:00:00
+ALBERTA BEEF RIB | 1 | 10.0 | 0.01 | 94 | 
+HALF CHICKEN-4PC | 1 | 6.0 | 0.01 | 94 | 
+GRAVY SMALL | 1 | 1.99 | 34.95 | 94 | 
+========================================================
+Basket # 2 for 9037128340:
+========================================================
+TILL_RECEIPT_NUMBER: 108628
+TRANSACTION_DATE: 2014-04-01 00:00:00
+QUARTER CHICKEN-2PC COMBO | 1 | 7.0 | 0.01 | 94 | 
+COFFEE LARGE | 1 | 1.5 | 1.5 | 83 | 
+========================================================
+Basket # 2 for 7109859926:
+========================================================
+TILL_RECEIPT_NUMBER: 108606
+TRANSACTION_DATE: 2014-04-01 00:00:00
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+PEPSI 710ML | 1 | 1.79 | 0.5 | 1 | 
+CAPPUCCINO | 1 | 1.5 | 1.5 | 83 | 
+DONUTS WITH GST | 1 | 1.0 | 1.0 | 41 | 
+SALAD BAR | 0 | 8.9 | 8.9 | 97 | 
+========================================================
+Basket # 2 for 9039624203:
+========================================================
+TILL_RECEIPT_NUMBER: 215935
+TRANSACTION_DATE: 2014-04-01 00:00:00
+KELLOGGS EGGO WAFFLES FIBRE | 1 | 2.79 | 2.34 | 4 | 
+========================================================
+Basket # 2 for 9039635727:
+========================================================
+TILL_RECEIPT_NUMBER: 89438
+TRANSACTION_DATE: 2014-04-02 00:00:00
+BOTTLE DEPOSIT GABLE SINGLE | 1 | 0.1 | 0.1 | 7 | 
+DL CREAMO | 1 | 1.49 | 0.8 | 3 | 
+BOTTLE DEPOSIT GABLE SINGLE | 1 | 0.1 | 0.1 | 7 | 
+DL CREAMO | 1 | 1.49 | 0.8 | 3 | 
+BOTTLE DEPOSIT GABLE SINGLE | 1 | 0.1 | 0.1 | 7 | 
+DL CREAMO | 1 | 1.49 | 0.8 | 3 | 
+HAM + BACON LOAF SLICED | 1 | 4.8 | 7.78 | 91 | 
+MAPLE LEAF BACON HEARTY SLICE | 1 | 7.99 | 4.27 | 28 | 
+CIABATTA BUNS | 1 | 3.99 | 0.01 | 44 | 
+WHITE BREAD | 1 | 2.29 | 0.6 | 40 | 
+DL CREAMO | -1 | -1.49 | -0.8 | 3 | 
+BOTTLE DEPOSIT GABLE SINGLE | -1 | -0.1 | -0.1 | 7 | 
+BANANAS | 1 | 2.72 | 1.9 | 30 | 
+FTHLS BUTTER CREAMY SALT | 1 | 4.49 | 4.17 | 3 | 
+FOOTHILLS BUTTER COUPON | 4 | -4.49 | -4.49 | 3 | 
+COMP MIXED VEG HARVEST CLASS | 1 | 5.19 | 2.51 | 4 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+ONIONS YELLOW LARGE | 1 | 2.77 | 1.76 | 31 | 
+ASPARAGUS | 0 | 2.58 | 1.72 | 31 | 
+GRAPES GREEN | 1 | 4.68 | 2.92 | 30 | 
+CABBAGE GREEN | 1 | 2.32 | 1.35 | 31 | 
+CUCUMBERS | 1 | 1.19 | 0.71 | 31 | 
+LETTUCE HEAD | 1 | 1.99 | 0.84 | 31 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+POTATOES RED | 1 | 4.49 | 2.5 | 31 | 
+FTHLS BUTTER CREAMY SALT | 1 | 4.49 | 4.17 | 3 | 
+DL MILK 2% CARTON | 1 | 3.29 | 3.2 | 3 | 
+KIENNA COFFEE PODS BCKPK BRW | 1 | 7.69 | 5.53 | 1 | 
+FINEST EGGS A LARGE WHT | 1 | 2.99 | 2.6 | 3 | 
+FINEST EGGS A LARGE WHT | 1 | 2.99 | 2.6 | 3 | 
+KIENNA COFFEE COLUMBIA DRK | 1 | 7.69 | 5.53 | 1 | 
+DL SOUR CREAM 14% | 1 | 2.49 | 2.11 | 3 | 
+DL MILK CHOCOLATE PLASTIC | 1 | 2.49 | 1.63 | 3 | 
+DOLE SALAD KIT ENDLESS SMMR | 1 | 5.28 | 2.84 | 32 | 
+========================================================
+Basket # 2 for 9039636821:
+========================================================
+TILL_RECEIPT_NUMBER: 144254
+TRANSACTION_DATE: 2014-04-02 00:00:00
+HEINZ VINEGAR WHITE | 1 | 5.97 | 3.77 | 1 | 
+========================================================
+Basket # 2 for 9039637573:
+========================================================
+TILL_RECEIPT_NUMBER: 108866
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SOUP 12OZ | 1 | 3.29 | 1.47 | 94 | 
+TRAIL MIX CHIA SEED COOKIES | 1 | 1.0 | 1.31 | 41 | 
+========================================================
+Basket # 2 for 9039635994:
+========================================================
+TILL_RECEIPT_NUMBER: 144225
+TRANSACTION_DATE: 2014-04-02 00:00:00
+LETTUCE ROMAINE | 1 | 1.79 | 1.03 | 31 | 
+GARLIC BREAD 454G | 1 | 3.0 | 1.22 | 40 | 
+========================================================
+Basket # 2 for 9039637151:
+========================================================
+TILL_RECEIPT_NUMBER: 216254
+TRANSACTION_DATE: 2014-04-02 00:00:00
+COMP ICE POPS TWIN ASST | 1 | 6.59 | 4.0 | 4 | 
+DEL M FRZ BARS MINI POPS | 1 | 6.99 | 4.44 | 4 | 
+========================================================
+Basket # 2 for 9039637967:
+========================================================
+TILL_RECEIPT_NUMBER: 108946
+TRANSACTION_DATE: 2014-04-02 00:00:00
+KITCHENS OF THE WORLD | 1 | 11.4 | 11.4 | 94 | 
+COFFEE SMALL | 1 | 1.25 | 1.25 | 83 | 
+========================================================
+Basket # 2 for 9039637084:
+========================================================
+TILL_RECEIPT_NUMBER: 175425
+TRANSACTION_DATE: 2014-04-02 00:00:00
+PINEAPPLE | 1 | 4.29 | 2.65 | 30 | 
+CILANTRO | 1 | 0.99 | 0.42 | 31 | 
+CHOCOLATE CHIP COOKIES | 1 | 4.99 | 0.01 | 41 | 
+PEPPERS JALAPENO | 1 | 1.75 | 3.42 | 31 | 
+TOMATOES GRAPE | 1 | 2.99 | 2.18 | 31 | 
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.85 | 31 | 
+========================================================
+Basket # 2 for 9039638567:
+========================================================
+TILL_RECEIPT_NUMBER: 216522
+TRANSACTION_DATE: 2014-04-02 00:00:00
+O DUTCH POPCORN TWIST | 1 | 3.69 | 1.95 | 1 | 
+COMP BUNS HOT DOG | 1 | 3.19 | 2.17 | 1 | 
+MAPLE LEAF TD WIENERS L/S | 1 | 5.99 | 2.65 | 28 | 
+VANHOUTT FRNCH VAN LT KCUP | 1 | 9.99 | 7.13 | 1 | 
+COMP MMALLOW LRG WHT | 1 | 1.49 | 1.04 | 1 | 
+COMP WIENERS | 1 | 2.49 | 1.37 | 28 | 
+COMP WIENERS | 1 | 2.49 | 1.37 | 28 | 
+FRENCHS MUSTARD YELLOW SQZ | 1 | 3.49 | 2.17 | 1 | 
+========================================================
+Basket # 2 for 9039673720:
+========================================================
+TILL_RECEIPT_NUMBER: 144324
+TRANSACTION_DATE: 2014-04-02 00:00:00
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BAKED CHEESECAKE 3X8 TOFFEE PE | 1 | 8.99 | 0.01 | 42 | 
+GRAPES RED | 1 | 8.28 | 4.78 | 30 | 
+APPLES MACINTOSH | 2 | 7.79 | 4.21 | 30 | 
+SMOKED TURKEY WINGS | 1 | 5.64 | 5.64 | 26 | 
+SMOKED TURKEY WINGS | 1 | 4.79 | 4.79 | 26 | 
+SEASONAL FLORAL | 1 | 2.99 | 0.01 | 15 | 
+POTATOES TERRIFIC TRIO | 1 | 4.99 | 2.66 | 31 | 
+DAIRLAND MILK 1% 2% SKIM COUPON | 3 | -3.29 | 0.03 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+DL MILK SKIM CARTON | 1 | 3.29 | 3.18 | 3 | 
+KRAFT DRSG S/C RASPB VINEG | 1 | 2.97 | 2.92 | 1 | 
+========================================================
+Basket # 2 for 9039664617:
+========================================================
+TILL_RECEIPT_NUMBER: 175498
+TRANSACTION_DATE: 2014-04-02 00:00:00
+FOCCACIA - JALAPENO | 1 | 4.99 | 1.3 | 40 | 
+APPLE FRESON FRITTERS | 1 | 5.99 | 0.01 | 41 | 
+PARTY PIZZA ALL MEAT. | 1 | 12.99 | 7.48 | 96 | 
+ALPINE I/CREAM STRAW RIPPLE | 1 | 5.99 | 4.97 | 4 | 
+========================================================
+Basket # 2 for 9039655648:
+========================================================
+TILL_RECEIPT_NUMBER: 175389
+TRANSACTION_DATE: 2014-04-02 00:00:00
+KRAFT DINNER CUP ORIGINAL | 1 | 1.59 | 1.01 | 1 | 
+KRAFT DINNER CUP ORIGINAL | 1 | 1.59 | 1.01 | 1 | 
+SCHNEIDERS BOLOGNA BLUE RIBBON SLCD | 1 | 3.99 | 2.11 | 28 | 
+DELISSIO DIPPING BTS ALL DRSS | 1 | 7.37 | 6.73 | 4 | 
+DELISSIO DIPPING BTS ALL DRSS | 1 | 7.37 | 6.73 | 4 | 
+PUREX B/TISSUE DBL | 1 | 8.99 | 8.66 | 1 | 
+PILLS PIZZA POP 3 MEAT | 1 | 3.49 | 2.7 | 4 | 
+TOSTITOS DIP MILD SALSA | 1 | 3.49 | 2.48 | 1 | 
+CBRD BEEFARONI MICRO | 1 | 1.99 | 1.32 | 1 | 
+CBRD SPAGHETTI + MEATBALLS | 1 | 1.89 | 1.58 | 1 | 
+========================================================
+Basket # 2 for 777030000001214:
+========================================================
+TILL_RECEIPT_NUMBER: 144081
+TRANSACTION_DATE: 2014-04-02 00:00:00
+MCCM GROUND GOURMET CARDAMON | 1 | 9.49 | 7.0 | 1 | 
+========================================================
+Basket # 2 for 9039632025:
+========================================================
+TILL_RECEIPT_NUMBER: 108924
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SALAD BAR | 0 | 4.9 | 4.9 | 97 | 
+========================================================
+Basket # 2 for 9039634915:
+========================================================
+TILL_RECEIPT_NUMBER: 216330
+TRANSACTION_DATE: 2014-04-02 00:00:00
+HAVARTI SUNDRIED TOMATO CHEESE | 1 | 5.26 | 13.62 | 90 | 
+THURINGER SALAMI SLICED | 1 | 4.67 | 12.06 | 92 | 
+========================================================
+Basket # 2 for 9039632491:
+========================================================
+TILL_RECEIPT_NUMBER: 175410
+TRANSACTION_DATE: 2014-04-02 00:00:00
+COLESLAW SALAD MFIS | 1 | 5.65 | 0.01 | 97 | 
+NESCAFE COFFEE RICH | 1 | 8.87 | 6.89 | 1 | 
+VANHOUTT CLMBN MED RST KCUP | 1 | 9.99 | 6.84 | 1 | 
+VANHOUTT CLMBN MED RST KCUP | 1 | 9.99 | 6.84 | 1 | 
+VANHOUTT CLMBN MED RST KCUP | 1 | 9.99 | 6.84 | 1 | 
+========================================================
+Basket # 2 for 9039632838:
+========================================================
+TILL_RECEIPT_NUMBER: 175360
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL YOGURT STIRRED BLUEBERRY | 1 | 3.59 | 2.61 | 3 | 
+DL CREAMO HALF + HALF | 1 | 2.19 | 1.7 | 3 | 
+GRAPES GREEN | 1 | 6.44 | 4.02 | 30 | 
+BLACKBERRIES | 1 | 3.69 | 2.35 | 30 | 
+BLACKBERRIES | 1 | 3.69 | 2.35 | 30 | 
+RASPBERRIES | 1 | 3.99 | 3.17 | 30 | 
+RASPBERRIES | 1 | 3.99 | 3.17 | 30 | 
+DANONE OIKOS 0% PLAIN | 1 | 4.99 | 3.85 | 3 | 
+APIO SALAD GINGER BOK CHOY | 1 | 2.69 | 2.46 | 32 | 
+APIO SALAD SWEET KALE | 1 | 2.69 | 2.46 | 32 | 
+DANONE OIKOS 0% PLAIN | 1 | 4.99 | 3.85 | 3 | 
+STRAWBERRIES | 1 | 2.49 | 2.36 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 2.36 | 30 | 
+========================================================
+Basket # 2 for 9039634647:
+========================================================
+TILL_RECEIPT_NUMBER: 216592
+TRANSACTION_DATE: 2014-04-02 00:00:00
+TWO BITE COCONUT MACAROONS | 1 | 4.99 | 3.01 | 1 | 
+MAYNARDS SR CHERRY BLSTR 355G | 1 | 4.99 | 2.74 | 1 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+JONES SODA BERRY LEMONADE | 1 | 1.99 | 1.37 | 1 | 
+KINDER BUENO BAR | 1 | 1.49 | 0.99 | 74 | 
+LIPTON BRISK LEMONADE | 1 | 0.99 | 0.8 | 1 | 
+========================================================
+Basket # 2 for 9038191094:
+========================================================
+TILL_RECEIPT_NUMBER: 216549
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DOLE BABY SPINACH | 1 | 4.08 | 2.31 | 32 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+Grocery | 1 | 6.59 | 2.72 | 1 | 
+LILYDALE DAYSTART TURKEY SLICES | 1 | 4.99 | 3.84 | 28 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+KOOL-AID JAMMERS BLUE RASPBRRY | 1 | 3.49 | 2.72 | 1 | 
+Grocery | 1 | 6.59 | 2.72 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+ORIGINAL PEPPERONI | 1 | 6.99 | 1.29 | 26 | 
+BEEF JERKY ORIG SNACK | 1 | 3.01 | 1.81 | 26 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+TOSTITOS CHIPS BSR LOW SODIUM | 1 | 2.57 | 2.5 | 1 | 
+MR NOODLE INST/NDL CHCKN | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL CHCKN | 1 | 0.39 | 0.27 | 1 | 
+TROPICANA JUICE ORANGE NO PULP | 1 | 6.89 | 6.86 | 3 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL CHCKN | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL CHCKN | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL CHCKN | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL CHCKN | 1 | 0.39 | 0.27 | 1 | 
+WINDSHIELD WASHR FLUID -35DGR | 1 | 3.97 | 2.14 | 69 | 
+WINDSHIELD WASHR FLUID -35DGR | 1 | 3.97 | 2.14 | 69 | 
+BUTTER CRUST BREAD | 1 | 2.99 | 0.65 | 40 | 
+GRAPES GREEN | 1 | 7.44 | 4.57 | 30 | 
+EGGS LARGE | 1 | 4.49 | 3.81 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+PEPSI 710ML | 1 | 1.79 | 0.5 | 1 | 
+REDOXON ORANGE | 1 | 3.99 | 2.63 | 50 | 
+REDOXON ORANGE | 1 | 3.99 | 2.63 | 50 | 
+DEMP BAGEL BLUEBERRY | 1 | 5.69 | 2.59 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+DL MILK CHOCOLATE PLASTIC | 1 | 4.89 | 3.89 | 3 | 
+OXFORD WILD BLUEBERRIES | 1 | 13.49 | 9.5 | 4 | 
+BOTTLE DEPOSIT | 1 | 1.0 | 1.0 | 7 | 
+GREETING CARD | 1 | 6.99 | 3.49 | 68 | 
+BUCKLEY COMB+MUC LIQ-GEL | 1 | 11.49 | 7.55 | 50 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+========================================================
+Basket # 2 for 5264361707:
+========================================================
+TILL_RECEIPT_NUMBER: 216263
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CATELLI SMART LASAGNE | 1 | 3.49 | 2.34 | 1 | 
+COMP CHS MOZZA FINELY SHRED | 1 | 5.99 | 4.31 | 3 | 
+DL COTTAGE CHS 2% | 1 | 3.57 | 3.28 | 3 | 
+========================================================
+Basket # 2 for 9034992203:
+========================================================
+TILL_RECEIPT_NUMBER: 175446
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL CREAM HALF + HALF 10%. | 1 | 3.49 | 2.86 | 3 | 
+SWEET SOURCE SGR WHITE | 1 | 3.59 | 2.28 | 1 | 
+CINNAMON BUN CREAM CHEESE WITH GST | 3 | 4.5 | 70.95 | 41 | 
+ALKA SELTZER TABS | 1 | 5.89 | 4.28 | 50 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.02 | 0.02 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+WHITE SANDWICH BREAD DOUBLE | 1 | 4.49 | 0.84 | 40 | 
+LANDMARK MILK HOMO COUPON | 1 | -2.47 | -2.47 | 3 | 
+LANDMARK MILK HOMO JUG | 1 | 5.47 | 6.13 | 3 | 
+========================================================
+Basket # 2 for 7109884640:
+========================================================
+TILL_RECEIPT_NUMBER: 216586
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SIGNAL BOLOGNA SLICED | 1 | 1.49 | 1.05 | 28 | 
+DL YOGURT STIRRED MULTIPACK | 1 | 6.99 | 5.05 | 3 | 
+SIGNAL BOLOGNA SLICED | 1 | 1.49 | 1.05 | 28 | 
+KRAFT CHS SLICES X/THIN | 1 | 3.99 | 5.41 | 3 | 
+BANANAS | 2 | 3.04 | 2.13 | 30 | 
+WHITE BREAD | 1 | 1.71 | 0.6 | 40 | 
+BREAKFAST SAUSAGE PORK + BEEF | 1 | 4.76 | 0.01 | 25 | 
+80% WHOLE WHEAT BREAD | 1 | 2.29 | 0.49 | 40 | 
+BREAKFAST SAUSAGE PORK + BEEF | 1 | 4.85 | 0.01 | 25 | 
+========================================================
+Basket # 2 for 7109899117:
+========================================================
+TILL_RECEIPT_NUMBER: 216457
+TRANSACTION_DATE: 2014-04-02 00:00:00
+BETTY C FRT SNCK DORA | 1 | 2.99 | 2.18 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.81 | 31 | 
+KRAFT P/BTTR CRUNCHY | 1 | 6.77 | 6.33 | 1 | 
+BRUSSELS SPROUTS | 0 | 2.32 | 1.37 | 31 | 
+LETTUCE ICEBERG | 1 | 1.99 | 0.84 | 31 | 
+BH CARROT PETITES | 1 | 2.29 | 0.11 | 31 | 
+========================================================
+Basket # 2 for 9036690043:
+========================================================
+TILL_RECEIPT_NUMBER: 175403
+TRANSACTION_DATE: 2014-04-02 00:00:00
+KNORR BOUILLON MIX CHICKEN | 1 | 2.99 | 2.04 | 1 | 
+HEINZ SPIDERMAN PASTA | 1 | 1.49 | 0.95 | 1 | 
+ASTRO YOG PC F/B S/B B/B | 1 | 6.99 | 5.24 | 3 | 
+STRAWBERRIES | 1 | 2.49 | 2.36 | 30 | 
+HEINZ PASTA PRINCESSES | 1 | 1.49 | 0.95 | 1 | 
+BNLS SKNLS CHICKEN BREAST WHS PK | 1 | 21.74 | 9.49 | 22 | 
+BNLS BLADE POT ROAST WP | 1 | 41.27 | 9.45 | 20 | 
+GREEN G SWEET PEAS BAG | 1 | 3.49 | 3.05 | 4 | 
+DL MILK CHOCOLATE | 1 | 5.19 | 6.43 | 3 | 
+FRESON IGA WATER | 1 | 1.99 | 0.01 | 130 | 
+TASSIMO MAXWELL H MRNG BLND | 1 | 8.99 | 5.98 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+FRESON IGA WATER | 1 | 1.99 | 0.01 | 130 | 
+TURKEY BREAST F/F SLICED | 1 | 8.09 | 18.83 | 92 | 
+FRUIT STIX BLUEBERRY CRM CHS | 1 | 5.79 | 2.4 | 45 | 
+FRUIT STIX STRAWBERRY CRM CHS | 1 | 5.79 | 1.62 | 45 | 
+OLYMEL HAM BLACK FOREST | 1 | 4.62 | 6.49 | 92 | 
+AYLMER TOMATOES DICED | 1 | 2.79 | 1.86 | 1 | 
+KRAFT DRSG RANCHERS CHOICE | 1 | 3.19 | 1.84 | 1 | 
+SAPUTO HAVARTI SLICE W/JLPNO | 1 | 6.49 | 3.04 | 90 | 
+O DUTCH RSTNT TORTILLA B/SZ | 1 | 3.97 | 2.97 | 1 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+GENERAL M CHEERIOS M/GRAIN | 1 | 7.69 | 6.4 | 1 | 
+RAINBOW BREAD | 1 | 2.99 | 1.0 | 40 | 
+QUINOA BREAD | 1 | 2.99 | 0.69 | 40 | 
+DAWN ULTRA NEW ZLND SPRNG | 1 | 4.19 | 2.4 | 1 | 
+ORVILL R POPCORN BUTTERY | 1 | 3.69 | 2.52 | 1 | 
+FARMERS F CMFRT COOP LG | 1 | 3.49 | 2.52 | 3 | 
+FLEECY LIQUID AROMA THRPY | 1 | 6.69 | 5.02 | 1 | 
+COMP MAPLE BACON | 1 | 6.49 | 3.58 | 28 | 
+CELERY STALK | 1 | 1.79 | 0.87 | 31 | 
+TRI PACK VEG BOWL(3)48OZ | 1 | 10.73 | 10.73 | 97 | 
+TIDE LQD PODS OCEAN MIST | 1 | 11.99 | 9.47 | 1 | 
+TOSTITOS DIP CON QUESO | 1 | 4.99 | 3.0 | 1 | 
+POTATOES BLUSHING BELLE | 1 | 5.49 | 3.24 | 31 | 
+CARROTS BUNCH | 1 | 1.99 | 0.9 | 31 | 
+ORANGES MEDIUM | 1 | 4.38 | 2.54 | 30 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ONIONS YELLOW LARGE | 0 | 1.65 | 1.05 | 31 | 
+PEPPERS GREEN BELL | 0 | 2.01 | 1.36 | 31 | 
+BANANAS | 1 | 1.95 | 1.37 | 30 | 
+APPLES CRIPPS PINK LADY | 1 | 2.24 | 1.18 | 30 | 
+HEINZ JUICE TOMATO | 1 | 2.99 | 2.19 | 1 | 
+KIWI FRUIT | 5 | 3.45 | 2.15 | 30 | 
+========================================================
+Basket # 2 for 9038637001:
+========================================================
+TILL_RECEIPT_NUMBER: 216427
+TRANSACTION_DATE: 2014-04-02 00:00:00
+ARIZONA TEA GREEN W GNNG HN | 1 | 0.89 | 0.7 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+SNACKIN CHICKEN COMBO | 1 | 7.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9037098625:
+========================================================
+TILL_RECEIPT_NUMBER: 108991
+TRANSACTION_DATE: 2014-04-02 00:00:00
+ARIZONA TEA GREEN W GNNG HN | 1 | 0.89 | 0.7 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+========================================================
+Basket # 2 for 9032572497:
+========================================================
+TILL_RECEIPT_NUMBER: 175477
+TRANSACTION_DATE: 2014-04-02 00:00:00
+PILLS PIZZA POP DELUXE | 1 | 3.49 | 2.7 | 4 | 
+ARIZONA TEA RASPBERRY | 1 | 0.89 | 0.7 | 1 | 
+HAAGEN DAZ MINIS VAN ALMND | 1 | 6.99 | 5.1 | 4 | 
+VH SCE SOYA LIGHT | 1 | 2.89 | 2.18 | 1 | 
+FRENCHS MUSTARD YELLOW SQZ | 1 | 2.29 | 1.79 | 1 | 
+HEINZ KETCHUP EASY SQUEEZE | 1 | 2.99 | 3.52 | 1 | 
+DELISSIO RSNC 4 CHEESE | 1 | 7.29 | 6.73 | 4 | 
+PARSLEY | 1 | 1.19 | 0.55 | 31 | 
+LEMONS | 4 | 3.96 | 2.24 | 30 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+HARVEST KITCHEN | 1 | 7.99 | 0.01 | 46 | 
+CARROTS BUNCH | 2 | 3.98 | 1.8 | 31 | 
+========================================================
+Basket # 2 for 9032639060:
+========================================================
+TILL_RECEIPT_NUMBER: 124965
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DOLE LETTUCE SWEET BABY | 1 | 4.08 | 2.31 | 32 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+EYE OF ROUND FRNCH STY STK | 1 | 18.73 | 9.52 | 20 | 
+RENEES S/WEST RANCH | 1 | 4.99 | 0.47 | 33 | 
+COMP S RICE CALROSE | 1 | 4.29 | 2.27 | 1 | 
+SIX FORTUNE RICE PAPER | 1 | 2.99 | 1.85 | 1 | 
+SNACKIN CHICKEN COMBO | 1 | 7.0 | 0.01 | 94 | 
+OLYMEL HAM BLACK FOREST | 1 | 2.68 | 6.49 | 92 | 
+PILLERS TURKEY BITES | 1 | 11.99 | 6.52 | 91 | 
+========================================================
+Basket # 2 for 7103358856:
+========================================================
+TILL_RECEIPT_NUMBER: 216529
+TRANSACTION_DATE: 2014-04-02 00:00:00
+IOGO PROBIO STR/RAS/BL/VN LF | 1 | 7.99 | 5.45 | 3 | 
+DL MILK HOMO/PLASTIC. | 1 | 4.99 | 6.2 | 3 | 
+FERRERO KINDER MINI EGGS | 1 | 4.49 | 2.97 | 74 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+IOGO YOG PROBIO 2.5% L/FR VAN | 1 | 4.49 | 2.9 | 3 | 
+LACTANTA MILK HOMO LCTSE FREE | 1 | 5.49 | 4.56 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+========================================================
+Basket # 2 for 9037218964:
+========================================================
+TILL_RECEIPT_NUMBER: 144240
+TRANSACTION_DATE: 2014-04-02 00:00:00
+COMP GRAVY BEEF | 1 | 1.49 | 0.76 | 1 | 
+COMP GRAVY TURKEY | 1 | 1.49 | 0.76 | 1 | 
+LEAN GROUND BEEF | 1 | 4.62 | 7.05 | 20 | 
+COMP POP COLA | 1 | 1.19 | 1.1 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+========================================================
+Basket # 2 for 9035662030:
+========================================================
+TILL_RECEIPT_NUMBER: 144315
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CROSBY MOLASSES COOKING | 1 | 3.49 | 4.74 | 1 | 
+HEINZ KETCHUP SQUEEZE | 1 | 2.99 | 3.82 | 1 | 
+NAPOLI PEPPERETTES | 1 | 5.23 | 20.48 | 91 | 
+NAPOLI PEPPERETTES | 1 | 5.99 | 20.48 | 91 | 
+========================================================
+Basket # 2 for 9035541333:
+========================================================
+TILL_RECEIPT_NUMBER: 175521
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL CREAM HALF + HALF 10%. | 1 | 3.49 | 2.86 | 3 | 
+SAPUTO GOUDA SLICES | 1 | 6.49 | 3.04 | 90 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.02 | 0.02 | 6 | 
+========================================================
+Basket # 2 for 9035546802:
+========================================================
+TILL_RECEIPT_NUMBER: 216283
+TRANSACTION_DATE: 2014-04-02 00:00:00
+EFFEM BOUNTY COCONUT BAR | 1 | 1.29 | 0.86 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 2.36 | 30 | 
+COMP BLNC APPLE SNACK | 1 | 2.99 | 1.64 | 1 | 
+COMP BLNC APL F/B CUPS 113G | 1 | 2.99 | 1.64 | 1 | 
+BAGELS PLAIN | 1 | 3.0 | 0.01 | 45 | 
+CHRISTIE CHIPS AHOY RAIN | 1 | 2.01 | 2.4 | 1 | 
+CHRISTIE OREO PRIDE + JOY | 1 | 2.99 | 2.4 | 1 | 
+LAYS SALT + VINEGAR | 1 | 1.11 | 2.18 | 1 | 
+LAYS SALT + VINEGAR | 1 | 2.89 | 2.18 | 1 | 
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+SMOKIE BUNS | 1 | 3.99 | 0.01 | 44 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+CLOVER LF TUNA SKIPJACK /WATER | 1 | 1.97 | 1.72 | 1 | 
+CLOVER LF TUNA SKIPJACK /WATER | 1 | 1.97 | 1.72 | 1 | 
+HEALTH AND BEAUTY $1.00 OFF | 1 | -1.0 | -1.0 | 51 | 
+D DROPS 1000IU LIQ DRPS | 1 | 10.99 | 7.25 | 50 | 
+OH HENRY SINGLE BAR | 1 | 1.67 | 0.89 | 1 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+LACTANTA MILK HOMO LCTSE FREE | 1 | 5.49 | 4.56 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+JNSNVL SAUSAGE MILD ITALIAN | 1 | 6.99 | 4.02 | 25 | 
+JNSNVL SAUSAGE MILD ITALIAN | 1 | 6.99 | 4.02 | 25 | 
+========================================================
+Basket # 2 for 9039144496:
+========================================================
+TILL_RECEIPT_NUMBER: 144250
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CHPMN FRZ YOG VANILLA | 1 | 5.99 | 4.7 | 4 | 
+WHOLE OR 9PC CHICKEN MEAL | 1 | 16.0 | 0.01 | 94 | 
+GRAVY MEDIUM | 1 | 2.99 | 34.95 | 94 | 
+KAISER BUNS | 1 | 2.29 | 0.01 | 44 | 
+WH ROTISSERIE CHICKEN HERB RSTD | 1 | 9.99 | 7.5 | 87 | 
+========================================================
+Basket # 2 for 9036687960:
+========================================================
+TILL_RECEIPT_NUMBER: 89440
+TRANSACTION_DATE: 2014-04-02 00:00:00
+STRAWBERRIES | 1 | 2.49 | 2.36 | 30 | 
+PARTY ICE | 1 | 1.99 | 0.9 | 131 | 
+DEMP BRD WHLGRN 12GRN | 1 | 4.69 | 2.89 | 1 | 
+========================================================
+Basket # 2 for 9039381832:
+========================================================
+TILL_RECEIPT_NUMBER: 216400
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CMPBL SOUP 1/2 FAT CRM OF MUSHROOM | 1 | 1.59 | 1.24 | 1 | 
+KRAFT CR/B CHS  CHEDDAR OLD | 1 | 4.99 | 5.54 | 3 | 
+PORK LOIN CHOPS FF | 1 | 7.54 | 4.79 | 21 | 
+GREEN G VEGETABLE GARDEN MEDLEY | 1 | 1.79 | 1.16 | 1 | 
+COMP POP PINK GRPFRT DIET | 1 | 1.19 | 1.1 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+PEPSI CAFFEINE FREE DIET | 1 | 2.77 | 2.5 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+DL MILK 1% CARTON | 1 | 2.39 | 1.81 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+DEL M GREEN BEANS SEASONED | 1 | 1.47 | 1.51 | 1 | 
+INT'L D CREAM FRENCH VANILLA | 1 | 5.99 | 3.55 | 3 | 
+KAISER BUNS WHOLE WHEAT | 1 | 2.29 | 0.01 | 44 | 
+STEAKHOUSE MUSHROOMS ST/PC | 1 | 1.29 | 0.73 | 1 | 
+========================================================
+Basket # 2 for 9036556649:
+========================================================
+TILL_RECEIPT_NUMBER: 144193
+TRANSACTION_DATE: 2014-04-02 00:00:00
+HELLMANNS MAYO | 1 | 3.99 | 4.49 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 2.36 | 30 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+WHITE BREAD | 1 | 1.71 | 0.6 | 40 | 
+WHITE BREAD | 1 | 2.29 | 0.6 | 40 | 
+========================================================
+Basket # 2 for 9032706947:
+========================================================
+TILL_RECEIPT_NUMBER: 216538
+TRANSACTION_DATE: 2014-04-02 00:00:00
+NECTARINES | 1 | 4.78 | 5.08 | 30 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+CRF PET SINGLE | 1 | 0.01 | 0.01 | 6 | 
+PINEAPPLE CHUNKS 24 OZ | 1 | 5.87 | 5.87 | 97 | 
+GRAPES RED | 1 | 8.44 | 4.88 | 30 | 
+GURU ENERGY DRINK | 1 | 2.99 | 2.13 | 1 | 
+MANGOS | 1 | 1.99 | 1.33 | 30 | 
+GURU ENERGY DRINK | 1 | 2.99 | 2.13 | 1 | 
+CRF PET SINGLE | 1 | 0.01 | 0.01 | 6 | 
+TROPICANA JUICE GRAPE 100% | 1 | 1.99 | 1.42 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+WHOLE RAINBOW TROUT | 1 | 9.09 | 0.01 | 24 | 
+CLIFBAR CHOC CHIP | 1 | 1.99 | 1.04 | 1 | 
+CLIF BUILDERS BAR | 1 | 1.99 | 1.36 | 1 | 
+CLIFBAR CHOC CHIP | 1 | 1.99 | 1.04 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+CLIF BAR B/CHRY ALMND | 1 | 1.99 | 1.04 | 1 | 
+========================================================
+Basket # 2 for 9039830158:
+========================================================
+TILL_RECEIPT_NUMBER: 83021
+TRANSACTION_DATE: 2014-04-02 00:00:00
+MARS SINGLE | 1 | 1.29 | 0.86 | 1 | 
+TOSTITOS CHIPS BITE SIZE ROUNDS | 1 | 2.57 | 2.5 | 1 | 
+TOSTITOS CHIPS BSR LOW SODIUM | 1 | 2.57 | 2.5 | 1 | 
+WHITE BREAD | 1 | 2.29 | 0.6 | 40 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+DL MILK 2% PLASTIC | 1 | 3.79 | 3.32 | 3 | 
+WHITE BREAD | 1 | 2.29 | 0.6 | 40 | 
+WHITE BREAD | 1 | 1.71 | 0.6 | 40 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+========================================================
+Basket # 2 for 9904455485:
+========================================================
+TILL_RECEIPT_NUMBER: 144107
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CHINA LILY SAUCE SOYA | 1 | 3.49 | 2.17 | 1 | 
+COMP DRY GARLIC SAUCE | 1 | 2.99 | 1.46 | 1 | 
+PORK SIDE RIBS BREAST BONE RMV | 1 | 6.06 | 4.38 | 21 | 
+PORK SIDE RIBS BREAST BONE RMV | 1 | 6.34 | 4.38 | 21 | 
+COMP BLNC MARG N/HYD | 1 | 2.97 | 1.1 | 3 | 
+ONIONS GREEN | 1 | 0.79 | 0.35 | 31 | 
+MUSHROOMS | 1 | 2.49 | 1.22 | 31 | 
+========================================================
+Basket # 2 for 9039824438:
+========================================================
+TILL_RECEIPT_NUMBER: 216297
+TRANSACTION_DATE: 2014-04-02 00:00:00
+ROCKSTAR ENERGY DRINK | 1 | 3.49 | 1.91 | 1 | 
+ROCKSTAR ENERGY DRINK | 1 | 2.51 | 1.91 | 1 | 
+KIENNA PODS IRISH CREAM | 1 | 7.69 | 5.25 | 1 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+RUSSELL S SOLID RABBIT | 1 | 5.99 | 4.19 | 74 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+NESTLE AERO PEPPERMINT | 1 | 4.37 | 3.57 | 1 | 
+DL BUTTER SALTED | 1 | 4.99 | 3.99 | 3 | 
+FOLGERS GRMT KCUP CRMLDRZ | 1 | 8.99 | 5.99 | 1 | 
+========================================================
+Basket # 2 for 9037226279:
+========================================================
+TILL_RECEIPT_NUMBER: 175541
+TRANSACTION_DATE: 2014-04-02 00:00:00
+FRYNG CHKN BRST B/A | 1 | 3.28 | 5.75 | 22 | 
+HIP FAST FRY MINUTE STEAK | 1 | 6.66 | 8.85 | 20 | 
+OLYMEL GOLD FOIL COOKED HAM | 1 | 2.1 | 5.99 | 91 | 
+OLYMEL REGULAR BOLOGNA | 1 | 2.2 | 3.99 | 92 | 
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+SOUP 12OZ | 1 | 3.29 | 1.47 | 94 | 
+ECOLOGY CHARGE | 2 | 1.44 | 1.44 | 6 | 
+MOUNTAIN PARK WATER | 2 | 10.0 | 7.78 | 1 | 
+COMP EGGS EXTRA LARGE | 1 | 3.29 | 2.51 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+MIXED VEGETABLES 16OZ | 1 | 3.93 | 3.93 | 97 | 
+PEARS BARTLETT | 1 | 4.55 | 2.64 | 30 | 
+1 PIECE OF CHICKEN | 1 | 2.5 | 0.01 | 94 | 
+BOTTLE DEPOSIT | 2 | 4.8 | 4.8 | 7 | 
+========================================================
+Basket # 2 for 9032900527:
+========================================================
+TILL_RECEIPT_NUMBER: 216385
+TRANSACTION_DATE: 2014-04-02 00:00:00
+LEAN GROUND BEEF | 1 | 4.66 | 7.05 | 20 | 
+OLD EL PASO TACO SAUCE MILD | 1 | 3.99 | 2.42 | 1 | 
+OLD EL PASO SEASONING L/S TACO | 1 | 1.99 | 1.13 | 1 | 
+LETTUCE ICEBERG | 1 | 1.99 | 0.84 | 31 | 
+TOMATOES LARGE | 1 | 2.73 | 1.51 | 31 | 
+========================================================
+Basket # 2 for 9035983159:
+========================================================
+TILL_RECEIPT_NUMBER: 124897
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CHEF'S SALAD HAM REGULAR | 1 | 5.99 | 1.89 | 97 | 
+GRIMMS PIZZA PEPPERONI | 1 | 3.99 | 1.92 | 28 | 
+EXCEL LOZENGES CRNBRY/BBRY | 1 | 1.69 | 0.93 | 1 | 
+========================================================
+Basket # 2 for 9039671759:
+========================================================
+TILL_RECEIPT_NUMBER: 144291
+TRANSACTION_DATE: 2014-04-02 00:00:00
+BNLS PORK LOIN CHOPS RIB END | 1 | 4.21 | 5.73 | 21 | 
+========================================================
+Basket # 2 for 9033181704:
+========================================================
+TILL_RECEIPT_NUMBER: 175516
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+REACTINE EXSTR 24HR | 1 | 17.99 | 13.61 | 50 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+PEPSI | 1 | 2.77 | 2.5 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+PEPSI | 1 | 2.77 | 2.5 | 1 | 
+========================================================
+Basket # 2 for 9039825627:
+========================================================
+TILL_RECEIPT_NUMBER: 144179
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CHEF'S SALAD HAM REGULAR | 1 | 5.99 | 1.89 | 97 | 
+CHRISTIE OREO STANLEY CUP | 1 | 2.01 | 2.4 | 1 | 
+CHRISTIE OREO STANLEY CUP | 1 | 2.99 | 2.4 | 1 | 
+KRAFT DRSG CLSC RANCHRS CH | 1 | 2.97 | 2.92 | 1 | 
+RUSSEL S IDDY BIDDY BUNNIES | 1 | 1.09 | 0.73 | 74 | 
+Lottery - Printed Tickets | 1 | 16.0 | 3.32 | 161 | 
+Lottery - Printed Tickets | 1 | 16.0 | 3.32 | 161 | 
+BOTTLE DEPOSIT GABLE SINGLE | 1 | 0.1 | 0.1 | 7 | 
+DAIRYLAND 2% MILK | 1 | 1.59 | 1.16 | 3 | 
+NESTLE BAR ROLO | 1 | 1.27 | 0.89 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+PEPSI 710ML | 1 | 1.79 | 0.5 | 1 | 
+========================================================
+Basket # 2 for 7103359965:
+========================================================
+TILL_RECEIPT_NUMBER: 144270
+TRANSACTION_DATE: 2014-04-02 00:00:00
+BULLS E BBQ SAUCE BOLD ORIG | 1 | 2.99 | 2.6 | 1 | 
+========================================================
+Basket # 2 for 9032895604:
+========================================================
+TILL_RECEIPT_NUMBER: 216577
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL MILK 1% CARTON | 1 | 3.29 | 3.2 | 3 | 
+EGGS LARGE | 1 | 4.49 | 3.81 | 3 | 
+NABOB BOLD MDNT ECLPSE | 1 | 8.99 | 6.96 | 1 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+PEPSI | 1 | 2.77 | 2.5 | 1 | 
+DAIRLAND MILK 1% 2% SKIM COUPON | 3 | -3.29 | 0.03 | 3 | 
+80% WHOLE WHEAT BREAD | 1 | 2.29 | 0.49 | 40 | 
+========================================================
+Basket # 2 for 9039143144:
+========================================================
+TILL_RECEIPT_NUMBER: 216433
+TRANSACTION_DATE: 2014-04-02 00:00:00
+LUNA CARAMEL NUT BAR | 1 | 1.39 | 1.04 | 1 | 
+LUNA CARAMEL NUT BAR | 1 | 1.39 | 1.04 | 1 | 
+CADBURY BAR CARAMILK | 1 | 0.99 | 0.74 | 1 | 
+MAYNARDS BASSETTS ASSORTED | 1 | 3.49 | 1.78 | 1 | 
+WONKA GOBSTOPPERS CHEWY | 1 | 1.29 | 0.76 | 1 | 
+========================================================
+Basket # 2 for 9038868442:
+========================================================
+TILL_RECEIPT_NUMBER: 124962
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CAMPBELLS SOUP TOMATO | 1 | 1.07 | 1.02 | 1 | 
+CAMPBELLS SOUP TOMATO | 1 | 1.07 | 1.02 | 1 | 
+DOLE CAESAR KIT LIGHT | 1 | 3.98 | 2.13 | 32 | 
+PRIMO SMALL SHELLS | 1 | 2.79 | 1.84 | 1 | 
+ONIONS BAGGED | 1 | 3.29 | 1.62 | 31 | 
+REGULAR BOLOGNA FRESHLY SLICED | 1 | 3.59 | 4.11 | 92 | 
+PEPPERS GREEN BELL | 0 | 1.92 | 1.08 | 31 | 
+SMOKED HAM STEAK | 1 | 11.2 | 4.89 | 21 | 
+========================================================
+Basket # 2 for 9038867593:
+========================================================
+TILL_RECEIPT_NUMBER: 144141
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL MILK HOMO/PLASTIC. | 1 | 4.99 | 6.2 | 3 | 
+ORVILLE R POPCORN EX BUTTER | 1 | 3.69 | 2.52 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+========================================================
+Basket # 2 for 9039525605:
+========================================================
+TILL_RECEIPT_NUMBER: 216533
+TRANSACTION_DATE: 2014-04-02 00:00:00
+LAYS CHIPS DILL PICKLE | 1 | 2.89 | 2.18 | 1 | 
+LAYS POTATO CHIPS KETCHUP | 1 | 1.11 | 2.18 | 1 | 
+PEPPERS JALAPE0 FETA STUFFED. | 1 | 6.46 | 18.9 | 97 | 
+========================================================
+Basket # 2 for 9039517425:
+========================================================
+TILL_RECEIPT_NUMBER: 216486
+TRANSACTION_DATE: 2014-04-02 00:00:00
+GLAD BAGS SANDWICH ZIPPER | 1 | 3.49 | 2.69 | 1 | 
+PILLS BISCUITS COUNTRY | 1 | 3.29 | 1.9 | 3 | 
+PILLS ROLLS CRESENT JUMBO | 1 | 2.71 | 1.9 | 3 | 
+BOTTLE DEPOSIT GABLE SINGLE | 1 | 0.1 | 0.1 | 7 | 
+DAIRYLAND 2% MILK | 1 | 1.59 | 1.16 | 3 | 
+MUFFINS DBL CHOCOLATE CHIP | 1 | 5.29 | 0.01 | 41 | 
+CHAPMANS SUNDAE CHOC FDG | 1 | 5.99 | 3.7 | 4 | 
+DOUBLE CHOCOLATE CHIP COOKIES | 1 | 4.99 | 0.01 | 41 | 
+O DUTCH DD BURSTIN ONION | 1 | 4.49 | 3.26 | 1 | 
+TASSIMO MAXWELL H MRNG BLND | 1 | 8.99 | 5.98 | 1 | 
+NESTLE KIT KAT CHUNKY | 1 | 4.37 | 3.57 | 1 | 
+CASCADE ACTION PACS CTRS BRZ | 1 | 16.49 | 13.14 | 1 | 
+BRUSH DBL SIDED NAIL/HAND | 1 | 2.99 | 1.5 | 71 | 
+CHRISTIE CRACKERS PREM PLUS SA | 1 | 3.39 | 2.76 | 1 | 
+DORITOS CHIPS INFERNO | 1 | 3.49 | 2.76 | 1 | 
+========================================================
+Basket # 2 for 9039845107:
+========================================================
+TILL_RECEIPT_NUMBER: 144329
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+CHOCOLATE LAYER CAKE 6X8 | 1 | 11.99 | 11.04 | 42 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+COMP EGGS MEDIUM WHT | 1 | 2.75 | 2.28 | 3 | 
+BANANAS | 1 | 1.67 | 1.17 | 30 | 
+MEDIUM EGGS COUPON | 3 | -2.75 | -2.75 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+WILTON CANDLES ROUNDS SOFT COL. | 1 | 1.09 | 0.55 | 71 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+========================================================
+Basket # 2 for 9039959757:
+========================================================
+TILL_RECEIPT_NUMBER: 124985
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL MILK 1% PLASTIC | 1 | 4.59 | 5.8 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+EGGS LARGE | 1 | 4.49 | 3.81 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+========================================================
+Basket # 2 for 9039993461:
+========================================================
+TILL_RECEIPT_NUMBER: 216475
+TRANSACTION_DATE: 2014-04-02 00:00:00
+EGGS LARGE | 1 | 2.69 | 2.3 | 3 | 
+ONIONS GREEN | 1 | 0.79 | 0.35 | 31 | 
+SPELT + KAMUT BREAD | 1 | 2.99 | 0.68 | 40 | 
+MINMAID LEMONADE PINK | 1 | 0.98 | 1.08 | 4 | 
+FIVEALIV BERRY CITRUS | 1 | 0.98 | 1.08 | 4 | 
+FRUITOPI TANGRN WAVE | 1 | 0.98 | 1.08 | 4 | 
+========================================================
+Basket # 2 for 9039688953:
+========================================================
+TILL_RECEIPT_NUMBER: 216512
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL COTTAGE CHS 2% | 1 | 3.57 | 3.28 | 3 | 
+COLD CHICKEN ASSORTED | 1 | 6.97 | 0.01 | 86 | 
+LIVING FD ALFALFA SPROUTS | 1 | 2.29 | 1.16 | 31 | 
+COLESLAW SALAD MFIS | 1 | 3.69 | 0.01 | 97 | 
+========================================================
+Basket # 2 for 9039634117:
+========================================================
+TILL_RECEIPT_NUMBER: 83003
+TRANSACTION_DATE: 2014-04-02 00:00:00
+LOTION DRY SKIN ESSENTIALS ALOE | -1 | -6.99 | -3.67 | 51 | 
+========================================================
+Basket # 2 for 9038874336:
+========================================================
+TILL_RECEIPT_NUMBER: 124924
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CESAR GRILLED CHICKEN | 1 | 1.19 | 0.78 | 1 | 
+CESAR GRILLED CHICKEN | 1 | 1.19 | 0.78 | 1 | 
+Grocery | 1 | 1.99 | 0.78 | 1 | 
+DOG PORK HIDE ROLLS | 1 | 2.99 | 1.52 | 73 | 
+FRISKIES INDOOR SEAFD RICE | 1 | 0.89 | 0.6 | 1 | 
+FRISKIES INDOOR SEAFD RICE | 1 | 0.89 | 0.6 | 1 | 
+========================================================
+Basket # 2 for 9039382427:
+========================================================
+TILL_RECEIPT_NUMBER: 108883
+TRANSACTION_DATE: 2014-04-02 00:00:00
+DL MILK 2 GO COOKIES N CRM | 1 | 0.99 | 1.32 | 3 | 
+DL MILK 2 GO ORANGE OBSESSN | 1 | 0.99 | 1.32 | 3 | 
+SALAD BAR | 0 | 7.7 | 7.7 | 97 | 
+PEPSI 710ML | 1 | 1.79 | 0.5 | 1 | 
+FRESH SALAD BAR SMALL | 0 | 4.1 | 4.1 | 97 | 
+SALAD BAR | 1 | 11.6 | 11.6 | 97 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+PULLED PORK COMBO | 1 | 8.0 | 0.01 | 94 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+========================================================
+Basket # 2 for 9039684211:
+========================================================
+TILL_RECEIPT_NUMBER: 175517
+TRANSACTION_DATE: 2014-04-02 00:00:00
+PILLS PIZZA MINI DELUXE | 1 | 3.49 | 2.7 | 4 | 
+CHPMN I/CRM NEAPOLITAN | 1 | 4.79 | 3.98 | 4 | 
+BRETON CRKR HERB/GRLC GF | 1 | 3.89 | 2.66 | 1 | 
+CHKN BRST STIR FRY | 1 | 5.65 | 9.49 | 22 | 
+LEMONS | 3 | 2.97 | 1.59 | 30 | 
+CLSSC SAUCE ROMA ALFREDO | 1 | 2.01 | 2.73 | 1 | 
+CLSSC SAUCE ROMA ALFREDO | 1 | 3.99 | 2.73 | 1 | 
+========================================================
+Basket # 2 for 9039688016:
+========================================================
+TILL_RECEIPT_NUMBER: 124984
+TRANSACTION_DATE: 2014-04-02 00:00:00
+TRIDENT TROPICAL TWIST | 1 | 1.69 | 1.12 | 1 | 
+LEAN GRND BF SEAS MEATLOAF | 1 | 9.88 | 7.99 | 20 | 
+GENERAL M NESTLE QUIK CEREAL | 1 | 5.67 | 3.74 | 1 | 
+QUAKER RICE CAKES WHT CHEDDAR | 1 | 2.97 | 1.82 | 1 | 
+========================================================
+Basket # 2 for 9039047389:
+========================================================
+TILL_RECEIPT_NUMBER: 108895
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SALAD BAR | 1 | 10.3 | 10.3 | 97 | 
+SALAD BAR | 1 | 10.4 | 10.4 | 97 | 
+SALAD BAR | 1 | 10.4 | 10.4 | 97 | 
+========================================================
+Basket # 2 for 9039686201:
+========================================================
+TILL_RECEIPT_NUMBER: 108984
+TRANSACTION_DATE: 2014-04-02 00:00:00
+1/2 CHICKEN 4PC COMBO | 1 | 9.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9039686924:
+========================================================
+TILL_RECEIPT_NUMBER: 108962
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CANTELOPE CHUNKS 160Z | 1 | 3.28 | 0.01 | 97 | 
+POM BLUEBERRY JUICE | 1 | 4.99 | 2.82 | 33 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+8 SUB CHICKEN | 1 | 4.99 | 0.01 | 98 | 
+========================================================
+Basket # 2 for 9039690415:
+========================================================
+TILL_RECEIPT_NUMBER: 144105
+TRANSACTION_DATE: 2014-04-02 00:00:00
+Lottery - Printed Tickets | 1 | 2.0 | 3.1 | 161 | 
+COUNTRY HRVST BREAD CBRY MUESLI | 1 | 4.99 | 3.1 | 1 | 
+SALAD BAR | 1 | 10.5 | 10.5 | 97 | 
+========================================================
+Basket # 2 for 9039686083:
+========================================================
+TILL_RECEIPT_NUMBER: 175436
+TRANSACTION_DATE: 2014-04-02 00:00:00
+WHOLE ROTISSERIE CHICKEN | 1 | 9.49 | 7.5 | 87 | 
+ALBERTA PORK RIBS | 1 | 10.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9039685711:
+========================================================
+TILL_RECEIPT_NUMBER: 108951
+TRANSACTION_DATE: 2014-04-02 00:00:00
+KITCHENS OF THE WORLD BOX | 1 | 11.8 | 11.8 | 94 | 
+========================================================
+Basket # 2 for 9039244770:
+========================================================
+TILL_RECEIPT_NUMBER: 108923
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SALAD BAR | 0 | 7.8 | 7.8 | 97 | 
+QUARTER CHICKEN-2PC COMBO | 1 | 7.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9039202901:
+========================================================
+TILL_RECEIPT_NUMBER: 124967
+TRANSACTION_DATE: 2014-04-02 00:00:00
+RING POP GUMMIES | 1 | 1.99 | 1.07 | 1 | 
+CUPCAKE DECORATING KIT | 1 | 9.99 | 4.0 | 42 | 
+========================================================
+Basket # 2 for 9039207714:
+========================================================
+TILL_RECEIPT_NUMBER: 216215
+TRANSACTION_DATE: 2014-04-02 00:00:00
+PASTRAMI SLICED | 1 | 4.7 | 9.53 | 91 | 
+JUMBO CHEESE BUNS | 1 | 4.99 | 1.75 | 44 | 
+MINI PIE CAKE TRIPLEBERRY | 1 | 2.49 | 1.01 | 42 | 
+========================================================
+Basket # 2 for 9039526617:
+========================================================
+TILL_RECEIPT_NUMBER: 144325
+TRANSACTION_DATE: 2014-04-02 00:00:00
+COMP EGGS MEDIUM WHT | 1 | 2.75 | 2.28 | 3 | 
+MEDIUM EGGS COUPON | 3 | -2.75 | -2.75 | 3 | 
+========================================================
+Basket # 2 for 9037179208:
+========================================================
+TILL_RECEIPT_NUMBER: 108949
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SALAD BAR | 0 | 3.5 | 3.5 | 97 | 
+KITCHENS OF THE WORLD | 1 | 12.1 | 12.1 | 94 | 
+KITCHENS OF THE WORLD | 0 | 7.8 | 7.8 | 94 | 
+========================================================
+Basket # 2 for 9037177875:
+========================================================
+TILL_RECEIPT_NUMBER: 108828
+TRANSACTION_DATE: 2014-04-02 00:00:00
+FRESH SALAD BAR SMALL | 0 | 2.8 | 2.8 | 97 | 
+KITCHENS OF THE WORLD | 0 | 6.4 | 6.4 | 94 | 
+========================================================
+Basket # 2 for 9037206741:
+========================================================
+TILL_RECEIPT_NUMBER: 144314
+TRANSACTION_DATE: 2014-04-02 00:00:00
+RENEE ORG MIGHTY CAESAR DRES | 1 | 4.99 | 0.23 | 33 | 
+========================================================
+Basket # 2 for 9037209296:
+========================================================
+TILL_RECEIPT_NUMBER: 108885
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SALAD BAR | 0 | 9.3 | 9.3 | 97 | 
+========================================================
+Basket # 2 for 9038023778:
+========================================================
+TILL_RECEIPT_NUMBER: 144202
+TRANSACTION_DATE: 2014-04-02 00:00:00
+MACARONI SALAD MFIS | 1 | 3.41 | 0.01 | 97 | 
+========================================================
+Basket # 2 for 9032315817:
+========================================================
+TILL_RECEIPT_NUMBER: 144237
+TRANSACTION_DATE: 2014-04-02 00:00:00
+MOOV BLUEBERRIES WILD | 1 | 7.49 | 4.48 | 4 | 
+PEPSI DIET | 1 | 2.39 | 1.75 | 1 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+HERSHEY BAR ALMOND CHOC | 1 | 1.67 | 0.89 | 1 | 
+HERSHEY BAR ALMOND CHOC | 1 | 1.67 | 0.89 | 1 | 
+Lottery - Printed Tickets | 1 | 1.0 | 0.01 | 161 | 
+Lottery - Printed Tickets | 1 | 1.0 | 0.01 | 161 | 
+Lottery - Printed Tickets | 1 | 1.0 | 0.01 | 161 | 
+Lottery P/O | 1 | -2.0 | 0.01 | 201 | 
+Lottery P/O | 1 | -4.0 | 0.01 | 201 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+Lottery - Printed Tickets | 1 | 1.0 | 0.01 | 161 | 
+Lottery - Printed Tickets | 1 | 36.0 | 0.01 | 161 | 
+========================================================
+Basket # 2 for 9035913746:
+========================================================
+TILL_RECEIPT_NUMBER: 144182
+TRANSACTION_DATE: 2014-04-02 00:00:00
+BIRTHDAY CAKE MARBLE 8X12' | 1 | 21.99 | 0.01 | 42 | 
+========================================================
+Basket # 2 for 9034993874:
+========================================================
+TILL_RECEIPT_NUMBER: 144095
+TRANSACTION_DATE: 2014-04-02 00:00:00
+Bakery - Cakes | -1 | -33.95 | -33.95 | 42 | 
+========================================================
+Basket # 2 for 9035000956:
+========================================================
+TILL_RECEIPT_NUMBER: 216212
+TRANSACTION_DATE: 2014-04-02 00:00:00
+COMP EGGS MEDIUM WHT | 1 | 2.75 | 2.28 | 3 | 
+GENERAL M CHEERIOS WHOLE GRAIN HONE | 1 | 7.69 | 6.4 | 1 | 
+MEDIUM EGGS COUPON | 3 | -2.75 | -2.75 | 3 | 
+========================================================
+Basket # 2 for 9035916220:
+========================================================
+TILL_RECEIPT_NUMBER: 216394
+TRANSACTION_DATE: 2014-04-02 00:00:00
+1 PIECE OF CHICKEN | 1 | 5.0 | 0.01 | 94 | 
+CHPMN I/CRM CANADIAN VANILLA | 1 | 4.79 | 3.98 | 4 | 
+========================================================
+Basket # 2 for 9039836540:
+========================================================
+TILL_RECEIPT_NUMBER: 216476
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SILVER HILLS BREAD 16 GRAIN | 1 | 4.99 | 3.07 | 1 | 
+RTTRSPRT BAR MLK WHL HAZELNUT | 1 | 2.99 | 1.95 | 1 | 
+WATERMELON CHUNKS 24OZ | 1 | 5.09 | 5.09 | 97 | 
+WATERMELON CHUNKS 24OZ | 1 | 4.44 | 4.44 | 97 | 
+RED ONIONS(SLICED) 16OZ | 1 | 2.72 | 0.01 | 97 | 
+ALBERTA PORK RIBS | 1 | 10.0 | 0.01 | 94 | 
+RITTER BAR CHOC COCONUT | 1 | 2.99 | 1.85 | 1 | 
+========================================================
+Basket # 2 for 9039916350:
+========================================================
+TILL_RECEIPT_NUMBER: 216527
+TRANSACTION_DATE: 2014-04-02 00:00:00
+CADBURY MINI EGG TUBE | 1 | 3.99 | 2.6 | 74 | 
+CADBURY MINI EGG TUBE | 1 | 3.99 | 2.6 | 74 | 
+RUSSELL S RABBIT SOLID CHOC | 8 | 7.92 | 5.04 | 74 | 
+SMARTIES IMPULSE EGG | 1 | 1.19 | 0.78 | 74 | 
+CADBURY MINI EGG TUBE | 1 | 3.99 | 2.6 | 74 | 
+CADBURY MINI EGG TUBE | 1 | 3.99 | 2.6 | 74 | 
+========================================================
+Basket # 2 for 9039920794:
+========================================================
+TILL_RECEIPT_NUMBER: 175514
+TRANSACTION_DATE: 2014-04-02 00:00:00
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+FRESH SIDE PORK SLICED | 1 | 5.01 | 5.35 | 21 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+========================================================
+Basket # 2 for 9039965417:
+========================================================
+TILL_RECEIPT_NUMBER: 144223
+TRANSACTION_DATE: 2014-04-02 00:00:00
+APPLES RED DELICIOUS | 1 | 2.06 | 2.18 | 30 | 
+BRUSSELS SPROUTS | 0 | 3.19 | 1.82 | 31 | 
+HEINZ JUICE TOMATO | 1 | 1.49 | 0.89 | 1 | 
+HEINZ JUICE TOMATO | 1 | 1.49 | 0.89 | 1 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+BLUE D ALMONDS RSTD/SALTED | 1 | 5.49 | 3.16 | 1 | 
+Y+S CHERRY NIBS PARTY | 1 | 2.97 | 2.36 | 1 | 
+CADBURY BAR CRUNCHIE | 1 | 4.99 | 3.37 | 1 | 
+Y+S TWIZZLERS LICORICE | 1 | 2.97 | 2.36 | 1 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+BREYERS I/CRM CL VAN | 1 | 7.19 | 4.91 | 4 | 
+HEINZ JUICE TOMATO | 1 | 1.49 | 0.89 | 1 | 
+========================================================
+Basket # 2 for 9039910771:
+========================================================
+TILL_RECEIPT_NUMBER: 99355
+TRANSACTION_DATE: 2014-04-02 00:00:00
+KITCHENS OF THE WORLD | 0 | 8.0 | 8.0 | 94 | 
+========================================================
+Basket # 2 for 777030000000101:
+========================================================
+TILL_RECEIPT_NUMBER: 108827
+TRANSACTION_DATE: 2014-04-02 00:00:00
+SOUP 12OZ | 1 | 3.29 | 1.47 | 94 | 
+THICK SANDWICH TUNA SALAD | 1 | 4.99 | 0.56 | 98 | 
+========================================================
+Basket # 2 for 9037088009:
+========================================================
+TILL_RECEIPT_NUMBER: 108930
+TRANSACTION_DATE: 2014-04-02 00:00:00
+1/2 CHICKEN 4PC COMBO | 1 | 9.0 | 0.01 | 94 | 
+1/2 CHICKEN 4PC COMBO | 1 | 9.0 | 0.01 | 94 | 
+QUARTER CHICKEN-2PC | 1 | 4.0 | 0.01 | 94 | 
+ALBERTA PORK RIBS COMBO | 1 | 13.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9036166120:
+========================================================
+TILL_RECEIPT_NUMBER: 144121
+TRANSACTION_DATE: 2014-04-02 00:00:00
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+LANDMARK MILK 2% JUG | 1 | 4.67 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 9037121912:
+========================================================
+TILL_RECEIPT_NUMBER: 144335
+TRANSACTION_DATE: 2014-04-02 00:00:00
+EXCEL WHT BBL MINT OTC | 1 | 1.27 | 0.8 | 1 | 
+========================================================
+Basket # 2 for 7109308924:
+========================================================
+TILL_RECEIPT_NUMBER: 216204
+TRANSACTION_DATE: 2014-04-02 00:00:00
+O DUTCH CHIPS RPL MEX CHS | 1 | 4.29 | 2.35 | 1 | 
+========================================================
+Basket # 2 for 7109209852:
+========================================================
+TILL_RECEIPT_NUMBER: 216521
+TRANSACTION_DATE: 2014-04-02 00:00:00
+MUFFIN BANANA | 1 | 5.29 | 0.01 | 41 | 
+NESTLE BAR ROLO | 1 | 1.27 | 0.89 | 1 | 
+DEMP BAGEL ORIGINAL | 1 | 5.69 | 2.59 | 1 | 
+========================================================
+Basket # 2 for 7103359218:
+========================================================
+TILL_RECEIPT_NUMBER: 175539
+TRANSACTION_DATE: 2014-04-02 00:00:00
+EASTER PLSH BUNNY MUSICAL | 1 | 5.99 | 3.4 | 74 | 
+EASTER DECOR KIT CHALK | 1 | 4.99 | 2.5 | 74 | 
+DIEGO PLSTC EGG W/CANDY | 1 | 1.99 | 1.35 | 74 | 
+EASTER POLY GRASS 2OZ | 1 | 1.49 | 0.85 | 74 | 
+FUN BUGS/BEES LINDT CHOC | 1 | 5.99 | 3.9 | 74 | 
+EASTER BASKET RND 10' | 1 | 3.99 | 2.1 | 74 | 
+KINDER SUPRISE PINK SGL EGG | 1 | 1.49 | 0.99 | 74 | 
+SMARTIES SHAKER EGGS | 1 | 6.99 | 4.68 | 74 | 
+PLUSH EASTER | 1 | 9.99 | 5.25 | 74 | 
+EASTER BASKET RND 10' | 1 | 3.99 | 2.1 | 74 | 
+SWIFFER ADVNCD CLNR SOL | 1 | 7.29 | 4.31 | 1 | 
+LYSOL TOILET BWL CLEANER | 1 | 4.99 | 3.12 | 1 | 
+SWIFFER ADVNCD CLNR SOL | 1 | 7.29 | 4.31 | 1 | 
+SWIFFER WET JET PAD REFILL | 1 | 9.99 | 6.14 | 1 | 
+========================================================
+Basket # 2 for 7107845293:
+========================================================
+TILL_RECEIPT_NUMBER: 216594
+TRANSACTION_DATE: 2014-04-02 00:00:00
+TIM HORTON COFFEE FN GRND. | 1 | 6.99 | 5.68 | 1 | 
+TWO BITE CHOCOLAQTE MACAROONS | 1 | 4.99 | 3.01 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+LANDMARK MILK 1% JUG | 1 | 4.67 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 7109906759:
+========================================================
+TILL_RECEIPT_NUMBER: 108869
+TRANSACTION_DATE: 2014-04-02 00:00:00
+BUNS ASSORTED SINGLE | 1 | 0.32 | 0.03 | 44 | 
+NESTLE BAR AERO MILK CHOCOLATE | 1 | 1.27 | 0.89 | 1 | 
+PEPSI 710ML | 1 | 1.79 | 0.5 | 1 | 
+BROCCOLI + CHEESE SALAD MFIS | 1 | 3.4 | 0.31 | 97 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+========================================================
+Basket # 2 for 9039637000:
+========================================================
+TILL_RECEIPT_NUMBER: 125061
+TRANSACTION_DATE: 2014-04-03 00:00:00
+WATERMELON SLICES | 1 | 4.83 | 3.2 | 32 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+POPSICLE ORANGE CHERRY GRP | 1 | 6.49 | 3.92 | 4 | 
+WATERMELON SLICES | 1 | 4.83 | 3.2 | 32 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+POPSICLE ORANGE CHERRY GRP | 1 | 6.49 | 3.92 | 4 | 
+MOUNTAIN PARK WH GRAIN BREAD | 1 | 2.0 | 0.56 | 40 | 
+MOUNTAIN PARK WH GRAIN BREAD | 1 | 2.0 | 0.56 | 40 | 
+DL MILK SKIM CARTON | 1 | 3.29 | 3.18 | 3 | 
+KRAFT DRSG SIGN GREEK W/FE | 1 | 2.97 | 2.92 | 1 | 
+DAN ACTIVIA VANILLA | 1 | 4.99 | 4.07 | 3 | 
+DL MILK SKIM CARTON | 1 | 3.29 | 3.18 | 3 | 
+KRAFT DRSG SIGN GREEK W/FE | 1 | 2.97 | 2.92 | 1 | 
+DAN ACTIVIA VANILLA | 1 | 4.99 | 4.07 | 3 | 
+COFFMATE HAZELNUT | 1 | 4.49 | 3.63 | 3 | 
+COFFMATE HAZELNUT | 1 | 4.49 | 3.63 | 3 | 
+========================================================
+Basket # 2 for 9039637901:
+========================================================
+TILL_RECEIPT_NUMBER: 216875
+TRANSACTION_DATE: 2014-04-03 00:00:00
+12 PIZZA MEDITERRANEAN | 1 | 8.99 | 3.91 | 96 | 
+12 PIZZA PEPPERONI | 1 | 7.99 | 3.59 | 96 | 
+KARMA PINEAPPLE COCONUT | 1 | 2.49 | 1.68 | 1 | 
+KARMA PINEAPPLE COCONUT | 1 | 2.49 | 1.68 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+JONES SODA CREAM | 1 | 1.99 | 1.37 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+12 PIZZA MEDITERRANEAN | 1 | 8.99 | 3.91 | 96 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+KARMA PINEAPPLE COCONUT | 1 | 2.49 | 1.68 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+KARMA PINEAPPLE COCONUT | 1 | 2.49 | 1.68 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+JONES SODA CREAM | 1 | 1.99 | 1.37 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+12 PIZZA PEPPERONI | 1 | 7.99 | 3.59 | 96 | 
+WATERMELONS MINI | 2 | 4.0 | 7.04 | 30 | 
+WATERMELONS MINI | 2 | 4.0 | 7.04 | 30 | 
+========================================================
+Basket # 2 for 9039636197:
+========================================================
+TILL_RECEIPT_NUMBER: 83058
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PEPSI | 1 | 2.39 | 1.75 | 1 | 
+PEPSI | 1 | 2.77 | 2.5 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+BOTTLE DEPOSIT | 2 | 4.8 | 4.8 | 7 | 
+PEPSI | 1 | 2.77 | 2.5 | 1 | 
+MOUNTAIN PARK WATER | 2 | 10.0 | 7.78 | 1 | 
+BOTTLE DEPOSIT | 2 | 4.8 | 4.8 | 7 | 
+ECOLOGY CHARGE | 2 | 1.44 | 1.44 | 6 | 
+HOMESTYLE RAISIN BUTTER TARTS | 1 | 5.49 | 3.09 | 1 | 
+BRAVO PASTA SAUCE | 1 | 2.49 | 1.28 | 1 | 
+PEPSI | 1 | 2.39 | 1.75 | 1 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+MOUNTAIN PARK WATER | 2 | 10.0 | 7.78 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BRAVO PASTA SAUCE | 1 | 2.49 | 1.28 | 1 | 
+HOMESTYLE RAISIN BUTTER TARTS | 1 | 5.49 | 3.09 | 1 | 
+ECOLOGY CHARGE | 2 | 1.44 | 1.44 | 6 | 
+========================================================
+Basket # 2 for 9039637978:
+========================================================
+TILL_RECEIPT_NUMBER: 217049
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BOTTLE DEPOSIT | 1 | 0.6 | 0.6 | 7 | 
+NESTLE BAR ROLO KING SIZE | 1 | 1.59 | 1.27 | 1 | 
+PEPSI | 1 | 6.39 | 4.75 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.6 | 0.6 | 7 | 
+PEPSI | 1 | 6.39 | 4.75 | 1 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+COMP BREAD ENRICHED WHITE | 1 | 2.19 | 1.55 | 1 | 
+COMP BREAD ENRICHED WHITE | 1 | 1.81 | 1.55 | 1 | 
+KRAFT CHS SLICES THIN | 1 | 3.99 | 5.41 | 3 | 
+========================================================
+Basket # 2 for 9039637701:
+========================================================
+TILL_RECEIPT_NUMBER: 216796
+TRANSACTION_DATE: 2014-04-03 00:00:00
+LIBERTE YOGURT GREEK VANILLA | 1 | 4.29 | 2.97 | 3 | 
+HOMESTYLE RAISIN BUTTER TARTS | 1 | 5.49 | 3.09 | 1 | 
+DOUBLE CHOCOLATE CHIP COOKIES | 1 | 4.99 | 0.01 | 41 | 
+CROISSANTS | 1 | 4.99 | 1.7 | 45 | 
+Meat - Fish | 1 | 4.87 | 1.7 | 24 | 
+BNLS SMOKED HAM PRTN | 1 | 16.78 | 4.89 | 21 | 
+========================================================
+Basket # 2 for 9039636758:
+========================================================
+TILL_RECEIPT_NUMBER: 216870
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BOTTLE DEPOSIT | 1 | 0.6 | 0.6 | 7 | 
+LABATTS BLUE BEER NON/ALC | 1 | 8.89 | 6.44 | 1 | 
+HUNTS T+R PASTA SCE ITALIAN | 1 | 2.99 | 1.78 | 1 | 
+ECOLOGY CHARGE | 1 | 0.48 | 0.48 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.6 | 0.6 | 7 | 
+LABATTS BLUE BEER NON/ALC | 1 | 8.89 | 6.44 | 1 | 
+HUNTS T+R PASTA SCE ITALIAN | 1 | 2.99 | 1.78 | 1 | 
+ECOLOGY CHARGE | 1 | 0.48 | 0.48 | 6 | 
+LEAN GROUND BEEF | 1 | 4.72 | 7.05 | 20 | 
+LEAN GROUND BEEF | 1 | 4.72 | 7.05 | 20 | 
+========================================================
+Basket # 2 for 9039638921:
+========================================================
+TILL_RECEIPT_NUMBER: 175629
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BCHA LV BVRG GRPFRT | 1 | 3.79 | 2.46 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+BUCHA RASP POMEGRANTE BVRG | 1 | 3.79 | 2.46 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+BCHALV BVRG GUVA MNG | 1 | 3.79 | 2.46 | 1 | 
+BOTTLE DEPOSIT PET L1L SINGLE | 1 | 0.25 | 0.25 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+BUCHA RASP POMEGRANTE BVRG | 1 | 3.79 | 2.46 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+TROP FRMSTND POME BLBRY | 1 | 5.99 | 4.69 | 3 | 
+BCHA LV BVRG GRPFRT | 1 | 3.79 | 2.46 | 1 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+BCHALV BVRG GUVA MNG | 1 | 3.79 | 2.46 | 1 | 
+BUCHA LEMONGRASS DRINK | 1 | 3.79 | 2.46 | 1 | 
+CRF PET L1L SINGLE | 1 | 0.07 | 0.07 | 6 | 
+========================================================
+Basket # 2 for 9039683100:
+========================================================
+TILL_RECEIPT_NUMBER: 216767
+TRANSACTION_DATE: 2014-04-03 00:00:00
+HOT DOG BUNS UNSLICED | 1 | 3.29 | 0.01 | 44 | 
+80% WHOLE WHEAT BREAD | 1 | 2.29 | 0.49 | 40 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+Grocery | 1 | 3.49 | 3.49 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+COMP CREAM CHS SPREAD LT | 1 | 3.69 | 3.09 | 3 | 
+BAGELS CINNAMON RAISIN | 1 | 3.0 | 0.01 | 45 | 
+IOGO YOG 0% P/APL CCNT BAN | 1 | 3.49 | 2.3 | 3 | 
+ARIZONA TEA RASPBERRY | 1 | 0.89 | 0.7 | 1 | 
+MAXWELL H COFFEE ORIGINAL | 1 | 6.99 | 9.9 | 1 | 
+MAXWELL H COFFEE DARK | 1 | 6.99 | 9.9 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+========================================================
+Basket # 2 for 9039641198:
+========================================================
+TILL_RECEIPT_NUMBER: 216754
+TRANSACTION_DATE: 2014-04-03 00:00:00
+MUFFINS BRAN RAISIN | 1 | 10.58 | 0.01 | 41 | 
+========================================================
+Basket # 2 for 9039644786:
+========================================================
+TILL_RECEIPT_NUMBER: 175600
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PEARS BARTLETT | 1 | 4.34 | 2.52 | 30 | 
+APPLES AMBROSIA | 1 | 4.04 | 3.02 | 30 | 
+BANANAS | 1 | 2.41 | 1.69 | 30 | 
+FSTG CHIPS SWT POTATO | 1 | 4.29 | 2.92 | 1 | 
+BLUEBERRIES | 1 | 3.99 | 4.41 | 30 | 
+KETTLE CHIPS SEA SALT+VIN | 1 | 3.49 | 2.33 | 1 | 
+BLUEBERRIES | 1 | 3.99 | 4.41 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+CAULIFLOWER | 1 | 2.99 | 2.06 | 31 | 
+========================================================
+Basket # 2 for 9039641199:
+========================================================
+TILL_RECEIPT_NUMBER: 216661
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BREAKFAST SANDWICH BACK BACON | 1 | 2.99 | 1.29 | 94 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+SUNRYPE JUICE ORANGE UNSWEETEN | 1 | 1.87 | 1.42 | 1 | 
+IOGO YOG NOMAD DRINK STRW | 1 | 1.99 | 1.14 | 3 | 
+========================================================
+Basket # 2 for 9039640942:
+========================================================
+TILL_RECEIPT_NUMBER: 144345
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+CHPMN NSA I/CRM BLACK CHERRY | 1 | 6.99 | 4.33 | 4 | 
+CHPMN NSA I/CRM BLACK CHERRY | 1 | 6.99 | 4.33 | 4 | 
+CHAPMANS I/CRM BTTR PCN NSA | 1 | 6.99 | 4.33 | 4 | 
+CHAPMANS I/CRM BTTR PCN NSA | 1 | 6.99 | 4.33 | 4 | 
+DAIRLAND MILK 1% 2% SKIM COUPON | 3 | -3.29 | 0.03 | 3 | 
+DL MILK 1% CARTON | 1 | 3.29 | 3.2 | 3 | 
+========================================================
+Basket # 2 for 9039672284:
+========================================================
+TILL_RECEIPT_NUMBER: 216752
+TRANSACTION_DATE: 2014-04-03 00:00:00
+INT'L D CREAM IRISH CREAM | 1 | 5.99 | 3.55 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+LANDMARK MILK HOMO COUPON | 1 | -2.47 | -2.47 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+WHISKAS CAT FD HAIRBALL | 1 | 8.99 | 7.23 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+CANADA DRY GINGERALE | 1 | 1.99 | 1.36 | 1 | 
+DEMP SMART BRD  WHITE W/G | 1 | 3.49 | 2.37 | 1 | 
+LANDMARK MILK HOMO JUG | 1 | 5.47 | 6.13 | 3 | 
+KLEENEX TISSUE LTN UPRIGHT | 1 | 2.49 | 2.26 | 1 | 
+MAXWELL H COFFEE ORIGINAL | 1 | 6.99 | 9.9 | 1 | 
+========================================================
+Basket # 2 for 9039683496:
+========================================================
+TILL_RECEIPT_NUMBER: 175577
+TRANSACTION_DATE: 2014-04-03 00:00:00
+FEBREZE ADV FRESH MDW | 1 | 4.99 | 2.89 | 1 | 
+FEBREZE STCK+REFRSH MDWS | 1 | 4.99 | 2.89 | 1 | 
+FEBREZE CAR VENT CLIP MDWS RN | 1 | 4.49 | 2.89 | 1 | 
+SEASONAL FLORAL | 1 | 5.99 | 0.01 | 15 | 
+DL SOUR CREAM 14% | 1 | 2.49 | 2.34 | 3 | 
+DL SOUR CREAM 14% | 1 | 1.51 | 2.34 | 3 | 
+FAITH FARMS CHEESE MOZZA | 1 | 5.99 | 5.72 | 3 | 
+FAITH FARMS CHEESE MOZZA | 1 | 5.99 | 5.72 | 3 | 
+FAITH FARMS CHS MEDIUM | 1 | 5.99 | 5.72 | 3 | 
+FAITH FARMS CHS MEDIUM | 1 | 5.99 | 5.72 | 3 | 
+========================================================
+Basket # 2 for 9039681294:
+========================================================
+TILL_RECEIPT_NUMBER: 144457
+TRANSACTION_DATE: 2014-04-03 00:00:00
+VANHOUTT FRNCH VAN LT KCUP | 1 | 9.99 | 7.13 | 1 | 
+LIMES | 2 | 1.98 | 2.54 | 30 | 
+CHIA BREAD | 1 | 2.99 | 1.02 | 40 | 
+GREEN G BRUSSEL SPRTS BT/SCE | 1 | 1.99 | 1.3 | 4 | 
+RED ROSE TEA ORANGE PEKOE | 1 | 3.99 | 2.3 | 1 | 
+========================================================
+Basket # 2 for 9039681643:
+========================================================
+TILL_RECEIPT_NUMBER: 109092
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COFFEE SMALL | 1 | 1.25 | 1.25 | 83 | 
+KITCHENS OF THE WORLD | 0 | 6.8 | 6.8 | 94 | 
+========================================================
+Basket # 2 for 9039640832:
+========================================================
+TILL_RECEIPT_NUMBER: 216859
+TRANSACTION_DATE: 2014-04-03 00:00:00
+NESTLE SMARTIES REGULAR | 1 | 1.27 | 0.89 | 1 | 
+COLESLAW SALAD MFIS | 1 | 4.0 | 0.01 | 97 | 
+NESTLE SMARTIES REGULAR | 1 | 1.27 | 0.89 | 1 | 
+COLESLAW SALAD MFIS | 1 | 4.0 | 0.01 | 97 | 
+WHOLE OR 9PC CHICKEN MEAL | 1 | 16.0 | 0.01 | 94 | 
+WHOLE OR 9PC CHICKEN MEAL | 1 | 16.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9039652151:
+========================================================
+TILL_RECEIPT_NUMBER: 175576
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PRINGLES ORIGINAL | 1 | 3.39 | 2.21 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+PRINGLES DILL PICKLES | 1 | 3.39 | 2.21 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+RASPBERRIES | 1 | 3.99 | 3.16 | 30 | 
+GOGO QUINOA ROYAL WHITE | 1 | 7.59 | 4.82 | 1 | 
+KNNK MUFFIN GLUTEN FREE BB | 1 | 6.49 | 4.21 | 4 | 
+NATURES P BAR STRAWBERRY | 1 | 4.99 | 3.31 | 1 | 
+FIJI NATURAL ASTESIAN WATER | 1 | 3.29 | 2.15 | 1 | 
+GIMME S/SALT SNACKS | 1 | 1.21 | 1.53 | 1 | 
+GIMME S/SALT SNACKS | 1 | 2.79 | 1.53 | 1 | 
+COMP POP STRAWBERRY | 1 | 1.19 | 1.1 | 1 | 
+COMP POP BLUE COLA DIET | 1 | 1.19 | 1.1 | 1 | 
+BRAGG VINEGAR APPLE CIDER | 1 | 3.99 | 3.14 | 1 | 
+LOUISIANA HOT SAUCE ORIGINAL | 1 | 1.99 | 1.35 | 1 | 
+ED SMITH SYRUP NO SUGAR ADDED | 1 | 3.29 | 1.93 | 1 | 
+NATURES P WAFFLE HOMESTYLE | 1 | 4.49 | 2.72 | 4 | 
+COMP RICE INSTANT CHICKEN | 1 | 1.79 | 1.12 | 1 | 
+COMP RICE INSTANT CHICKEN | 1 | 1.79 | 1.12 | 1 | 
+CANTALOUPE | 1 | 2.49 | 2.18 | 30 | 
+========================================================
+Basket # 2 for 777030000001215:
+========================================================
+TILL_RECEIPT_NUMBER: 109085
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CASCADE PLATINUM PACS LEMON | 1 | 14.99 | 12.71 | 1 | 
+FTHLS BUTTER CREAMY SALT | 1 | 4.49 | 4.17 | 3 | 
+FTHLS BUTTER CREAMY SALT | 1 | 4.49 | 4.17 | 3 | 
+COMP EGGS EXTRA LARGE | 1 | 3.29 | 2.51 | 3 | 
+========================================================
+Basket # 2 for 777030000001213:
+========================================================
+TILL_RECEIPT_NUMBER: 144381
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COMP KIDNEY BEANS DARK RED | 1 | 1.99 | 0.89 | 1 | 
+COMP KIDNEY BEANS DARK RED | 1 | 1.99 | 0.89 | 1 | 
+COMP KIDNEY BEANS DARK RED | 1 | 1.99 | 0.89 | 1 | 
+COMP KIDNEY BEANS DARK RED | 1 | 1.99 | 0.89 | 1 | 
+========================================================
+Basket # 2 for 9039632411:
+========================================================
+TILL_RECEIPT_NUMBER: 216868
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BRIGHTS SCE PASTA RSTD GRLC | 1 | 1.89 | 1.56 | 1 | 
+BRIGHTS SCE PASTA RSTD GRLC | 1 | 1.89 | 1.56 | 1 | 
+BRIGHTS SAUCE PASTA ORIG | 1 | 1.89 | 1.04 | 1 | 
+BRIGHTS SAUCE PASTA ORIG | 1 | 1.89 | 1.04 | 1 | 
+BRIGHTS SCE PASTA RSTD GRLC | 1 | 1.89 | 1.56 | 1 | 
+BRIGHTS SCE PASTA RSTD GRLC | 1 | 1.89 | 1.56 | 1 | 
+BNLS SKNLS CHICKEN BREAST | 1 | 8.91 | 9.49 | 22 | 
+BNLS SKNLS CHICKEN BREAST | 1 | 8.91 | 9.49 | 22 | 
+PRIMO CAPELLI D'ANGELO | 1 | 2.79 | 1.84 | 1 | 
+PRIMO SPAGHETTINI | 1 | 2.21 | 1.84 | 1 | 
+PRIMO CAPELLI D'ANGELO | 1 | 2.79 | 1.84 | 1 | 
+PRIMO SPAGHETTINI | 1 | 2.21 | 1.84 | 1 | 
+========================================================
+Basket # 2 for 9039634201:
+========================================================
+TILL_RECEIPT_NUMBER: 125021
+TRANSACTION_DATE: 2014-04-03 00:00:00
+KLONDIKE I/C SANDWCH BIG BEAR | 1 | 7.69 | 4.94 | 4 | 
+STAR MAGAZINE | 1 | 5.49 | 4.39 | 72 | 
+FRYNG CHKN THIGHS | 1 | 6.1 | 4.75 | 22 | 
+========================================================
+Basket # 2 for 9039631637:
+========================================================
+TILL_RECEIPT_NUMBER: 144512
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+COLESLAW SALAD MFIS | 1 | 1.52 | 0.01 | 97 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+RUSSELL S EGG CHOC CREME | 4 | 2.36 | 1.16 | 74 | 
+COLESLAW SALAD MFIS | 1 | 1.52 | 0.01 | 97 | 
+HOT DOG BUNS UNSLICED | 1 | 3.29 | 0.01 | 44 | 
+RUSSELL S EGG CHOC CREME | 4 | 2.36 | 1.16 | 74 | 
+CUCUMBERS | 2 | 2.38 | 1.32 | 31 | 
+HOT DOG BUNS UNSLICED | 1 | 3.29 | 0.01 | 44 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+CUCUMBERS | 2 | 2.38 | 1.32 | 31 | 
+DL MILK 2 GO ORANGE OBSESSN | 1 | 0.99 | 1.32 | 3 | 
+OLYMEL WIENERS BULK | 1 | 6.49 | 4.55 | 28 | 
+DL MILK 2 GO ORANGE OBSESSN | 1 | 0.99 | 1.32 | 3 | 
+OLYMEL WIENERS BULK | 1 | 6.49 | 4.55 | 28 | 
+HEINZ KETCHUP LOW SDM | 1 | 2.99 | 4.14 | 1 | 
+HEINZ KETCHUP LOW SDM | 1 | 2.99 | 4.14 | 1 | 
+========================================================
+Basket # 2 for 9039635461:
+========================================================
+TILL_RECEIPT_NUMBER: 109018
+TRANSACTION_DATE: 2014-04-03 00:00:00
+FRESH SALAD BAR SMALL | 0 | 4.8 | 4.8 | 97 | 
+========================================================
+Basket # 2 for 9039635210:
+========================================================
+TILL_RECEIPT_NUMBER: 217005
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PEPPERS GREEN BELL | 0 | 1.46 | 0.82 | 31 | 
+COMP BLNC LOBSTER FLVR CHNK | 1 | 3.99 | 1.62 | 24 | 
+COMP BAL CRAB FLAKE IMITATION | 1 | 3.99 | 1.62 | 24 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+DL MILK CHOCOLATE | 1 | 5.19 | 6.43 | 3 | 
+TOSTITOS CHIPS BITE SIZE ROUNDS | 1 | 2.57 | 2.5 | 1 | 
+TOSTITOS CHIPS BITE SIZE ROUNDS | 1 | 2.57 | 2.5 | 1 | 
+FAITH FARMS CHEESE MOZZA | 1 | 5.99 | 5.72 | 3 | 
+COMP SEAFOOD SAUCE MILD | 1 | 2.19 | 1.22 | 1 | 
+========================================================
+Basket # 2 for 9039634251:
+========================================================
+TILL_RECEIPT_NUMBER: 125006
+TRANSACTION_DATE: 2014-04-03 00:00:00
+MACARONI SALAD MFIS | 1 | 7.12 | 0.01 | 97 | 
+BANANAS | 1 | 1.28 | 0.9 | 30 | 
+KRAFT BBQ SCE REGULAR | 1 | 2.49 | 2.03 | 1 | 
+========================================================
+Basket # 2 for 9039628145:
+========================================================
+TILL_RECEIPT_NUMBER: 144380
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PLAYTEX GENTLE GLIDE M/P 36EA | 1 | 10.99 | 8.34 | 50 | 
+========================================================
+Basket # 2 for 9039632470:
+========================================================
+TILL_RECEIPT_NUMBER: 216889
+TRANSACTION_DATE: 2014-04-03 00:00:00
+DL MILK SKIM PLASTIC | 1 | 3.79 | 3.17 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+TROPICAN OR JCE HOMST W/PULP | 1 | 8.99 | 7.16 | 3 | 
+========================================================
+Basket # 2 for 9039635365:
+========================================================
+TILL_RECEIPT_NUMBER: 216646
+TRANSACTION_DATE: 2014-04-03 00:00:00
+LANDMARK MILK 1% 2% SKIM CPN | 1 | -1.67 | -1.67 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 1.2 | 1.2 | 7 | 
+ECOLOGY CHARGE | 1 | 0.12 | 0.12 | 6 | 
+PIZZA BUNS | 1 | 4.49 | 0.01 | 44 | 
+BOTTLE DEPOSIT | 1 | 1.2 | 1.2 | 7 | 
+ECOLOGY CHARGE | 1 | 0.12 | 0.12 | 6 | 
+LANDMARK MILK 2% JUG | 1 | 4.67 | 5.63 | 3 | 
+COMP APPLE STRWBRY SNACK | 1 | 2.99 | 1.83 | 1 | 
+LIPTON BRISK ICED TEA | 1 | 4.99 | 5.0 | 1 | 
+COMP APPLE SNACK SWEETENED | 1 | 2.01 | 1.83 | 1 | 
+LIPTON BRISK LEMONADE | 1 | 4.01 | 6.1 | 1 | 
+========================================================
+Basket # 2 for 9039635036:
+========================================================
+TILL_RECEIPT_NUMBER: 175573
+TRANSACTION_DATE: 2014-04-03 00:00:00
+GOLDEGG JUMBO | 1 | 2.99 | 2.6 | 3 | 
+GOLDEGG JUMBO | 1 | 2.99 | 2.6 | 3 | 
+STEINFELDS SAURKRAUT | 1 | 2.99 | 1.66 | 1 | 
+STEINFELDS SAURKRAUT | 1 | 2.99 | 1.66 | 1 | 
+GRIMMSFF SASUAGE FARMER | 1 | 5.99 | 4.19 | 28 | 
+COMP WIENERS | 1 | 2.49 | 1.37 | 28 | 
+GRIMMS SAUSAGE UKRAIN SMKD | 1 | 5.99 | 4.19 | 28 | 
+========================================================
+Basket # 2 for 9039634799:
+========================================================
+TILL_RECEIPT_NUMBER: 144529
+TRANSACTION_DATE: 2014-04-03 00:00:00
+DOVE SH MENS DEEP CLEAN | 1 | 7.99 | 4.87 | 51 | 
+DOVE BODY WASH MENS AQUA IMPCT | 1 | 6.49 | 4.73 | 51 | 
+BAGGED LEAN BEEF PATTIE | 1 | 14.99 | 8.16 | 20 | 
+========================================================
+Basket # 2 for 9033280408:
+========================================================
+TILL_RECEIPT_NUMBER: 216871
+TRANSACTION_DATE: 2014-04-03 00:00:00
+LIPTON SOUP ONION/RSTD GARLIC | 1 | 1.99 | 1.31 | 1 | 
+LIPTON SOUP ONION/RSTD GARLIC | 1 | 1.99 | 1.31 | 1 | 
+========================================================
+Basket # 2 for 7109854715:
+========================================================
+TILL_RECEIPT_NUMBER: 175658
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PILLS TOASTER STRUDEL STRWBRY | 1 | 3.99 | 2.4 | 4 | 
+ARIZONA FRUIT PUNCH | 1 | 0.89 | 0.7 | 1 | 
+ARIZONA FRUIT PUNCH | 1 | 0.89 | 0.7 | 1 | 
+PILLS TOASTER STRUDEL STRWBRY | 1 | 3.99 | 2.4 | 4 | 
+ASTRO KIK STRAWBRY EXPLOSION | 1 | 0.99 | 0.9 | 3 | 
+ASTRO KIK STRAWBRY EXPLOSION | 1 | 0.99 | 0.9 | 3 | 
+LIGHT RYE BREAD | 1 | 3.49 | 0.75 | 40 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+LIGHT RYE BREAD | 1 | 3.49 | 0.75 | 40 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+APPLES MACINTOSH | 1 | 3.36 | 1.81 | 30 | 
+BLISTEX LIP BALM MINT | 1 | 1.99 | 1.08 | 50 | 
+BLISTEX LIP BALM MINT | 1 | 1.99 | 1.08 | 50 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+APPLES MACINTOSH | 1 | 3.36 | 1.81 | 30 | 
+========================================================
+Basket # 2 for 9036952480:
+========================================================
+TILL_RECEIPT_NUMBER: 175620
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CBRD OVRSTFFD RAVIOLI | 1 | 1.89 | 1.58 | 1 | 
+ARIZONA TEA GREEN W GNNG HN | 1 | 0.89 | 0.7 | 1 | 
+OASIS BERRY POM ANTIOXIA | 1 | 3.69 | 3.69 | 3 | 
+SIMPLY ORANGE OJ WITH PULP | 1 | 4.44 | 4.37 | 3 | 
+SIRLOIN TIP OVEN ROAST WP | 1 | 26.98 | 9.4 | 20 | 
+TRAY BUNS | 1 | 1.99 | 0.01 | 44 | 
+KRAFT DINNER ORIG | 1 | 1.27 | 1.34 | 1 | 
+KRAFT DINNER ORIG | 1 | 1.27 | 1.34 | 1 | 
+CHRISTIE CRACKERS VEGETABLE TH | 1 | 2.89 | 2.42 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+GOOD HOST ICED TEA LEMON | 1 | 6.97 | 4.96 | 1 | 
+KNORR SOUP BROTH BEEF | 1 | 3.69 | 2.09 | 1 | 
+CMPBL CHUNKY N E CLAM CHOWDER | 1 | 2.97 | 2.36 | 1 | 
+CAMPBELL CHNKY ALEHSE SHEP PI | 1 | 2.97 | 2.36 | 1 | 
+DANDY CELERY STICKS | 1 | 3.49 | 0.16 | 31 | 
+CHRISTIE CRACKERS PREM PLS UNS | 1 | 3.39 | 2.76 | 1 | 
+SAN PELLGRNO ORANGE WTR | 1 | 1.49 | 0.7 | 1 | 
+ONIONS GREEN | 1 | 0.79 | 0.35 | 31 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+SCHNEIDERS WIENERS ALL BEEF | 1 | 6.99 | 3.84 | 28 | 
+FARMERS F EGGS BRWN LRG | 1 | 5.99 | 5.13 | 3 | 
+SWEET GERMAN GARLIC SAUSAGE | 1 | 6.5 | 5.2 | 25 | 
+SPICY ITALIAN SANDWICH WHOLE LOAF | 1 | 11.99 | 6.75 | 98 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+STRAWBERRY PARFAIT 12 OZ | 1 | 4.67 | 4.0 | 97 | 
+SAPPORO ICHIBAN NOODLE SHRIMP | 1 | 1.27 | 0.66 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+CMPBL CHKY SMKY BCN CHS SLDR | 1 | 2.97 | 2.36 | 1 | 
+GENERAL M CHEERIOS HON NUT | 1 | 5.89 | 3.74 | 1 | 
+B D CHEESE SLICES LIGHT | 1 | 5.99 | 5.79 | 3 | 
+SAPPORO ICHIBAN NOODLE BEEF | 1 | 1.27 | 0.66 | 1 | 
+SAPPORO ICHIBAN NOODLE CHICKEN | 1 | 1.27 | 0.66 | 1 | 
+LETTUCE ICEBERG | 1 | 1.99 | 0.84 | 31 | 
+POTATO YUKON GOLD | 1 | 4.79 | 2.36 | 31 | 
+GARLIC MESH 3PK | 1 | 1.19 | 0.51 | 31 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+========================================================
+Basket # 2 for 9032373383:
+========================================================
+TILL_RECEIPT_NUMBER: 125068
+TRANSACTION_DATE: 2014-04-03 00:00:00
+SILK ALMOND BEV UNSWT VAN | 1 | 3.99 | 3.17 | 3 | 
+SILK ALMOND BEV UNSWT VAN | 1 | 3.99 | 3.17 | 3 | 
+GINGER SNAP COOKIES GF | 1 | 4.49 | 3.16 | 4 | 
+ANNIE C SEAWEED SSME SNK | 1 | 2.29 | 1.59 | 1 | 
+NATURES P OATMEAL ORG M/NT | 1 | 4.99 | 3.86 | 1 | 
+ANNIE C SEAWEED SSME SNK | 1 | 2.29 | 1.59 | 1 | 
+GINGER SNAP COOKIES GF | 1 | 4.49 | 3.16 | 4 | 
+NATURES P OATMEAL ORG M/NT | 1 | 4.99 | 3.86 | 1 | 
+COMP CHERRY + BERRY BOOST | 1 | 6.49 | 3.67 | 4 | 
+Grocery | 1 | 2.99 | 3.47 | 1 | 
+GOLDEGG FREE RUN LARGE | 1 | 3.99 | 3.47 | 3 | 
+ALMOND BRZ ORIGINAL UNSWT | 1 | 1.99 | 1.41 | 1 | 
+BOTTLE DEPOSIT TETRA SINGLE | 1 | 0.1 | 0.1 | 7 | 
+ALMOND BRZ ORIGINAL UNSWT | 1 | 1.99 | 1.41 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT TETRA SINGLE | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+ALMOND BRZ ORIGINAL UNSWT | 1 | 1.99 | 1.41 | 1 | 
+BOTTLE DEPOSIT TETRA SINGLE | 1 | 0.1 | 0.1 | 7 | 
+Grocery | 1 | 2.99 | 3.47 | 1 | 
+GOLDEGG FREE RUN LARGE | 1 | 3.99 | 3.47 | 3 | 
+ALMOND BRZ ORIGINAL UNSWT | 1 | 1.99 | 1.41 | 1 | 
+BOTTLE DEPOSIT TETRA SINGLE | 1 | 0.1 | 0.1 | 7 | 
+COMP CHERRY + BERRY BOOST | 1 | 6.49 | 3.67 | 4 | 
+========================================================
+Basket # 2 for 7109261815:
+========================================================
+TILL_RECEIPT_NUMBER: 217024
+TRANSACTION_DATE: 2014-04-03 00:00:00
+KRAFT CR/B CHEESE OLD | 1 | 11.99 | 8.83 | 3 | 
+DORITOS COOL RANCH | 1 | 2.51 | 2.96 | 1 | 
+DORITOS CHIPS INTNS PCKL | 1 | 3.49 | 2.96 | 1 | 
+KELLOGGS CEREAL FRSTD FLKS | 1 | 3.99 | 4.79 | 1 | 
+ROYALE B/TISS 3PLY 200SHT | 1 | 7.77 | 9.58 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL BEEF | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL ORTL | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL ORTL | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL ORTL | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL VEG | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL VEG | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL VEG | 1 | 0.39 | 0.27 | 1 | 
+MR NOODLE INST/NDL VEG | 1 | 0.39 | 0.27 | 1 | 
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+MR NOODLE INST/NDL ORTL | 1 | 0.39 | 0.27 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+O DUTCH NACHO CRUNCHYS | 1 | 4.99 | 2.99 | 1 | 
+PURINA CAT CHOW ADVANCED | 1 | 13.89 | 12.6 | 1 | 
+BETTY C HAMB/HELP CHEESEY SHEL | 1 | 3.17 | 3.17 | 1 | 
+BETTY C HAMB/HELP BEEF NOODLE | 1 | 3.17 | 3.17 | 1 | 
+LEAN GROUND BEEF WP | 1 | 18.79 | 7.05 | 20 | 
+BNLS BRISKET POT RST | 1 | 12.37 | 6.39 | 20 | 
+MONTREAL SMKD TURKEY SLICED | 1 | 11.31 | 16.2 | 92 | 
+MEDIUM EGGS COUPON | 3 | -2.75 | -2.75 | 3 | 
+COMP EGGS MEDIUM WHT | 1 | 2.75 | 2.28 | 3 | 
+SEA HAUL OYSTERS WHOLE SMOKED | 1 | 1.69 | 0.99 | 1 | 
+SEA HAUL OYSTERS WHOLE SMOKED | 1 | 1.31 | 0.99 | 1 | 
+RAGU PASTA SC ORIGINAL W/GRND | 1 | 2.67 | 1.86 | 1 | 
+========================================================
+Basket # 2 for 9038192838:
+========================================================
+TILL_RECEIPT_NUMBER: 144535
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COMP SAUCE SWEET CHILI | 1 | 2.99 | 1.9 | 1 | 
+CHICKEN THIGHS BNLS SKNLS WHS | 1 | 5.89 | 9.25 | 22 | 
+========================================================
+Basket # 2 for 9032229399:
+========================================================
+TILL_RECEIPT_NUMBER: 175673
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BETTY C FRSTNG MLK/CHOC | 1 | 3.49 | 1.97 | 1 | 
+TEXANA RICE THAI JSMNE | 1 | 7.49 | 4.86 | 1 | 
+ARCTGARD BALANCE MIX | 1 | 2.89 | 2.66 | 4 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+ARCTGARD SELECT MANDARIN MIX | 1 | 2.89 | 2.66 | 4 | 
+ALPINE I/CREAM VANILLA | 1 | 5.99 | 5.07 | 4 | 
+PURE MADAGASCAR VAN | 1 | 7.99 | 5.06 | 1 | 
+REYNOLDS BAKING CUPS RAINBOW LAR | 1 | 1.89 | 0.73 | 1 | 
+AUNT JEMIMA SYRUP TABLE ORIGINAL | 1 | 4.87 | 2.95 | 1 | 
+PULO TOASTED PEANUT CKNG SCE | 1 | 7.49 | 4.66 | 1 | 
+DEMP FLAT BREAD WW TORTILLA | 1 | 3.89 | 2.38 | 1 | 
+VH SAUCE SWEET'N SOUR SPARE RI | 1 | 4.99 | 2.76 | 1 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+ALPINE ICE CREAM COUPON | 5 | -5.99 | -5.99 | 4 | 
+========================================================
+Basket # 2 for 9034059166:
+========================================================
+TILL_RECEIPT_NUMBER: 216840
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COMP BROTH CHICKEN RDUCD/SOD | 1 | 1.99 | 1.63 | 1 | 
+COMP BROTH CHICKEN RDUCD/SOD | 1 | 1.99 | 1.63 | 1 | 
+STARBUCK K-CUP REG HS BLND | 1 | 10.99 | 7.61 | 1 | 
+DL MILK 2 GO CAPP COFFEE | 1 | 0.99 | 1.32 | 3 | 
+YOPLAIT SRC YGRT VANILLA | 1 | 3.79 | 2.29 | 3 | 
+COMP POPCORN EX BTTR MWAVE | 1 | 6.49 | 4.58 | 1 | 
+STARBUCK K-CUP REG HS BLND | 1 | 10.99 | 7.61 | 1 | 
+COMP BROTH CHICKEN RDUCD/SOD | 1 | 1.99 | 1.63 | 1 | 
+DL MILK 2 GO CAPP COFFEE | 1 | 0.99 | 1.32 | 3 | 
+YOPLAIT SRC YGRT VANILLA | 1 | 3.79 | 2.29 | 3 | 
+COMP POPCORN EX BTTR MWAVE | 1 | 6.49 | 4.58 | 1 | 
+COMP BROTH CHICKEN RDUCD/SOD | 1 | 1.99 | 1.63 | 1 | 
+KELLOGGS POPTARTS SMORES | 1 | 2.99 | 2.77 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+KELLOGGS POPTARTS SMORES | 1 | 2.99 | 2.77 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+BAGELS CHEESE | 1 | 3.0 | 0.01 | 45 | 
+BAGELS CHEESE | 1 | 3.0 | 0.01 | 45 | 
+DL SOUR CREAM LT | 1 | 2.49 | 2.34 | 3 | 
+DL SOUR CREAM LT | 1 | 2.49 | 2.34 | 3 | 
+HUMPTY SOUR CREAM/ONION RING | 1 | 3.99 | 2.96 | 1 | 
+CADBURY MINI EGGS EVDY | 1 | 4.29 | 2.94 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+DL MILK SKIM CARTON | 1 | 2.39 | 1.78 | 3 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+MANDARIN ORANGES HALO | 1 | 5.49 | 3.25 | 30 | 
+BROCCOLI CROWNS | 1 | 3.1 | 1.3 | 31 | 
+RASPBERRIES | 2 | 7.98 | 6.32 | 30 | 
+BREADED BONELESS GARLIC RIBS | 1 | 11.79 | 11.79 | 29 | 
+CHEEMO PEROGY POTATO CHEDDAR | 1 | 3.97 | 1.97 | 4 | 
+CADBURY MINI EGGS EVDY | 1 | 4.29 | 2.94 | 1 | 
+MISSVICK CHIPS S/SALT /MLT VNGR | 1 | 4.99 | 3.65 | 1 | 
+CHEEMO PEROGY POTATO CHEDDAR | 1 | 3.97 | 1.97 | 4 | 
+MUSHROOMS TERIYAKI SLICED | 1 | 4.29 | 2.49 | 31 | 
+TIMOTHYS COFFEE BRKFST BLND | 1 | 9.99 | 7.13 | 1 | 
+FAMILY FRUIT TRAY 1.2KG | 1 | 12.99 | 0.01 | 97 | 
+DANONE OIKOS RASP POME | 1 | 4.49 | 3.15 | 3 | 
+WERTHERS ORIGINAL NSA | 1 | 2.99 | 1.81 | 1 | 
+BREADED BONELESS GARLIC RIBS | 1 | 11.79 | 11.79 | 29 | 
+CADBURY MINI EGGS EVDY | 1 | 4.29 | 2.94 | 1 | 
+PRODUCE VEGETABLES | 1 | 5.99 | 1.0 | 31 | 
+CADBURY MINI EGGS EVDY | 1 | 4.29 | 2.94 | 1 | 
+EGGS LARGE | 1 | 4.49 | 3.81 | 3 | 
+MANDARIN ORANGES HALO | 1 | 5.49 | 3.25 | 30 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+DL MILK SKIM CARTON | 1 | 2.39 | 1.78 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+CADBURY MINI EGGS EVDY | 1 | 4.29 | 2.94 | 1 | 
+HUMPTY SOUR CREAM/ONION RING | 1 | 3.99 | 2.96 | 1 | 
+MISSVICK CHIPS S/SALT /MLT VNGR | 1 | 4.99 | 3.65 | 1 | 
+GENERAL M FIBRE 1 CRML NUT | 1 | 4.59 | 2.68 | 1 | 
+GENERAL M FIBRE 1 CRML NUT | 1 | 4.59 | 2.68 | 1 | 
+BROCCOLI CROWNS | 1 | 3.1 | 1.3 | 31 | 
+RASPBERRIES | 2 | 7.98 | 6.32 | 30 | 
+PRODUCE VEGETABLES | 1 | 5.99 | 1.0 | 31 | 
+WERTHERS ORIGINAL NSA | 1 | 2.99 | 1.81 | 1 | 
+DANONE OIKOS RASP POME | 1 | 4.49 | 3.15 | 3 | 
+FAMILY FRUIT TRAY 1.2KG | 1 | 12.99 | 0.01 | 97 | 
+TIMOTHYS COFFEE BRKFST BLND | 1 | 9.99 | 7.13 | 1 | 
+MUSHROOMS TERIYAKI SLICED | 1 | 4.29 | 2.49 | 31 | 
+EGGS LARGE | 1 | 4.49 | 3.81 | 3 | 
+CADBURY MINI EGGS EVDY | 1 | 4.29 | 2.94 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+========================================================
+Basket # 2 for 9034057642:
+========================================================
+TILL_RECEIPT_NUMBER: 175710
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CRYSTAL L LIQ ICED TSE ME | 1 | 3.99 | 2.66 | 1 | 
+MIO LEMONADE | 1 | 3.99 | 2.66 | 1 | 
+SCHICK ST3 RAXZ WM | 1 | 7.49 | 4.96 | 51 | 
+DANONE OIKOS VANILLA | 1 | 4.99 | 3.85 | 3 | 
+CHEF'S SALAD HAM REGULAR | 1 | 5.99 | 1.89 | 97 | 
+DL MILK SKIM PLASTIC | 1 | 4.39 | 5.74 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+WATERMELON CHUNKS 24OZ | 1 | 4.76 | 4.76 | 97 | 
+MOTTS FRUIT SENSATION APL U/S | 1 | 3.47 | 2.48 | 1 | 
+QUAKER RTS OATML MPL+BRWN SUGAR | 1 | 4.89 | 2.49 | 1 | 
+GOLDEGG EGGS OMEGA CHOICE LARGE | 1 | 3.99 | 3.44 | 3 | 
+DELMONTE PEACH DICED NSA | 1 | 3.97 | 2.85 | 1 | 
+WATERMELON CHUNKS 24OZ | 1 | 5.13 | 5.13 | 97 | 
+DANONE OIKOS 0% COCONUT | 1 | 4.49 | 3.22 | 3 | 
+SILH ST/PE/RA/BL | 1 | 9.49 | 6.59 | 3 | 
+CAESAR SALAD REGULAR | 1 | 4.99 | 1.49 | 97 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+DELMONTE FRUIT SALAD NSA | 1 | 3.97 | 2.85 | 1 | 
+========================================================
+Basket # 2 for 9039675727:
+========================================================
+TILL_RECEIPT_NUMBER: 3973
+TRANSACTION_DATE: 2014-04-03 00:00:00
+Pharmacy - Prescriptions | 1 | 10.3 | 0.0 | 170 | 
+SYSTANE GEL | 1 | 11.49 | 8.31 | 0 | 
+========================================================
+Basket # 2 for 9032015587:
+========================================================
+TILL_RECEIPT_NUMBER: 175702
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CADBURY BAR CARAMILK | 1 | 0.99 | 0.74 | 1 | 
+DL MILK CHOCOLATE PLASTIC | 1 | 2.49 | 1.63 | 3 | 
+LIPTON FARM HS CHCKN VEG NOODLE | 1 | 1.99 | 1.31 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+KRAFT DRSG CLSC CREAMY CAE | 1 | 2.97 | 2.92 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+GRISSOL CROUTONS 3 BREAD CAESAR | 1 | 2.59 | 1.59 | 1 | 
+GARLIC BREAD-1/2 LOAF | 1 | 2.49 | 0.65 | 40 | 
+LETTUCE ROMAINE | 1 | 1.79 | 1.11 | 31 | 
+SUMM DUMPLINGS PORK GYOZA | 1 | 3.99 | 2.33 | 93 | 
+BACON BITS | 1 | 3.35 | 16.0 | 91 | 
+========================================================
+Basket # 2 for 9035912210:
+========================================================
+TILL_RECEIPT_NUMBER: 144472
+TRANSACTION_DATE: 2014-04-03 00:00:00
+KRAFT CR/B CHEESE OLD | 1 | 11.99 | 8.83 | 3 | 
+DARE CANDY SOUR WRIGGLERS | 1 | 2.39 | 1.54 | 1 | 
+DARE JUBES MINI SOURS | 1 | 2.79 | 1.94 | 1 | 
+MAYNARDS SWEDISH FISH | 1 | 3.49 | 1.78 | 1 | 
+========================================================
+Basket # 2 for 9032636563:
+========================================================
+TILL_RECEIPT_NUMBER: 175681
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ORAJEL PM EXTRA STR | 1 | 5.49 | 4.06 | 50 | 
+BIOMEDIC SLEEP AID 50MG EX | 1 | 4.99 | 1.77 | 50 | 
+BIOMEDIC SLEEP AID 50MG EX | 1 | 4.99 | 1.77 | 50 | 
+========================================================
+Basket # 2 for 9036917748:
+========================================================
+TILL_RECEIPT_NUMBER: 175580
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COMP DRINK PEACH | 1 | 3.49 | 1.7 | 1 | 
+MINMAID ORNG JUICE ORI | 1 | 5.99 | 4.77 | 3 | 
+MCSWEENEYS PEP N CHEESE ORIG | 1 | 3.0 | 1.95 | 91 | 
+CINNAMON BUNS - MINI | 1 | 4.0 | 1.6 | 45 | 
+BOTTLE DEPOSIT | 1 | 2.4 | 2.4 | 7 | 
+THERMAL ECO MUG GREEN | 1 | 9.99 | 5.0 | 71 | 
+DUCK DYNASTY TUMBLER | 1 | 19.99 | 11.99 | 71 | 
+CARY OUT PLASTIC CUPS | 1 | 4.69 | 2.46 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+U BY KOTEX REG TAMPONS | 1 | 5.99 | 4.52 | 50 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+GRIMMS BURRITO TORTILLA | 1 | 4.99 | 1.85 | 89 | 
+U BY KOTEX LNR CURVES RG | 1 | 5.99 | 4.52 | 50 | 
+SCHNEIDERS BACON SLICED THICK | 1 | 7.99 | 4.57 | 28 | 
+SANDWICH THICK RST BEEF+HAVRTI | 1 | 4.99 | 4.99 | 98 | 
+THICK SANDWICH EGG SALAD | 1 | 4.99 | 0.84 | 98 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+NESTLE WATER PURE LIFE | 1 | 7.19 | 5.5 | 1 | 
+EXCEL MINTS PEPPERMINT | 1 | 2.29 | 1.51 | 1 | 
+========================================================
+Basket # 2 for 9039072883:
+========================================================
+TILL_RECEIPT_NUMBER: 3974
+TRANSACTION_DATE: 2014-04-03 00:00:00
+Pharmacy - Prescriptions | 1 | 16.12 | 0.0 | 170 | 
+Pharmacy-Miscellaneous | 1 | -0.01 | 0.0 | 172 | 
+Pharmacy-Miscellaneous | 1 | -0.01 | 0.0 | 172 | 
+========================================================
+Basket # 2 for 9036918438:
+========================================================
+TILL_RECEIPT_NUMBER: 216620
+TRANSACTION_DATE: 2014-04-03 00:00:00
+SIGNAL POTATO CHIP KETCHUP | 1 | 1.29 | 0.91 | 1 | 
+========================================================
+Basket # 2 for 7109906727:
+========================================================
+TILL_RECEIPT_NUMBER: 125023
+TRANSACTION_DATE: 2014-04-03 00:00:00
+DL MILK CHOCOLATE PLASTIC | 1 | 2.49 | 1.63 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+========================================================
+Basket # 2 for 7107837444:
+========================================================
+TILL_RECEIPT_NUMBER: 125057
+TRANSACTION_DATE: 2014-04-03 00:00:00
+TAIPAN WATER CHESTNUTS SALTED | 1 | 1.49 | 0.81 | 1 | 
+TAIPAN WATER CHESTNUTS SALTED | 1 | 1.49 | 0.81 | 1 | 
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.81 | 31 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.81 | 31 | 
+CLUB H ORIENTAL STIR FRY MX | 1 | 2.99 | 1.27 | 1 | 
+COW TALES CHEWY CHOC BAR | 1 | 0.79 | 0.34 | 1 | 
+ONIONS RED | 0 | 1.12 | 0.69 | 31 | 
+CLUB H ORIENTAL STIR FRY MX | 1 | 2.99 | 1.27 | 1 | 
+SPROUTS BEAN | 1 | 2.99 | 1.45 | 31 | 
+CLUB H ORIENTAL STIR FRY MX | -1 | -2.99 | -1.27 | 1 | 
+SIX FORTUNE NOODLES STIR FRY | 1 | 1.99 | 1.08 | 1 | 
+ROMA TOMATOES | 1 | 3.72 | 1.9 | 31 | 
+COMP CARROTS BABY | 1 | 1.79 | 0.99 | 31 | 
+COW TALES CHEWY CHOC BAR | 1 | 0.79 | 0.34 | 1 | 
+SIX FORTUNE NOODLES STIR FRY | 1 | 1.99 | 1.08 | 1 | 
+COMP CARROTS BABY | 1 | 1.79 | 0.99 | 31 | 
+ROMA TOMATOES | 1 | 3.72 | 1.9 | 31 | 
+ONIONS RED | 0 | 1.12 | 0.69 | 31 | 
+SPROUTS BEAN | 1 | 2.99 | 1.45 | 31 | 
+CLUB H ORIENTAL STIR FRY MX | -1 | -2.99 | -1.27 | 1 | 
+CLUB H ORIENTAL STIR FRY MX | 1 | 2.99 | 1.27 | 1 | 
+CLUB H ORIENTAL STIR FRY MX | 1 | 2.99 | 1.27 | 1 | 
+========================================================
+Basket # 2 for 7107852865:
+========================================================
+TILL_RECEIPT_NUMBER: 144558
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ARIZONA TEA LEMON | 1 | 0.89 | 0.7 | 1 | 
+ARIZONA TEA RASPBERRY | 1 | 0.89 | 0.7 | 1 | 
+.50 OFF SMART SHOPPER | 4 | -2.0 | -2.0 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+========================================================
+Basket # 2 for 9032186914:
+========================================================
+TILL_RECEIPT_NUMBER: 175574
+TRANSACTION_DATE: 2014-04-03 00:00:00
+FANTA ORANGE MINI CANS | 1 | 3.49 | 2.25 | 1 | 
+VIM CLEANSER WITH BLEACH | 1 | 3.49 | 2.53 | 1 | 
+J CLOTH TOWELS BLUE | 1 | 3.99 | 2.55 | 1 | 
+NESTLE WATER P/L SPLASH W/MELON | 1 | 3.69 | 2.02 | 1 | 
+WATERMELONS MINI | 1 | 2.49 | 3.52 | 30 | 
+TRIBE HUMMUS EVERYTHING | 1 | 3.0 | 1.91 | 93 | 
+DELISSIO RSNC 4 CHEESE | 1 | 7.29 | 6.73 | 4 | 
+DUNCAN H CAKE MIX M/D SWISS C | 1 | 2.99 | 1.89 | 1 | 
+BAGUETTE-FRENCH STICK CRUSTY | 1 | 2.29 | 0.6 | 40 | 
+SWIFFER WET LAVENDER VANILLA | 1 | 6.99 | 4.8 | 1 | 
+CLOROX CLEANER CLEAN UP | 1 | 4.99 | 3.03 | 1 | 
+PINESOL ORIGINAL | 1 | 5.99 | 4.11 | 1 | 
+LYSOL SPRAY CRISP LINEN | 1 | 6.79 | 4.33 | 1 | 
+ECOLOGY CHARGE | 1 | 0.09 | 0.09 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.9 | 0.9 | 7 | 
+FEBREZE AIR EFFCT VAN+MOONLGHT | 1 | 4.59 | 2.89 | 1 | 
+SPONGE TOWELS ULTRA | 1 | 3.79 | 2.76 | 1 | 
+H/D SCOURER SPONGE GREEN | 1 | 1.19 | 0.61 | 71 | 
+MR CLEAN MAGIC ERASER DUO | 1 | 3.99 | 2.7 | 1 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.6 | 0.6 | 7 | 
+========================================================
+Basket # 2 for 9037203015:
+========================================================
+TILL_RECEIPT_NUMBER: 216683
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PEPSI BIG SLAM | 1 | 0.99 | 1.13 | 1 | 
+PEPSI BIG SLAM | 1 | 0.99 | 1.13 | 1 | 
+DR PEPPER | 1 | 0.99 | 0.76 | 1 | 
+DR PEPPER | 1 | 0.99 | 0.76 | 1 | 
+DR PEPPER | 1 | 0.99 | 0.76 | 1 | 
+PEPSI BIG SLAM | 1 | 0.99 | 1.13 | 1 | 
+PEPSI BIG SLAM | 1 | 0.99 | 1.13 | 1 | 
+DR PEPPER | 1 | 0.99 | 0.76 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+SALAD BAR | 0 | 6.7 | 6.7 | 97 | 
+PILLS PIZZA POPS PEP+BCN SNK | 1 | 8.49 | 6.09 | 4 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+========================================================
+Basket # 2 for 9037200975:
+========================================================
+TILL_RECEIPT_NUMBER: 125028
+TRANSACTION_DATE: 2014-04-03 00:00:00
+DANONE DAN GO DRNKABLE 93ML | 1 | 4.99 | 3.71 | 3 | 
+MCCAIN FRIES SHOESTRING | 1 | 2.99 | 2.18 | 4 | 
+MCCAIN FRIES SHOESTRING | 1 | 2.99 | 2.18 | 4 | 
+VIAU BEAR PAWS CHOCOLATE CHIP | 1 | 5.99 | 4.04 | 1 | 
+COMP CHICKEN STRIPS BREADED | 1 | 9.99 | 5.94 | 4 | 
+COMP PUDDING VANILLA | 1 | 0.02 | 1.28 | 1 | 
+B W H/C FILLETS ENGLISH STYLE | 1 | 8.99 | 8.71 | 4 | 
+COMP PUDDING CHOC FF | 1 | 1.99 | 1.28 | 1 | 
+COMP PUDDING CHOC FF | 1 | 1.99 | 1.28 | 1 | 
+HEINZ PASTA DORA THE EXPLORER | 1 | 1.49 | 1.51 | 1 | 
+HEINZ PASTA SPONGEBOB SQRPAN | 1 | 1.49 | 1.51 | 1 | 
+HEINZ ALPHAGETTI | 1 | 1.49 | 1.51 | 1 | 
+HEINZ ALPHAGETTI | 1 | 0.53 | 1.51 | 1 | 
+HEINZ PASTA SPONGEBOB SQRPAN | 1 | 1.49 | 1.51 | 1 | 
+FROZEN YOUNG TURKEY CANADA GRADE A | 1 | 24.99 | 20.74 | 22 | 
+PRIME RIB GRILLING STEAK FP | 1 | 18.96 | 14.56 | 20 | 
+BEEF STEWING CUBES WHS | 1 | 22.75 | 8.52 | 20 | 
+SIRLOIN TIP OVEN ROAST WP | 1 | 22.41 | 9.4 | 20 | 
+FRYING CHKN LEGS B/A WHS PK | 1 | 14.08 | 3.9 | 22 | 
+COMP BREAD 100% WHL/WHEAT | 1 | 2.19 | 1.55 | 1 | 
+COMP BREAD 100% WHL/WHEAT | 1 | 1.81 | 1.55 | 1 | 
+CHRISTIE OREO STANLEY CUP | 1 | 2.99 | 2.98 | 1 | 
+DL MILK HOMO CARTON | 1 | 3.49 | 3.38 | 3 | 
+TROPICANA JUICE ORANGE PULP HM | 1 | 6.89 | 6.86 | 3 | 
+B D CHS STRING MARBLE JUMBO | 1 | 9.19 | 6.81 | 3 | 
+CARROTS BAG | 1 | 1.99 | 1.18 | 31 | 
+ECOLOGY CHARGE | 1 | 0.08 | 0.08 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.8 | 0.8 | 7 | 
+BURNS HAM COOKED SLICED | 1 | 6.99 | 4.48 | 28 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+PARTY FAVORS PARACHUTE MEN | 1 | 2.99 | 0.69 | 67 | 
+GENERAL M CHEERIOS RTE | 1 | 10.49 | 7.11 | 1 | 
+PILLS PIZZA MINIS PEPNBACON | 1 | 9.99 | 6.09 | 4 | 
+KRAFT PIZZA MIX CHS,HERBS,SAUC | 1 | 6.99 | 4.6 | 1 | 
+GRADE A TURKEY COUPON | 1 | -5.0 | -5.0 | 22 | 
+MEDIUM EGGS COUPON | 6 | -5.5 | -5.5 | 3 | 
+COMP EGGS MEDIUM WHT | 2 | 5.5 | 4.56 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+COMP MINI APPLES GALA | 1 | 4.49 | 2.61 | 30 | 
+POTATO RUSSET POLY | 1 | 5.99 | 3.35 | 31 | 
+SINGLE CUPCAKE | 1 | 1.49 | 0.25 | 42 | 
+SINGLE CUPCAKE | 1 | 1.49 | 0.25 | 42 | 
+========================================================
+Basket # 2 for 9036047229:
+========================================================
+TILL_RECEIPT_NUMBER: 217078
+TRANSACTION_DATE: 2014-04-03 00:00:00
+MONTCLAIR WATER N/SPRING | 1 | 4.49 | 2.8 | 1 | 
+DAN PETIT AMIMALS STRAWBERRY | 2 | 9.98 | 7.42 | 3 | 
+DL SOUR CREAM | 1 | 4.79 | 3.79 | 3 | 
+COKE CLASSIC | 1 | 4.49 | 5.5 | 1 | 
+BOTTLE DEPOSIT | 1 | 1.2 | 1.2 | 7 | 
+ECOLOGY CHARGE | 1 | 0.12 | 0.12 | 6 | 
+FRENCH BREAD 400G | 1 | 4.58 | 0.53 | 40 | 
+BOTTLE DEPOSIT | 2 | 1.6 | 1.6 | 7 | 
+ECOLOGY CHARGE | 2 | 0.16 | 0.16 | 6 | 
+BOTTLE DEPOSIT | 1 | 1.2 | 1.2 | 7 | 
+ECOLOGY CHARGE | 1 | 0.12 | 0.12 | 6 | 
+========================================================
+Basket # 2 for 9037196744:
+========================================================
+TILL_RECEIPT_NUMBER: 216976
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COMP HOT LMN RELIEF EX STRGTH | 1 | 5.99 | 2.95 | 50 | 
+CAESAR SALAD LARGE | 1 | 8.99 | 3.49 | 97 | 
+========================================================
+Basket # 2 for 9032679354:
+========================================================
+TILL_RECEIPT_NUMBER: 216831
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CRACKER BARREL CHS JALAPENO | 1 | 11.99 | 8.83 | 1 | 
+CADBURY BAR HAZELNUT | 1 | 0.99 | 0.74 | 1 | 
+CRACKER BARREL CHS JALAPENO | 1 | 11.99 | 8.83 | 1 | 
+CADBURY BAR HAZELNUT | 1 | 0.99 | 0.74 | 1 | 
+CRACKER BARREL CHS JALAPENO | 1 | 11.99 | 8.83 | 1 | 
+CADBURY BAR HAZELNUT | 1 | 0.99 | 0.74 | 1 | 
+EARTH OWN ALMOND BEV UNSWT | 1 | 4.49 | 3.7 | 3 | 
+EARTH OWN ALMOND BEV UNSWT | 1 | 4.49 | 3.7 | 3 | 
+EARTH OWN ALMOND BEV UNSWT | 1 | 4.49 | 3.7 | 3 | 
+12 PIZZA MEDITERRANEAN | 1 | 8.99 | 3.91 | 96 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+GOGO QUINOA CRUNCHIES CINN | 1 | 4.49 | 2.29 | 1 | 
+BANANAS | 1 | 2.19 | 1.54 | 30 | 
+GRIMMS FLXSD TORTILLA | 1 | 4.99 | 2.05 | 89 | 
+12 PIZZA MEDITERRANEAN | 1 | 8.99 | 3.91 | 96 | 
+PARTY PIZZA PEPPERONI/HAWAIIAN | 1 | 12.99 | 6.16 | 96 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+GOGO QUINOA CRUNCHIES CINN | 1 | 4.49 | 2.29 | 1 | 
+GRIMMS FLXSD TORTILLA | 1 | 4.99 | 2.05 | 89 | 
+PARTY PIZZA PEPPERONI/HAWAIIAN | 1 | 12.99 | 6.16 | 96 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+GOGO QUINOA CRUNCHIES CINN | 1 | 4.49 | 2.29 | 1 | 
+BANANAS | 1 | 2.19 | 1.54 | 30 | 
+GRIMMS FLXSD TORTILLA | 1 | 4.99 | 2.05 | 89 | 
+12 PIZZA MEDITERRANEAN | 1 | 8.99 | 3.91 | 96 | 
+PARTY PIZZA PEPPERONI/HAWAIIAN | 1 | 12.99 | 6.16 | 96 | 
+BANANAS | 1 | 2.19 | 1.54 | 30 | 
+========================================================
+Basket # 2 for 9032931232:
+========================================================
+TILL_RECEIPT_NUMBER: 216612
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ARIZONA FRUIT PUNCH | 6 | 5.34 | 4.2 | 1 | 
+PLUMS REGULAR | 1 | 5.9 | 6.27 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+DL MILK CHOCOLATE | 1 | 5.19 | 6.43 | 3 | 
+DINNER BUNS | 1 | 2.99 | 0.01 | 44 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+CLUB H BEEF STEW SEASNG | 1 | 2.99 | 1.27 | 1 | 
+CELERY STICKS BULK | 0 | 0.96 | 0.34 | 31 | 
+THICK SANDWICH EGG SALAD | 1 | 4.99 | 0.84 | 98 | 
+BANANAS | 1 | 2.36 | 1.65 | 30 | 
+CLUB H BEEF STEW SEASNG | 1 | 2.99 | 1.27 | 1 | 
+BH CARROT CHIPS | 1 | 1.99 | 0.95 | 31 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 6 | 0.6 | 0.6 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+========================================================
+Basket # 2 for 9037163868:
+========================================================
+TILL_RECEIPT_NUMBER: 144417
+TRANSACTION_DATE: 2014-04-03 00:00:00
+WATERMELONS MINI | 2 | 4.0 | 7.04 | 30 | 
+PEPPERS RED BELL | 0 | 1.63 | 0.87 | 31 | 
+SPINACH BUNCH | 1 | 1.79 | 1.12 | 31 | 
+CARROTS BULK INDIVIDUAL | 0 | 0.37 | 0.21 | 31 | 
+========================================================
+Basket # 2 for 9039061667:
+========================================================
+TILL_RECEIPT_NUMBER: 144386
+TRANSACTION_DATE: 2014-04-03 00:00:00
+SIMPLY ORANGE OJ 100% P/FREE | 1 | 4.44 | 4.37 | 3 | 
+EXTRA LEAN GRND RND | 1 | 5.04 | 7.66 | 20 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+DL MILK 2% CARTON | 1 | 2.39 | 1.82 | 3 | 
+80% WHOLE WHEAT BREAD | 1 | 2.29 | 0.49 | 40 | 
+1 PIECE OF CHICKEN | 1 | 2.5 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9038196542:
+========================================================
+TILL_RECEIPT_NUMBER: 175632
+TRANSACTION_DATE: 2014-04-03 00:00:00
+7 UP | 1 | 4.99 | 5.0 | 1 | 
+TRAY BUNS | 1 | 1.99 | 0.01 | 44 | 
+SIRLOIN TIP OVEN ROAST | 1 | 11.99 | 9.4 | 20 | 
+80% WHOLE WHEAT BREAD | 1 | 2.29 | 0.49 | 40 | 
+FRESON BROS WATER REFILL | 2 | 5.98 | 4.0 | 130 | 
+SIGNAL CORN WHOLE KERNEL | 1 | 3.69 | 2.24 | 4 | 
+BOTTLE DEPOSIT | 1 | 1.2 | 1.2 | 7 | 
+ECOLOGY CHARGE | 1 | 0.12 | 0.12 | 6 | 
+========================================================
+Basket # 2 for 9039197006:
+========================================================
+TILL_RECEIPT_NUMBER: 175569
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ARCTGARD SPINACH NUGGETS SELEC | 1 | 2.89 | 2.66 | 4 | 
+PURE BEEF SAUSAGE | 1 | 3.14 | 0.01 | 25 | 
+PORK LOIN CHOPS CC | 1 | 7.7 | 4.79 | 21 | 
+LIPTON CUP A SOUP CRM CHCKN | 1 | 1.99 | 1.26 | 1 | 
+LIPTON CUP A SOUP TOM W/CRTNS | 1 | 1.99 | 1.26 | 1 | 
+POLAR I/CRM BARS FUDGE | 1 | 6.67 | 4.94 | 4 | 
+========================================================
+Basket # 2 for 9039085523:
+========================================================
+TILL_RECEIPT_NUMBER: 216632
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.81 | 31 | 
+FRESON WATER w/DEPOSIT | 1 | 12.99 | 10.0 | 130 | 
+KALE-ORGANIC GREEN | 1 | 2.99 | 1.79 | 31 | 
+KALE-ORGANIC GREEN | 1 | 2.99 | 1.79 | 31 | 
+CUCUMBERS | 2 | 2.38 | 1.32 | 31 | 
+NATURES P GRNLA BR FLX PMK | 1 | 4.99 | 3.34 | 1 | 
+========================================================
+Basket # 2 for 9033182043:
+========================================================
+TILL_RECEIPT_NUMBER: 216979
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ACT II POPCORN MICRO BUTTER LO | 1 | 6.99 | 7.24 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+LANDMARK MILK 1% 2% SKIM CPN | 1 | -1.67 | -1.67 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+LANDMARK MILK 2% JUG | 1 | 4.67 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 9035911620:
+========================================================
+TILL_RECEIPT_NUMBER: 216720
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COMP BLNC OATMEAL VAR PACK | 2 | 5.76 | 2.74 | 1 | 
+SALAD BAR | 0 | 7.0 | 7.0 | 97 | 
+TIC TAC ORANGE | 2 | 2.98 | 2.02 | 1 | 
+PLANTERS ALMONDS | 2 | 5.58 | 3.68 | 1 | 
+========================================================
+Basket # 2 for 9037182425:
+========================================================
+TILL_RECEIPT_NUMBER: 216702
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ARTCGARD GRN BEAN SELECT EXFIN | 1 | 2.89 | 2.66 | 4 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+ARCTGARD STEAM MIX DUO FLORET | 1 | 2.89 | 2.66 | 4 | 
+FTHLS BUTTER CREAMY SALT | 1 | 4.49 | 4.17 | 3 | 
+MCCAIN PANCAKES POTATO | 1 | 4.39 | 3.26 | 4 | 
+CRISPY CHICKEN 5 PC ASSORTED | 1 | 9.99 | 0.01 | 86 | 
+COMP CREAM CHEESE BRICK | 1 | 3.69 | 3.09 | 3 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+FOOTHILLS BUTTER COUPON | 4 | -4.49 | -4.49 | 3 | 
+BNLS PRK LOIN CHOPS FF FP | 1 | 10.35 | 5.73 | 21 | 
+COMP CREAM CHEESE BRICK | 1 | 3.69 | 3.09 | 3 | 
+========================================================
+Basket # 2 for 9039262213:
+========================================================
+TILL_RECEIPT_NUMBER: 125059
+TRANSACTION_DATE: 2014-04-03 00:00:00
+COMP FLAKES OF HAM | 1 | 1.99 | 1.17 | 1 | 
+COMP FLAKES OF HAM | 1 | 1.99 | 1.17 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+COMP FLAKES OF HAM | 1 | 1.99 | 1.17 | 1 | 
+COMP FLAKES OF HAM | 1 | 1.99 | 1.17 | 1 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+PUREX B/TISSUE DBL | 1 | 8.99 | 7.76 | 1 | 
+KRAFT MIRACLE WHIP | 1 | 3.27 | 4.42 | 1 | 
+PUREX B/TISSUE DBL | 1 | 8.99 | 7.76 | 1 | 
+KRAFT MIRACLE WHIP | 1 | 3.27 | 4.42 | 1 | 
+BETTY C CAKE MX CHOC FDG | 1 | 1.99 | 1.12 | 1 | 
+BETTY C CAKE MX CHOC FDG | 1 | 1.99 | 1.12 | 1 | 
+BETTY C CAKE MX CHOC FDG | 1 | 1.99 | 1.12 | 1 | 
+BETTY C CAKE MX CHOC FDG | 1 | 1.99 | 1.12 | 1 | 
+COOL WHIP TOPPING | 1 | 4.69 | 2.84 | 4 | 
+OLYMEL S OLD FASHIONED HAM | 1 | 6.05 | 4.0 | 92 | 
+OLYMEL HAM BLACK FOREST | 1 | 4.58 | 6.49 | 92 | 
+JELL-O CHOC INSTANT PUDDING | 1 | 2.29 | 1.16 | 1 | 
+JELL-O CHOC INSTANT PUDDING | 1 | 2.29 | 1.16 | 1 | 
+DINNER BUNS | 1 | 2.99 | 0.01 | 44 | 
+DINNER BUNS | 1 | 2.99 | 0.01 | 44 | 
+CHIPITS BITS SKOR TOFFEE | 1 | 4.39 | 3.04 | 1 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+DUNCAN H CAKE MIX M/D WHITE | 1 | 2.99 | 1.89 | 1 | 
+DUNCAN H CAKE MIX M/D WHITE | 1 | 2.99 | 1.89 | 1 | 
+CELERY HEARTS | 1 | 2.49 | 0.86 | 31 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+DREAM WHIP TOPPING MIX | 1 | 4.39 | 2.68 | 1 | 
+COOL WHIP TOPPING | 1 | 4.69 | 2.84 | 4 | 
+DREAM WHIP TOPPING MIX | 1 | 4.39 | 2.68 | 1 | 
+CELERY HEARTS | 1 | 2.49 | 0.86 | 31 | 
+ARMSTRONG CHEDDAR MARBLE | 1 | 14.49 | 11.63 | 3 | 
+OLYMEL S OLD FASHIONED HAM | 1 | 6.05 | 4.0 | 92 | 
+OLYMEL HAM BLACK FOREST | 1 | 4.58 | 6.49 | 92 | 
+JELL-O CHOC INSTANT PUDDING | 1 | 2.29 | 1.16 | 1 | 
+COMP TORTLA CHIPS YEL SLTD | 1 | 4.97 | 2.9 | 1 | 
+ARMSTRONG CHEDDAR MARBLE | 1 | 14.49 | 11.63 | 3 | 
+DUNCAN H CAKE MIX M/D WHITE | 1 | 2.99 | 1.89 | 1 | 
+JELL-O CHOC INSTANT PUDDING | 1 | 2.29 | 1.16 | 1 | 
+DINNER BUNS | 1 | 2.99 | 0.01 | 44 | 
+DINNER BUNS | 1 | 2.99 | 0.01 | 44 | 
+CHIPITS BITS SKOR TOFFEE | 1 | 4.39 | 3.04 | 1 | 
+DUNCAN H CAKE MIX M/D WHITE | 1 | 2.99 | 1.89 | 1 | 
+COMP TORTLA CHIPS YEL SLTD | 1 | 4.97 | 2.9 | 1 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+COOL WHIP TOPPING | 1 | 4.69 | 2.84 | 4 | 
+COOL WHIP TOPPING | 1 | 4.69 | 2.84 | 4 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+========================================================
+Basket # 2 for 9037202998:
+========================================================
+TILL_RECEIPT_NUMBER: 144455
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.81 | 31 | 
+LETTUCE HEAD | 1 | 1.99 | 0.84 | 31 | 
+========================================================
+Basket # 2 for 9037203960:
+========================================================
+TILL_RECEIPT_NUMBER: 144481
+TRANSACTION_DATE: 2014-04-03 00:00:00
+FRENCHS MUSTARD YELLOW SQZ | 1 | 2.29 | 1.97 | 1 | 
+FRENCHS MUSTARD YELLOW SQZ | 1 | 2.29 | 1.97 | 1 | 
+FRENCHS MUSTARD YELLOW SQZ | 1 | 2.29 | 1.97 | 1 | 
+FRENCHS MUSTARD YELLOW SQZ | 1 | 2.29 | 1.97 | 1 | 
+BABY BOOMER POTATOS | 1 | 4.99 | 2.49 | 31 | 
+EUCERIN LIP BALM INTENSIVE | 1 | 6.29 | 4.2 | 50 | 
+DL CREAMO HALF + HALF | 1 | 2.19 | 1.7 | 3 | 
+BABY BOOMER POTATOS | 1 | 4.99 | 2.49 | 31 | 
+EUCERIN LIP BALM INTENSIVE | 1 | 6.29 | 4.2 | 50 | 
+DL CREAMO HALF + HALF | 1 | 2.19 | 1.7 | 3 | 
+DL CREAMO HALF + HALF | 1 | 2.19 | 1.7 | 3 | 
+BABY BOOMER POTATOS | 1 | 4.99 | 2.49 | 31 | 
+DL CREAMO HALF + HALF | 1 | 2.19 | 1.7 | 3 | 
+EUCERIN LIP BALM INTENSIVE | 1 | 6.29 | 4.2 | 50 | 
+BABY BOOMER POTATOS | 1 | 4.99 | 2.49 | 31 | 
+EUCERIN LIP BALM INTENSIVE | 1 | 6.29 | 4.2 | 50 | 
+========================================================
+Basket # 2 for 9038231418:
+========================================================
+TILL_RECEIPT_NUMBER: 125065
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CANTALOUPE | 1 | 2.49 | 2.18 | 30 | 
+TOMATOES GRAPE | 1 | 2.99 | 2.16 | 31 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+TOMATOES GRAPE | 1 | 2.99 | 2.16 | 31 | 
+CANTALOUPE | 1 | 2.49 | 2.18 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+PORK TENDERLOIN | 1 | 6.91 | 6.56 | 21 | 
+PORK TENDERLOIN | 1 | 6.91 | 6.56 | 21 | 
+BANANAS ORGANIC | 1 | 1.98 | 1.25 | 3 | 
+PINEAPPLE | 1 | 4.29 | 2.6 | 30 | 
+COMP STRAWBERRIES CNTRYLN | 1 | 6.49 | 3.67 | 4 | 
+CHKN BRST STIR FRY | 1 | 6.51 | 9.49 | 22 | 
+BLUEBERRIES | 1 | 3.99 | 4.41 | 30 | 
+PAPAYA | 1 | 4.49 | 3.18 | 30 | 
+COMP CHERRY + BERRY BOOST | 1 | 6.49 | 3.67 | 4 | 
+CHKN BRST STIR FRY | 1 | 6.51 | 9.49 | 22 | 
+SPINACH BUNCH | 1 | 1.79 | 1.12 | 31 | 
+MUSHROOMS BROWN CRIMINI | 1 | 2.99 | 1.31 | 31 | 
+KALE | 1 | 2.99 | 1.5 | 31 | 
+CARROTS BUNCH | 2 | 3.98 | 1.4 | 31 | 
+BANANAS ORGANIC | 1 | 1.98 | 1.25 | 3 | 
+PAPAYA | 1 | 4.49 | 3.18 | 30 | 
+POTATOES TERRIFIC TRIO | 1 | 4.99 | 2.66 | 31 | 
+COMP STRAWBERRIES CNTRYLN | 1 | 6.49 | 3.67 | 4 | 
+PRODUCE FRUIT MISC | 1 | 3.99 | 1.02 | 30 | 
+CARROTS BUNCH | 2 | 3.98 | 1.4 | 31 | 
+POTATOES TERRIFIC TRIO | 1 | 4.99 | 2.66 | 31 | 
+KALE | 1 | 2.99 | 1.5 | 31 | 
+MUSHROOMS BROWN CRIMINI | 1 | 2.99 | 1.31 | 31 | 
+SPINACH BUNCH | 1 | 1.79 | 1.12 | 31 | 
+MUSHROOMS BROWN CRIMINI | 1 | 2.99 | 1.31 | 31 | 
+COMP CHERRY + BERRY BOOST | 1 | 6.49 | 3.67 | 4 | 
+PINEAPPLE | 1 | 4.29 | 2.6 | 30 | 
+BLUEBERRIES | 1 | 3.99 | 4.41 | 30 | 
+PRODUCE FRUIT MISC | 1 | 3.99 | 1.02 | 30 | 
+MUSHROOMS BROWN CRIMINI | 1 | 2.99 | 1.31 | 31 | 
+========================================================
+Basket # 2 for 9034958637:
+========================================================
+TILL_RECEIPT_NUMBER: 216927
+TRANSACTION_DATE: 2014-04-03 00:00:00
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+GREEN G SWTLT PEAS | 1 | 3.49 | 3.05 | 4 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+BANANAS | 2 | 4.09 | 2.87 | 30 | 
+========================================================
+Basket # 2 for 9039027315:
+========================================================
+TILL_RECEIPT_NUMBER: 216852
+TRANSACTION_DATE: 2014-04-03 00:00:00
+WATERMELONS MINI | 2 | 4.0 | 7.04 | 30 | 
+B W H/C FILLETS GARLIC/HERB | 1 | 8.99 | 8.69 | 4 | 
+WATERMELONS MINI | 2 | 4.0 | 7.04 | 30 | 
+B W H/C FILLETS GARLIC/HERB | 1 | 8.99 | 8.69 | 4 | 
+ALMDFRSH BEVERAGE ORIG. | 1 | 4.49 | 3.7 | 3 | 
+FAITH FARMS CHS MEDIUM | 1 | 5.99 | 5.72 | 3 | 
+COMP PEROGY POT BCN ROMANO | 1 | 1.99 | 1.57 | 4 | 
+ALMDFRSH BEVERAGE ORIG. | 1 | 4.49 | 3.7 | 3 | 
+FAITH FARMS CHS MEDIUM | 1 | 5.99 | 5.72 | 3 | 
+COMP PEROGY POT BCN ROMANO | 1 | 1.99 | 1.57 | 4 | 
+* Item Not On File * | 1 | 1.99 | 1.68 | 1 | 
+* Item Not On File * | 1 | 1.99 | 1.68 | 1 | 
+* Item Not On File * | 1 | 1.99 | 1.68 | 1 | 
+CHEECHA K CHIPS TRIPLE CHEESE NACHO | 1 | 2.69 | 1.68 | 1 | 
+* Item Not On File * | 1 | 1.99 | 1.68 | 1 | 
+COMP NOODLES CHICKEN | 3 | 1.0 | 0.54 | 1 | 
+COMP NOODLES BEEF | 3 | 1.0 | 0.54 | 1 | 
+COMP NOODLES BEEF | 3 | 1.0 | 0.54 | 1 | 
+COMP NOODLES CHICKEN | 3 | 1.0 | 0.54 | 1 | 
+CHEECHA K CHIPS TRIPLE CHEESE NACHO | 1 | 2.69 | 1.68 | 1 | 
+KRAFT DINNER 3 CHEESE | 1 | 1.25 | 1.38 | 1 | 
+KRAFT DINNER ALFREDO | 1 | 1.25 | 1.38 | 1 | 
+KRAFT DINNER SHARP CHEDDAR | 1 | 1.25 | 1.4 | 1 | 
+KRAFT DINNER SHARP CHEDDAR | 1 | 1.25 | 1.4 | 1 | 
+GARLIC MESH 3PK | 1 | 1.19 | 0.51 | 31 | 
+BANANAS | 2 | 2.97 | 2.08 | 30 | 
+WHITE BREAD | 2 | 4.0 | 1.2 | 40 | 
+CODESSA COLONY EGGS | 1 | 4.49 | 4.49 | 3 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+CODESSA COLONY EGGS | 1 | 4.49 | 4.49 | 3 | 
+KRAFT DINNER 3 CHEESE | 1 | 1.25 | 1.38 | 1 | 
+BANANAS | 2 | 2.97 | 2.08 | 30 | 
+KRAFT DINNER ALFREDO | 1 | 1.25 | 1.38 | 1 | 
+GARLIC MESH 3PK | 1 | 1.19 | 0.51 | 31 | 
+KRAFT DINNER SHARP CHEDDAR | 1 | 1.25 | 1.4 | 1 | 
+KRAFT DINNER SHARP CHEDDAR | 1 | 1.25 | 1.4 | 1 | 
+WHITE BREAD | 2 | 4.0 | 1.2 | 40 | 
+========================================================
+Basket # 2 for 9039187620:
+========================================================
+TILL_RECEIPT_NUMBER: 216674
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CHAPMANS FZN YOGURT CHKY MNKY | 1 | 5.99 | 4.9 | 4 | 
+COMP CHS MOZZA FINELY SHRED | 1 | 5.99 | 4.62 | 3 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+CINNAMON BUNS - MINI | 1 | 4.0 | 1.6 | 45 | 
+CINNAMON BUNS - MINI | 1 | 4.0 | 1.6 | 45 | 
+WINDSOR SALT TABLE | 1 | 1.29 | 1.38 | 1 | 
+COMP SOUP MIX ONION | 1 | 1.49 | 0.9 | 1 | 
+APIO SALAD SWEET KALE | 1 | 2.69 | 2.46 | 32 | 
+APIO SALAD SWEET KALE | 1 | 2.69 | 2.46 | 32 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+WINDSOR SEA SALT FINE | 1 | 3.39 | 2.14 | 1 | 
+MEDIUM EGGS COUPON | 3 | -2.75 | -2.75 | 3 | 
+COMP EGGS MEDIUM WHT | 3 | 8.25 | 6.84 | 3 | 
+GRIMMS PIZZA PEPPERONI | 1 | 3.44 | 7.99 | 92 | 
+========================================================
+Basket # 2 for 9039165213:
+========================================================
+TILL_RECEIPT_NUMBER: 216903
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CUCUMBERS ENGLISH | 1 | 1.69 | 0.81 | 31 | 
+STRIPLOIN GRILLING STEAK | 1 | 6.74 | 14.22 | 20 | 
+DOLE SPRING MIX | 1 | 4.08 | 2.31 | 32 | 
+BIOMEDIC ACID REDUCER | 1 | 4.99 | 3.38 | 50 | 
+BIOMEDIC COLD/SINUS CAP NO DRWSY | 1 | 6.99 | 3.33 | 50 | 
+CILANTRO | 1 | 0.99 | 0.42 | 31 | 
+SOBAYA SOBA PASTA | 1 | 3.99 | 2.77 | 1 | 
+SPROUTS BEAN | 1 | 2.99 | 1.45 | 31 | 
+GARLIC BULK REGULAR | 0 | 0.62 | 0.33 | 31 | 
+LEMONS | 1 | 0.99 | 0.53 | 30 | 
+ONIONS GREEN | 1 | 0.79 | 0.35 | 31 | 
+========================================================
+Basket # 2 for 9039138368:
+========================================================
+TILL_RECEIPT_NUMBER: 217046
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CAULIFLOWER | 1 | 2.99 | 2.06 | 31 | 
+PEPSI NEXT | 1 | 4.99 | 5.15 | 1 | 
+R RIDGE MILK 1% | 1 | 5.49 | 4.67 | 3 | 
+KRAFT CR/B CHEESE OLD | 1 | 11.99 | 8.83 | 3 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+ASPARAGUS | 1 | 4.99 | 3.79 | 31 | 
+POTATOES BAKER | 1 | 2.45 | 1.67 | 31 | 
+NESTLE WATER PURE LIFE | 1 | 7.19 | 5.5 | 1 | 
+BABY BOOMER POTATOS | 1 | 4.99 | 2.49 | 31 | 
+TOMATOES LARGE | 1 | 3.84 | 2.42 | 31 | 
+ONIONS WHITE | 1 | 3.94 | 2.04 | 31 | 
+BOTTLE DEPOSIT | 1 | 2.4 | 2.4 | 7 | 
+MUSHROOMS REGULAR BULK | 0 | 2.38 | 1.19 | 31 | 
+FOOTHILLS BUTTER COUPON | 8 | -8.98 | -8.98 | 3 | 
+AVOCADOES. | 2 | 3.98 | 2.52 | 30 | 
+CRF ALUMINUM 12PK | 1 | 0.12 | 0.12 | 6 | 
+FTHLS BUTTER CREAMY SALT | 1 | 4.49 | 4.17 | 3 | 
+FTHLS BUTTER CREAMY SALT | 1 | 4.49 | 4.17 | 3 | 
+T+A ROMAINE HEARTS | 1 | 3.69 | 1.78 | 31 | 
+BLESWOLD SOUR CREAM NAT 500G | 1 | 4.79 | 3.84 | 1 | 
+APPLES CRIPPS PINK LADY | 1 | 3.89 | 2.05 | 30 | 
+LIMES | 2 | 1.98 | 2.54 | 30 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+STUBB'S ORIGINAL BBQ SAUCE. | 1 | 5.99 | 3.45 | 1 | 
+BOTTLE DEPOSIT ALUMINUM 12PK | 1 | 1.2 | 1.2 | 7 | 
+CAVENDISH FROM THE FARM WEDGES | 1 | 4.49 | 2.79 | 4 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+ORVILLE R POPCORN GRMNT | 1 | 5.49 | 3.45 | 1 | 
+JNSNVL SAUSAGE ORIG BRKFAST | 1 | 6.49 | 3.45 | 25 | 
+CLUB H ONION POWDER F/P | 1 | 8.69 | 4.94 | 1 | 
+PINEAPPLE | 1 | 4.29 | 2.6 | 30 | 
+JNSNVL SAUSAGE ORIG BRKFAST | 1 | 6.49 | 3.45 | 25 | 
+========================================================
+Basket # 2 for 9039156785:
+========================================================
+TILL_RECEIPT_NUMBER: 216847
+TRANSACTION_DATE: 2014-04-03 00:00:00
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+STFR SENS CHICKEN ALFREDO | 1 | 9.99 | 5.28 | 4 | 
+GARLIC BREAD-1/2 LOAF | 1 | 2.49 | 0.65 | 40 | 
+STFR SENS CHICKEN ALFREDO | 1 | 9.99 | 5.28 | 4 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+GARLIC BREAD-1/2 LOAF | 1 | 2.49 | 0.65 | 40 | 
+BARISTA KCUP ITALIAN RST DARK | 1 | 11.99 | 8.33 | 1 | 
+STFR SENS CHICKEN ALFREDO | 1 | 9.99 | 5.28 | 4 | 
+STFR SENS CHICKEN ALFREDO | 1 | 9.99 | 5.28 | 4 | 
+STRAWBERRIES COUPON | 2 | -2.0 | -2.0 | 30 | 
+BARISTA KCUP ITALIAN RST DARK | 1 | 11.99 | 8.33 | 1 | 
+========================================================
+Basket # 2 for 9039828279:
+========================================================
+TILL_RECEIPT_NUMBER: 216697
+TRANSACTION_DATE: 2014-04-03 00:00:00
+B W HADDOCK SIMPLY BAKE | 1 | 5.99 | 4.61 | 4 | 
+MOTTS JUICE CLAMATO | 2 | 6.98 | 5.28 | 1 | 
+COKE CLASSIC | 4 | 7.96 | 5.44 | 1 | 
+DL SOUR CREAM 14% | 1 | 1.51 | 2.34 | 3 | 
+LAYS CHIPS DILL PICKLE | 4 | 8.0 | 9.64 | 1 | 
+DL SOUR CREAM 14% | 1 | 2.49 | 2.34 | 3 | 
+ONIONS GREEN | 3 | 2.37 | 1.05 | 31 | 
+LITPOTCO POTATOES YELLOW | 1 | 6.99 | 6.5 | 31 | 
+COMP BACON BITS | 1 | 2.19 | 1.32 | 1 | 
+ECOLOGY CHARGE | 2 | 0.14 | 0.14 | 6 | 
+BOTTLE DEPOSIT | 2 | 0.5 | 0.5 | 7 | 
+ECOLOGY CHARGE | 4 | 0.28 | 0.28 | 6 | 
+FRESON BROS WATER REFILL | 3 | 8.97 | 6.0 | 130 | 
+* Item Not On File * | 3 | -4.5 | -4.5 | 130 | 
+COKE PRODUCTS COUPON | 4 | -3.96 | -3.96 | 1 | 
+BOTTLE DEPOSIT | 4 | 1.0 | 1.0 | 7 | 
+========================================================
+Basket # 2 for 9035911240:
+========================================================
+TILL_RECEIPT_NUMBER: 216890
+TRANSACTION_DATE: 2014-04-03 00:00:00
+SIRLOIN TIP OVEN ROAST | 1 | 8.61 | 9.4 | 20 | 
+BEEF ON A BUN COMBO | 1 | 8.0 | 0.01 | 94 | 
+FOIL LOAF PANS | 1 | 2.99 | 1.25 | 71 | 
+BEEF ON A BUN COMBO | 1 | 8.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9039141835:
+========================================================
+TILL_RECEIPT_NUMBER: 175691
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BNLS SKNLS CHICKEN BREAST | 1 | 9.0 | 9.49 | 22 | 
+APPLES GRANNY SMITH | 1 | 2.92 | 1.47 | 30 | 
+T+A ROMAINE HEARTS | 1 | 3.69 | 1.78 | 31 | 
+CLUB H BACON BITS | 1 | 4.49 | 2.53 | 1 | 
+KRAFT CHS PARMESAN GRATED | 1 | 5.49 | 3.4 | 1 | 
+ABON OLIVE OIL X-VIRGIN | 1 | 7.99 | 4.99 | 1 | 
+GRISSOL CROUTONS 3 BREAD CAESAR | 1 | 2.59 | 1.59 | 1 | 
+========================================================
+Basket # 2 for 9039752672:
+========================================================
+TILL_RECEIPT_NUMBER: 144449
+TRANSACTION_DATE: 2014-04-03 00:00:00
+ORIGINAL PEPPERONI | 1 | 6.99 | 1.29 | 26 | 
+O DUTCH CHIPS KETCHUP | 1 | 3.99 | 2.88 | 1 | 
+BEEF JERKY ORIG SNACK | 1 | 3.01 | 1.81 | 26 | 
+O DUTCH CHIPS KETCHUP | 1 | 2.01 | 2.88 | 1 | 
+MONTCLAIR WATER N/SPRING | 1 | 4.49 | 2.8 | 1 | 
+HEALTH AND BEAUTY $1.00 OFF | 12 | -12.0 | -12.0 | 51 | 
+J+J NURSING PADS | 1 | 11.99 | 7.88 | 50 | 
+ECOLOGY CHARGE | 1 | 0.12 | 0.12 | 6 | 
+BOTTLE DEPOSIT | 1 | 1.2 | 1.2 | 7 | 
+MINI SUBS 3 PACK | 1 | 8.99 | 2.7 | 98 | 
+DORITOS CHIPS NACHO CHS | 1 | 3.49 | 2.96 | 1 | 
+DORITOS CHIPS NACHO CHS | -1 | -3.49 | -2.96 | 1 | 
+========================================================
+Basket # 2 for 9039154974:
+========================================================
+TILL_RECEIPT_NUMBER: 216898
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BNLS SKNLS CHICKEN BREAST | 1 | 9.74 | 9.49 | 22 | 
+EYE RND FS STEAK FAM PK | 1 | 11.45 | 9.52 | 20 | 
+VH SAUCE TANDOORI | 1 | 4.99 | 3.11 | 1 | 
+UNCLEBEN RICE W/G BROWN 10MIN | 1 | 6.89 | 4.82 | 1 | 
+CLIF GRANOLA BAR CRNCH | 1 | 4.49 | 2.9 | 1 | 
+CLIF GRANOLA BAR CRNCH | 1 | 4.49 | 2.9 | 1 | 
+COMP BABY SPINACH ORG | 1 | 4.99 | 2.54 | 31 | 
+MUSHROOMS REGULAR BULK | 0 | 2.68 | 1.34 | 31 | 
+SPROUTS BEAN | 1 | 2.99 | 1.45 | 31 | 
+COMP PEPPER RAINBOW PACK | 1 | 6.49 | 3.43 | 31 | 
+========================================================
+Basket # 2 for 9039056808:
+========================================================
+TILL_RECEIPT_NUMBER: 144385
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BNLS SKNLS CHICKEN BREAST | 1 | 6.84 | 9.49 | 22 | 
+BNLS SKNLS CHICKEN BREAST | 1 | 6.75 | 9.49 | 22 | 
+GLAD FREEZERWARE SMALL | 1 | 3.99 | 2.94 | 1 | 
+EAT SMART BROCI FLRTS | 1 | 3.49 | 1.36 | 32 | 
+GARLIC SAVER | 1 | 4.99 | 2.5 | 71 | 
+GARLIC BULK REGULAR | 0 | 0.96 | 0.51 | 31 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+SO DEL CREAMER FRNCH VAN | 1 | 2.99 | 1.8 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+SO DEL CREAMER FRNCH VAN | 1 | 2.99 | 1.8 | 3 | 
+COMP SPICE CUMIN GROUND | 1 | 3.49 | 1.92 | 1 | 
+$3 YEAR OF THE HORSE | 1 | 3.0 | 2.85 | 160 | 
+$3 YEAR OF THE HORSE | 1 | 3.0 | 2.85 | 160 | 
+SCRATCH TICKET CASH EXP | 1 | 3.0 | 0.03 | 160 | 
+SCRATCH TICKET CASH EXP | 1 | 3.0 | 0.03 | 160 | 
+========================================================
+Basket # 2 for 9039536684:
+========================================================
+TILL_RECEIPT_NUMBER: 216942
+TRANSACTION_DATE: 2014-04-03 00:00:00
+FRYNG CHKN WING DRUMETTES FP | 1 | 8.92 | 6.75 | 22 | 
+ANNIES SNACK MIX CHEDDAR | 1 | 4.29 | 3.47 | 1 | 
+CLOVER LF MUSSELS SMOKED | 1 | 2.49 | 1.27 | 1 | 
+KEEBLER PIE CRUST CHOCOLATE | 1 | 3.49 | 1.75 | 1 | 
+FRIDGE/RANGE 40W LIGHTBULB. | 1 | 1.59 | 0.76 | 69 | 
+JELLO PUDDING PIE FILLING | 1 | 2.79 | 1.69 | 1 | 
+HARVEST KITCHEN | 1 | 4.99 | 0.01 | 46 | 
+TROIKA CABBAGE ROLLS BACON | 1 | 10.49 | 8.6 | 4 | 
+HERITAGE CANDY FLOSS | 1 | 2.69 | 1.75 | 1 | 
+STRAWBERRIES COUPON | 1 | -1.0 | -1.0 | 30 | 
+DAIRYLAND WHIP  CREAM 36% | 1 | 3.69 | 0.29 | 3 | 
+BOTTLE DEPOSIT GABLE SINGLE | 1 | 0.1 | 0.1 | 7 | 
+STRAWBERRIES | 1 | 2.49 | 1.77 | 30 | 
+PEACHES | 1 | 5.23 | 4.77 | 30 | 
+========================================================
+Basket # 2 for 9039106623:
+========================================================
+TILL_RECEIPT_NUMBER: 216778
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PORK SHOULDER BLADE STEAK FP | 1 | 5.87 | 3.87 | 21 | 
+COMP PEROGY POTATO + CHEDDAR | 1 | 1.99 | 1.57 | 4 | 
+MOTTS JUICE CLAMATO | 1 | 3.49 | 2.64 | 1 | 
+PRIMO FUSILLI | 1 | 2.79 | 1.84 | 1 | 
+PRIMO SMALL SHELLS | 1 | 2.21 | 1.84 | 1 | 
+SIGNAL MAC+CHSE SLICED | 1 | 1.49 | 1.05 | 28 | 
+SIGNAL MAC+CHSE SLICED | 1 | 1.49 | 1.05 | 28 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+========================================================
+Basket # 2 for 9038842931:
+========================================================
+TILL_RECEIPT_NUMBER: 83062
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PRIME RIB GRILLING STEAK FP | 1 | 22.6 | 14.56 | 20 | 
+ALMDFRSH BEVERAGE ORIG. | 1 | 4.49 | 3.7 | 3 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ALMOND FRSH BEV CHOCOLATE | 1 | 5.49 | 3.7 | 3 | 
+FRESH CUT FLOWERS | 1 | 6.99 | 0.01 | 15 | 
+MUSHROOMS HERB GARLIC SLICED | 1 | 4.29 | 2.49 | 31 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.05 | 0.05 | 6 | 
+CATELLI PASTA LONG VERMICELLI | 1 | 2.39 | 1.78 | 1 | 
+========================================================
+Basket # 2 for 9032389295:
+========================================================
+TILL_RECEIPT_NUMBER: 216981
+TRANSACTION_DATE: 2014-04-03 00:00:00
+O DUTCH CHIPS ORIGINAL | 1 | 2.01 | 2.88 | 1 | 
+O DUTCH POTATO CHIPS BBQ | 1 | 3.99 | 2.88 | 1 | 
+DINNER BUNS | 1 | 2.99 | 0.01 | 44 | 
+WHITE BREAD | 1 | 2.29 | 0.6 | 40 | 
+========================================================
+Basket # 2 for 9039744869:
+========================================================
+TILL_RECEIPT_NUMBER: 175614
+TRANSACTION_DATE: 2014-04-03 00:00:00
+MOUNTAIN PARK WH GRAIN BREAD | 1 | 2.0 | 0.56 | 40 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+LANDMARK MILK 1% 2% SKIM CPN | 1 | -1.67 | -1.67 | 3 | 
+LANDMARK MILK 1% JUG | 1 | 4.67 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 9032704416:
+========================================================
+TILL_RECEIPT_NUMBER: 216627
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CHRISTIE FUDGEE-O DBL STUFF | 1 | 2.99 | 2.98 | 1 | 
+CHRISTIE CHIPS AHOY CHWY | 1 | 2.01 | 2.98 | 1 | 
+DEMP BREAD WHT TEXAS TOAST | 1 | 3.99 | 2.48 | 1 | 
+========================================================
+Basket # 2 for 9039684077:
+========================================================
+TILL_RECEIPT_NUMBER: 175693
+TRANSACTION_DATE: 2014-04-03 00:00:00
+LEAN GRND BEEF FP | 1 | 8.31 | 7.05 | 20 | 
+KRAFT CHEDDAR WHITE SINGLE | 1 | 3.99 | 5.41 | 3 | 
+KRAFT CHS SLICES X/THIN | 1 | 3.99 | 5.41 | 3 | 
+COMP CORN PEACHES + CREAM | 1 | 0.99 | 0.71 | 1 | 
+COMP KIDNEY BEANS DARK RED | 1 | 0.99 | 0.82 | 1 | 
+COMP MAC + CHEESE REG | 1 | 0.69 | 0.54 | 1 | 
+COMP MAC + CHEESE REG | 1 | 0.69 | 0.54 | 1 | 
+COMP BEANS w/PORK + MOLASSES | 1 | 0.99 | 0.82 | 1 | 
+COMP MAC + CHS EX CRMY | 1 | 0.99 | 0.62 | 1 | 
+COMP MAC + CHS WHT CHED | 1 | 0.99 | 0.62 | 1 | 
+HUNTS TOMATO SCE | 1 | 0.99 | 1.01 | 1 | 
+HUNTS TOMATO SCE | 1 | 0.99 | 1.01 | 1 | 
+LEAN GRND BF SEAS MEATBALLS | 1 | 4.9 | 7.99 | 20 | 
+LEAN GRND BF SEAS MEATLOAF | 1 | 7.15 | 7.99 | 20 | 
+CMPBL SOUP TOMATO | 1 | 6.99 | 11.04 | 1 | 
+CMPBL SOUP MUSHROOM | 1 | 6.99 | 11.04 | 1 | 
+========================================================
+Basket # 2 for 9039685995:
+========================================================
+TILL_RECEIPT_NUMBER: 216656
+TRANSACTION_DATE: 2014-04-03 00:00:00
+FRYNG CHKN DRUMSTICKS WHS PK | 1 | 12.27 | 3.95 | 22 | 
+SILVERHILLS LTTL BIG BREAD | 1 | 4.99 | 3.07 | 1 | 
+SILVER HILLS BREAD SQUIRELLY | 1 | 4.99 | 3.07 | 1 | 
+========================================================
+Basket # 2 for 9037300113:
+========================================================
+TILL_RECEIPT_NUMBER: 144416
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CHRISTIE CHIPS AHOY DBL CHOC | 1 | 2.99 | 2.98 | 1 | 
+CHRISTIE CHIPS AHOY DBL CHOC | 1 | 2.01 | 2.98 | 1 | 
+========================================================
+Basket # 2 for 9039537918:
+========================================================
+TILL_RECEIPT_NUMBER: 216922
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CHRISTIE CHIPS AHOY | 1 | 2.99 | 2.98 | 1 | 
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+DL COTTAGE CHEESE 2% | 1 | 5.49 | 4.74 | 3 | 
+LEAN GROUND BEEF WP | 1 | 18.57 | 7.05 | 20 | 
+DEL M FRUIT CUPS DICED PEACHES | 1 | 3.97 | 2.91 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+DL MILK HOMO CARTON | 1 | 2.49 | 1.84 | 3 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+MOTTS VARIETY UNSWT FRUIT | 1 | 15.99 | 12.74 | 1 | 
+HEINZ JR YOG POUCH BAN VAN | 1 | 1.99 | 1.56 | 50 | 
+HEINZ STRORG PEAR BAN KIW PCH | 1 | 1.89 | 1.76 | 50 | 
+HNZ BAN/PEAR/MANGO | 1 | 1.99 | 1.56 | 50 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+HEINZ JR YOG POUCH BAN VAN | 1 | 1.99 | 1.56 | 50 | 
+BANANAS | 1 | 2.62 | 1.84 | 30 | 
+HEINZ STR BOWL PRUNES | 1 | 1.09 | 1.04 | 50 | 
+SILH ST/PE/RA/BL | 1 | 9.49 | 6.59 | 3 | 
+NABOB TASSIMO VANILLA | 1 | 9.39 | 6.69 | 1 | 
+TASSIMO TETLEY CHAMOMILE TEA | 1 | 8.99 | 5.98 | 1 | 
+CABBAGE GREEN | 2 | 4.05 | 2.36 | 31 | 
+BANANAS | 1 | 1.83 | 1.29 | 30 | 
+SIGNAL PASTA SCE MSH+GRLC | 1 | 6.99 | 4.43 | 1 | 
+IOGO NANO DRINK BANANA | 1 | 4.49 | 2.97 | 3 | 
+HNZ BAN/PEAR/MANGO | 1 | 1.99 | 1.56 | 50 | 
+EGGS LARGE | 1 | 4.49 | 3.81 | 3 | 
+========================================================
+Basket # 2 for 9039068437:
+========================================================
+TILL_RECEIPT_NUMBER: 217062
+TRANSACTION_DATE: 2014-04-03 00:00:00
+FRESCA | 1 | 1.99 | 1.36 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+MAPLE LEAF BACON READY CRISP PIECES | 1 | 5.99 | 3.54 | 28 | 
+H F SAMBAL OELEK CHILI PASTE | 1 | 4.99 | 2.6 | 1 | 
+KRAFT DINNER 3 CHEESE | 1 | 1.25 | 1.38 | 1 | 
+KRAFT DINNER 3 CHEESE | 1 | 1.25 | 1.38 | 1 | 
+========================================================
+Basket # 2 for 9039097446:
+========================================================
+TILL_RECEIPT_NUMBER: 216965
+TRANSACTION_DATE: 2014-04-03 00:00:00
+OCEAN SPRAY CRANBERRY DIET | 1 | 3.49 | 2.98 | 1 | 
+TWIX CARAMEL SINGLE | 1 | 1.29 | 0.86 | 1 | 
+OH HENRY SINGLE BAR | 1 | 1.67 | 0.89 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+========================================================
+Basket # 2 for 9036674084:
+========================================================
+TILL_RECEIPT_NUMBER: 217073
+TRANSACTION_DATE: 2014-04-03 00:00:00
+DL MILK 2% PLASTIC | 1 | 4.99 | 5.8 | 3 | 
+EGGS LARGE | 1 | 2.69 | 2.3 | 3 | 
+ECOLOGY CHARGE | 1 | 0.03 | 0.03 | 6 | 
+KRAFT MIRACLE WHIP EZ SQUEEZE C/W | 1 | 4.49 | 3.49 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+CRACKBAR SWISS SLICES | 1 | 4.99 | 4.37 | 3 | 
+OLYMEL HAM BLACK FOREST | 1 | 5.24 | 6.49 | 91 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+MIXED VEGETABLES 16OZ | 1 | 2.73 | 2.73 | 97 | 
+ALO EXPOSED ORIG+MIEL JCE | 1 | 2.69 | 1.77 | 1 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+LETTUCE GREEN LEAF | 1 | 1.69 | 0.77 | 31 | 
+========================================================
+Basket # 2 for 9036911309:
+========================================================
+TILL_RECEIPT_NUMBER: 175571
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CHRISTIE POTATO THN SLT/VIN | 1 | 2.89 | 2.42 | 1 | 
+MEZZETTA PASTA SAUCE RSTD GRL | 1 | 5.99 | 4.33 | 1 | 
+LANDMARK MILK 1% 2% SKIM CPN | 1 | -1.67 | -1.67 | 3 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+HERITAGE CANDY FLOSS | 1 | 2.69 | 1.75 | 1 | 
+PASTA T TORTLLNI CHKN CJN | 1 | 5.99 | 4.0 | 4 | 
+GARLIC BREAD-1/2 LOAF | 1 | 2.49 | 0.65 | 40 | 
+LANDMARK MILK 1% JUG | 1 | 4.67 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 777030000000810:
+========================================================
+TILL_RECEIPT_NUMBER: 216653
+TRANSACTION_DATE: 2014-04-03 00:00:00
+CAMPBELLS SOUP CREAM MUSHROOM | 1 | 1.07 | 1.02 | 1 | 
+CAMPBELLS SOUP CREAM MUSHROOM | 1 | 1.07 | 1.02 | 1 | 
+GREEN G PEAS SUMMER SWEET | 1 | 1.79 | 1.16 | 1 | 
+GREEN G CORN CREAM | 1 | 1.99 | 1.56 | 1 | 
+AYLMER BEETS ROSEBUD | 1 | 2.39 | 1.53 | 1 | 
+AYLMER BEETS SLICED | 1 | 2.49 | 1.58 | 1 | 
+CMPBL SOUP VEG GARDEN MEDLEY | 1 | 2.39 | 1.51 | 1 | 
+LEAN GROUND BEEF WP | 1 | 16.54 | 7.05 | 20 | 
+CRUSTY BUNS | 1 | 2.99 | 0.6 | 44 | 
+WHITE BREAD | 1 | 2.29 | 0.6 | 40 | 
+========================================================
+Basket # 2 for 9039831779:
+========================================================
+TILL_RECEIPT_NUMBER: 216613
+TRANSACTION_DATE: 2014-04-03 00:00:00
+DL MILK HOMO/PLASTIC. | 1 | 4.99 | 6.2 | 3 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+PEPSI 710ML | 1 | 1.79 | 0.5 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+========================================================
+Basket # 2 for 9039961378:
+========================================================
+TILL_RECEIPT_NUMBER: 175566
+TRANSACTION_DATE: 2014-04-03 00:00:00
+A+W ROOT BEER | 1 | 4.49 | 5.5 | 1 | 
+BOTTLE DEPOSIT | 1 | 1.2 | 1.2 | 7 | 
+ECOLOGY CHARGE | 1 | 0.12 | 0.12 | 6 | 
+CMPBL CHUNKY BEEF | 1 | 2.97 | 1.79 | 1 | 
+========================================================
+Basket # 2 for 9039328890:
+========================================================
+TILL_RECEIPT_NUMBER: 216958
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BOYLAN RED BIRCH BEER | 1 | 1.89 | 1.13 | 1 | 
+BOYLAN RED BIRCH BEER | 1 | 1.89 | 1.13 | 1 | 
+NAMASTE HMSTYL CTNG MX | 1 | 6.49 | 4.3 | 1 | 
+QUARTER CHICKEN-2PC COMBO | 1 | 7.0 | 0.01 | 94 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+MUSHROOMS HERB GARLIC SLICED | 1 | 4.29 | 2.49 | 31 | 
+DRAGON FRUIT | 1 | 4.29 | 2.55 | 30 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.06 | 0.06 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+========================================================
+Basket # 2 for 9039101937:
+========================================================
+TILL_RECEIPT_NUMBER: 216781
+TRANSACTION_DATE: 2014-04-03 00:00:00
+HUNTS TOMATO DCD PEEL/DICE | 1 | 1.49 | 0.86 | 1 | 
+ARIZONA FRUIT PUNCH | 1 | 0.89 | 0.7 | 1 | 
+DRAGON FRUIT | 1 | 4.29 | 2.55 | 30 | 
+PARSLEY | 1 | 1.19 | 0.55 | 31 | 
+PEPPERS GREEN BELL | 0 | 1.92 | 1.08 | 31 | 
+TOMATOES HOTHOUSE | 0 | 1.94 | 1.22 | 31 | 
+BANANAS | 1 | 1.78 | 1.24 | 30 | 
+PASSION FRUIT | 2 | 4.98 | 3.06 | 30 | 
+CELERY STICKS BULK | 0 | 0.92 | 0.32 | 31 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+POP SHOPPE PINEAPPLE | 1 | 2.19 | 1.43 | 1 | 
+EFFEM SKITTLES ORIGINAL | 1 | 1.39 | 0.87 | 1 | 
+========================================================
+Basket # 2 for 9039145146:
+========================================================
+TILL_RECEIPT_NUMBER: 216904
+TRANSACTION_DATE: 2014-04-03 00:00:00
+PACE SALSA THK+CHK MILD | 1 | 3.99 | 2.66 | 1 | 
+TACOTIME SEASONING TACO | 2 | 2.98 | 1.96 | 1 | 
+QUEPASA TORTILLA CHIP RED SLTD | 1 | 3.49 | 2.83 | 1 | 
+LETTUCE ICEBERG | 1 | 1.99 | 0.84 | 31 | 
+========================================================
+Basket # 2 for 9039686620:
+========================================================
+TILL_RECEIPT_NUMBER: 216855
+TRANSACTION_DATE: 2014-04-03 00:00:00
+DR PEPPER | 1 | 0.99 | 0.76 | 1 | 
+LIPTON BRISK ICED TEA LEMON | 1 | 0.99 | 0.76 | 1 | 
+LIPTON BRISK FRUIT PNCH | 1 | 0.99 | 0.8 | 1 | 
+LIPTON BRISK FRUIT PNCH | 1 | 0.99 | 0.8 | 1 | 
+COMP SALAD POTATO | 1 | 5.0 | 3.0 | 97 | 
+COMP SALAD POTATO | 1 | 5.0 | 3.0 | 97 | 
+DR PEPPER | 1 | 0.99 | 0.76 | 1 | 
+LIPTON BRISK ICED TEA LEMON | 1 | 0.99 | 0.76 | 1 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+HUGO NATURALS BATH SALTS | 0 | 4.63 | 2.45 | 51 | 
+PURITY GINGER SNAPS | 1 | 2.99 | 1.91 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+PURITY GINGER SNAPS | 1 | 2.99 | 1.91 | 1 | 
+ECOLOGY CHARGE | 1 | 0.07 | 0.07 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.25 | 0.25 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+CUPCAKE DECORATING KIT | 1 | 9.99 | 4.0 | 42 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+ECOLOGY CHARGE | 1 | 0.01 | 0.01 | 6 | 
+BOTTLE DEPOSIT | 1 | 0.1 | 0.1 | 7 | 
+CUPCAKE DECORATING KIT | 1 | 9.99 | 4.0 | 42 | 
+HUGO NATURALS BATH SALTS | 0 | 4.63 | 2.45 | 51 | 
+LANDMARK MILK 2% JUG | 1 | 4.67 | 5.63 | 3 | 
+LANDMARK MILK 2% JUG | 1 | 4.67 | 5.63 | 3 | 
+========================================================
+Basket # 2 for 9039383455:
+========================================================
+TILL_RECEIPT_NUMBER: 216619
+TRANSACTION_DATE: 2014-04-03 00:00:00
+TROPHY TRAIL MIX CRAN GOLD | 1 | 8.19 | 5.48 | 1 | 
+========================================================
+Basket # 2 for 9039688215:
+========================================================
+TILL_RECEIPT_NUMBER: 125049
+TRANSACTION_DATE: 2014-04-03 00:00:00
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HAWKINS CHEEZIES | 1 | 2.49 | 1.82 | 1 | 
+HALF CHICKEN-4PC | 1 | 6.0 | 0.01 | 94 | 
+HALF CHICKEN-4PC | 1 | 6.0 | 0.01 | 94 | 
+HALF CHICKEN-4PC | 1 | 6.0 | 0.01 | 94 | 
+HALF CHICKEN-4PC | 1 | 6.0 | 0.01 | 94 | 
+========================================================
+Basket # 2 for 9038856206:
+========================================================
+TILL_RECEIPT_NUMBER: 144360
+TRANSACTION_DATE: 2014-04-03 00:00:00
+SNAPPLE COCKTAIL KIWI STRAW | 1 | 1.99 | 0.97 | 1 | 
+BOTTLE DEPOSIT GLASS SINGLE | 1 | 0.1 | 0.1 | 7 | 
+CHICKEN POT PIE | 1 | 4.49 | 2.27 | 94 | 
+CRF GLASS SINGLE | 1 | 0.06 | 0.06 | 6 | 
+========================================================
+Basket # 2 for 9038682632:
+========================================================
+TILL_RECEIPT_NUMBER: 216809
+TRANSACTION_DATE: 2014-04-03 00:00:00
+BOURSIN GARLIC/HERB CHEESE | 6 | 44.94 | 25.38 | 90 | 
+========================================================
+Basket # 2 for 9039132483:
+========================================================
+TILL_RECEIPT_NUMBER: 109147
+TRANSACTION_DATE: 2014-04-03 00:00:00
+KITCHENS OF THE WORLD | 1 | 13.0 | 13.0 | 94 | 
+KITCHENS OF THE WORLD | 0 | 8.7 | 8.7 | 94 | 
+KITCHENS OF THE WORLD | 1 | 11.7 | 11.7 | 94 | 
+========================================================
+Basket # 2 for 9039684209:
+========================================================
+TILL_RECEIPT_NUMBER: 144379
+TRANSACTION_DATE: 2014-04-03 00:00:00
+TYLENOL ARTHRITIS 100PK | 1 | 16.99 | 11.76 | 50 | 
+HEALTH AND BEAUTY $1.00 OFF | 17 | -17.0 | -17.0 | 51 | 
+========================================================
+Basket # 2 for 9039686260:
+========================================================
+TILL_RECEIPT_NUMBER: 109156
+TRANSACTION_DATE: 2014-04-03 00:00:00
+KITCHENS OF THE WORLD | 0 | 5.3 | 5.3 | 94 | 
+KITCHENS OF THE WORLD | 0 | 8.7 | 8.7 | 94 | 
+========================================================

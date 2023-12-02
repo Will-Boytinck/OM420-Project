@@ -1,0 +1,25 @@
+SELECT till_receipt_number, 
+weekday(transaction_Date) AS Day_of_Week, 
+cu_age_range, 
+cu_gender,
+sum(iif(sub_department in (1),1,0)) as Grocery_Purchases,
+sum(iif(sub_department in (3,33),1,0)) as Dairy_Purchases,
+sum(iif(sub_department in (78,79),1,0)) as Tobacco_Purchases,
+sum(iif(sub_department in (31,32,34,35),1,0)) as Produce_Purchases,
+sum(iif(sub_department in (20,21,22,23,24,25,26,27,28,29),1,0)) as Meat_Purchases,
+sum(iif(sub_department in (50,51,61),1,0)) as Health_Purchases,
+sum(iif(sub_department in (83,84,86,87,88,89,90,91,92,93,94,95,96,97,98),1,0)) as Deli_Purchases,
+sum(iif(sub_department in (60,62,63,67,68,69,70,71,72,74,75,76),1,0)) as GM_Purchases,
+sum(iif(sub_department in (15,16,17),1,0)) as Floral_Purchases,
+sum(iif(sub_department in (40,41,42,43,44,45),1,0)) as Bakery_Purchases,
+sum(iif(sub_department in (130,131),1,0)) as Water_Purchases,
+sum(iif(sub_department in (80,81),1,0)) as Bulk_Food_Purchases,
+sum(iif(sub_department in (190,192,194),1,0)) as Photo_Purchases,
+sum(iif(sub_department in (4),1,0)) as Frozen_Food_Purchases,
+sum(iif(sub_department in (73),1,0)) as Pets_Purchases,
+IIF(SUM(IIF(sub_department in (30), sales_value, NULL))>0,1,0) AS Produce_FruitDV
+
+from transactionsT
+AS tr LEFT JOIN customersT AS cu ON cu.customer_id = tr.customer_id
+where sales_value >=0
+group by till_receipt_number, weekday(transaction_Date), cu_gender,cu_age_range 
