@@ -1,0 +1,3 @@
+SELECT round((sum(sales_value) - sum(cost_amount)),2) AS Profit, transaction_date, weekday(transaction_date) AS week_day
+FROM transactionsT
+GROUP BY transaction_date;

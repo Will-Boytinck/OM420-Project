@@ -1,0 +1,4 @@
+SELECT sub_department, subdepartment_description, count(sub_department)
+FROM transactionsT AS tr LEFT JOIN subdeptsT AS sd ON sd.subdepartment_ID = tr.sub_department
+GROUP BY sub_department, subdepartment_description
+ORDER BY sub_department;
