@@ -1,0 +1,5 @@
+SELECT item_description, special_type, sub_department, round((sum(sales_value) - sum(cost_amount)),2) AS Profit, count(item_description) AS Number_of_Purchases, sum(quantity_sold) as Sum_Of_Qty_Sold
+FROM transactionsT
+where sub_department = 30
+GROUP BY item_description, sub_department, special_type
+ORDER BY sum(quantity_sold) DESC;
