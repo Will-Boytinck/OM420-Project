@@ -1,0 +1,4 @@
+SELECT transactionsT.transaction_date, Weekday(transaction_date) AS week_day, transactionsT.sub_department, Round((Sum(sales_value)-Sum(cost_amount)),2) AS Profit, Count(transactionsT.item_description) AS Number_of_Purchases
+FROM transactionsT
+GROUP BY transactionsT.transaction_date, Weekday(transaction_date), transactionsT.sub_department
+ORDER BY Round((Sum(sales_value)-Sum(cost_amount)),2) DESC;
