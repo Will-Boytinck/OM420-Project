@@ -23,9 +23,8 @@ all_data.test <- all_data.rest[-all_data.validation_indices,]
 k1 <- knn(all_data.train[,-17],all_data.val[,-17], all_data.train[,17], k =1)
 predResults<- table(all_data.val[,17],k1)
 1-sum(diag(predResults))/sum(predResults)
-#tried k35, k100
-#confusion matrix large, hard to guess right one, pick a certain sub department, and then predict the next sub department, 
 
+# Random Forest Begins here
 randomForestData <- read.csv("projectData.csv") #this one is using binary variable, will try this with occurences to see if that makes it better
 randomForestData$Produce_FruitDV <- factor(randomForestData$Produce_FruitDV)
 randomforest.training_indices <- sample(1:nrow(randomForestData), size = percen_train * nrow(randomForestData))
